@@ -332,44 +332,119 @@
         "input_text_color": ""
       }
     },
+    "impact_text_cFGA7y": {
+      "type": "impact-text",
+      "blocks": {
+        "item_rJqFmp": {
+          "type": "item",
+          "settings": {
+            "title": "5,689",
+            "subheading": "+5.600 Lieder mit Liebe komponiert",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_rJqFmp"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "linear-gradient(127deg, rgba(254, 217, 81, 1) 11%, rgba(255, 70, 199, 1) 81%)",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Wie funktioniert es ?",
+            "content": "<p><br/>Um dein personalisiertes Lied zu bestellen, fülle einfach unseren Fragebogen aus, erzähle deine Geschichte und gib die gewünschten Details an. Danach folgt die Bezahlung.<br/><br/>Unser Team startet sofort mit der Arbeit.<br/><br/>Du erhältst einen ersten Liedtext zur Durchsicht – mit <strong>unbegrenzten Anpassungen</strong>, bis du vollkommen zufrieden bist.<br/><br/>Sobald alles fertig ist, senden wir dir das Lied <strong>innerhalb von 24 Arbeitsstunden</strong> per E-Mail zu.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Wie lange dauert es, bis mein Lied fertig ist?",
+            "content": "<p><br/>Dein Lied wird dir <strong>innerhalb von 24 Arbeitsstunden</strong> zugeschickt.<br/><br/>Wir arbeiten schnell, damit du dein einzigartiges, personalisiertes Lied so bald wie möglich genießen kannst.<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Kann ich den Musikstil wählen?",
+            "content": "<p><br/>Natürlich! Du kannst den Musikstil auswählen, der deine Gefühle und Persönlichkeit am besten widerspiegelt.<br/><br/>Wir bieten viele Genres an: Pop, Ballade, Rock, Jazz und mehr.<br/><br/>Gib einfach deine Präferenz im Formular an – wir sorgen dafür, dass das Lied genau den richtigen Ton trifft, um deine Botschaft zu transportieren.<br/><br/></p>"
+          }
+        },
+        "item_hEhKth": {
+          "type": "item",
+          "settings": {
+            "title": "Kann ich Änderungen am Lied vornehmen, nachdem es fertig ist?",
+            "content": "<p><br/>Ja, du kannst Änderungen vornehmen, nachdem du das Lied erhalten hast.<br/><br/>Deine Zufriedenheit ist uns wichtig – deshalb bieten wir <strong>bis zu 3 Überarbeitungen</strong> nach der Lieferung an, um jedes Detail anzupassen und sicherzustellen, dass das Lied genau deinen Erwartungen entspricht.</p>"
+          }
+        },
+        "item_adGgy3": {
+          "type": "item",
+          "settings": {
+            "title": "Kann ich mein Lied in einer anderen Sprache bestellen, z. B. Katalanisch, Französisch oder Englisch?",
+            "content": "<p>Ja, natürlich! 🎶 Wir können den Liedtext in verschiedenen Sprachen anpassen – z. B. Katalanisch, Französisch, Englisch und viele mehr.<br/><br/>Wenn du bereits eine Version in einer anderen Sprache hast, können wir sie übersetzen und so anpassen, dass sie perfekt zur Melodie passt.<br/><br/>Wir können dein Lied auch direkt in der gewünschten Sprache schreiben. Gib dies einfach bei der Bestellung an oder kontaktiere uns nach dem Kauf – wir helfen dir gerne weiter.<br/><br/></p>"
+          }
+        },
+        "item_bJkfqr": {
+          "type": "item",
+          "settings": {
+            "title": "Kann man bestimmte Details in den Liedtext einbauen?",
+            "content": "<p>Auf jeden Fall! Wir können alle gewünschten Details in den Text einbauen – z. B. Namen, Daten, Anekdoten oder besondere Sätze.<br/><br/>Erzähl uns, was deine Geschichte einzigartig macht – und wir verwandeln sie in ein Lied, das jede Emotion widerspiegelt.</p>"
+          }
+        },
+        "item_Ue6JcN": {
+          "type": "item",
+          "settings": {
+            "title": "Wie erhalte ich mein Lied?",
+            "content": "<p><br/>Du bekommst dein Lied direkt per <strong>E-Mail</strong>, innerhalb von <strong>maximal 48 Arbeitsstunden</strong>.<br/><br/>Wir senden dir eine Audiodatei, die du anhören, teilen und als besondere Erinnerung aufbewahren kannst.<br/><br/></p>"
+          }
+        },
+        "item_cdQYJ7": {
+          "type": "item",
+          "settings": {
+            "title": "Könnt ihr das Lied auch in einer anderen Sprache machen?",
+            "content": "<p>Ja, wir können dein Lied auch in anderen Sprachen erstellen. 🎶✨<br/><br/>Gib einfach bei der Bestellung die gewünschte Sprache in der Beschreibung an – unser Team kümmert sich darum, dass das Lied passend angepasst wird.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_hEhKth",
+        "item_adGgy3",
+        "item_bJkfqr",
+        "item_Ue6JcN",
+        "item_cdQYJ7"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "title": "Häufig gestellte Fragen",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Unser Kundenservice ist von Montag bis Freitag, 8:00–20:00 Uhr für dich da.",
+        "answer_time": "Durchschnittliche Antwortzeit: 1 Stunde.",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -383,6 +458,26 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_yx38CT": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Haben Sie eine Frage ?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -394,6 +489,8 @@
     "video_dURhMP",
     "rich_text_QLFiAL",
     "featured-product",
-    "faq"
+    "impact_text_cFGA7y",
+    "faq",
+    "contact_yx38CT"
   ]
 }
