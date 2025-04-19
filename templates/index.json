@@ -99,7 +99,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#fff",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -187,28 +187,62 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
+        "video": "shopify://files/videos/59461ce0a0b54ae486275e4d3d3cfc38.SD-480p-1.0Mbps-40326160.mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
     },
+    "rich_text_QLFiAL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zCpNBQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Einige Ausschnitte aus personalisierten Liedern 👇",
+            "heading_tag": "h3",
+            "text_color": "#5ca466",
+            "gradient": ""
+          }
+        },
+        "heading_3K4Qmb": {
+          "type": "heading",
+          "settings": {
+            "text": "Jetzt bist du dran – erschaffe dein persönliches Lied 👇",
+            "heading_tag": "h2",
+            "text_color": "#5ca466",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_zCpNBQ",
+        "heading_3K4Qmb"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
+        "text_QE4EGE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🎶 <strong>Eine einzigartige Erinnerung für die Ewigkeit</strong><br/>🎁 <strong>Überrasche mit einem originellen Geschenk</strong><br/>✅ <strong>Zufriedenheit garantiert mit 3 KOSTENLOSEN Überarbeitungen</strong><br/>🔊 <strong>Professionell begleitet von einem Tonstudio</strong></p>"
+          }
         },
         "price": {
           "type": "price",
@@ -222,16 +256,6 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -243,37 +267,56 @@
             "size_chart_page": ""
           }
         },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#00a341",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_4jecen": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "✅ Zufriedenheitsgarantie",
+            "content": "<p>Deine Zufriedenheit hat für uns oberste Priorität. Wir bieten <strong>eine kostenlose Überarbeitung</strong> an, um sicherzustellen, dass das Lied deine Gefühle perfekt widerspiegelt und deinen Erwartungen entspricht. ✅</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_pw4pcc": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "✨ Beschreibung",
+            "content": "<h4><strong>Dein Lied, deine Geschichte, deine Emotionen!</strong></h4><p>Verschenke ein einzigartiges Erlebnis mit einem komplett personalisierten Lied – inspiriert von deinen wertvollsten Erinnerungen und Gefühlen.</p><p><strong>Warum unseren Service wählen?</strong><br/><br/>🎵 <strong>Einzigartiges Lied</strong>: Exklusiv für dich komponiert – von leidenschaftlichen Profis.<br/><br/>🎙️ <strong>Unbegrenztes Hören</strong>: Teile dein Lied ganz einfach mit deinen Liebsten.<br/><br/>💌 <strong>Unvergessliche Erinnerung</strong>: Inklusive Songtexten zum Mitsingen, Teilen und Immer-wieder-Erleben.</p><p>Verwandle deine Emotionen in Musik – und erschaffe eine Erinnerung, die für immer im Herzen bleibt.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_NHAT9U": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "📩 Lieferung per E-Mail",
+            "content": "<p><br/>Dein personalisiertes Lied wird dir innerhalb von 24 Stunden direkt per E-Mail zugeschickt – im <strong>WAV-Format (Studioqualität)</strong>.<br/><br/>Genieße unbegrenztes Hören und teile die Datei ganz einfach mit deinen Liebsten. 🎶<br/><br/></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "badges",
+        "text_QE4EGE",
         "price",
         "rating",
-        "separator",
-        "description",
         "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "collapsible_text_4jecen",
+        "collapsible_text_pw4pcc",
+        "collapsible_text_NHAT9U"
       ],
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "vuestra-historia-en-una-cancion-inolvidable",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -349,6 +392,7 @@
     "press_JQNkjg",
     "rich_text_4tL48H",
     "video_dURhMP",
+    "rich_text_QLFiAL",
     "featured-product",
     "faq"
   ]
