@@ -53,23 +53,18 @@
     "logo_list_gAzQJb": {
       "type": "logo-list",
       "blocks": {
-        "logo_WNyEyx": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_TiMKQF": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Spotify-Logo.wine_430x_4f572a7c-5082-4e7a-b981-9e3ab08f677e.webp",
+            "logo_width": 220,
             "link": ""
           }
         },
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/sticker-rolling-stones.png",
             "logo_width": 120,
             "link": ""
           }
@@ -77,6 +72,7 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/deezer-logo-brandlogo.net.png",
             "logo_width": 120,
             "link": ""
           }
@@ -84,13 +80,13 @@
         "logo_MrLBrz": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Apple_Music_icon_svg.png",
             "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_WNyEyx",
         "logo_TiMKQF",
         "logo_Vfh7RV",
         "logo_LNmzD6",
@@ -99,7 +95,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Man hat über uns gesprochen !",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -110,6 +106,91 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_zPwMGA": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Stock_Limite._28.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "press_JQNkjg": {
+      "type": "press",
+      "blocks": {
+        "quote_dYLQt8": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Schenke Freudentränen und Erinnerungen für die Ewigkeit mit einem einzigartigen Lied",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_dYLQt8"
+      ],
+      "custom_css": [
+        ".blockquote {font-weight: 10;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_4tL48H": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QrEAaj": {
+          "type": "heading",
+          "settings": {
+            "text": "Die schönsten Reaktionen unserer Kunden 👇",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_QrEAaj"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_dURhMP": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "featured-product": {
@@ -264,6 +345,10 @@
   "order": [
     "slideshow",
     "logo_list_gAzQJb",
+    "image_with_text_overlay_zPwMGA",
+    "press_JQNkjg",
+    "rich_text_4tL48H",
+    "video_dURhMP",
     "featured-product",
     "faq"
   ]
