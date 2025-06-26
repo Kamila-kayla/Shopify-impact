@@ -15,12 +15,12 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/istockphoto-1363132799-612x612.jpg",
+            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_a_19_04_07.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Verwandle deine Gefühle in ein einzigartiges und unvergessliches Lied.",
+            "title": "Dites adieu aux gênes intimes : fraîcheur, confort & équilibre",
             "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
@@ -56,7 +56,6 @@
         "logo_TiMKQF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Spotify-Logo.wine_430x_4f572a7c-5082-4e7a-b981-9e3ab08f677e.webp",
             "logo_width": 220,
             "link": ""
           }
@@ -64,7 +63,6 @@
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/sticker-rolling-stones.png",
             "logo_width": 120,
             "link": ""
           }
@@ -72,7 +70,6 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/deezer-logo-brandlogo.net.png",
             "logo_width": 120,
             "link": ""
           }
@@ -80,7 +77,6 @@
         "logo_MrLBrz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Apple_Music_icon_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,7 +111,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Stock_Limite._28.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -187,7 +182,6 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "",
         "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -332,41 +326,6 @@
         "input_text_color": ""
       }
     },
-    "impact_text_cFGA7y": {
-      "type": "impact-text",
-      "blocks": {
-        "item_rJqFmp": {
-          "type": "item",
-          "settings": {
-            "title": "5,689",
-            "subheading": "+5.600 Lieder mit Liebe komponiert",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_rJqFmp"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "linear-gradient(127deg, rgba(254, 217, 81, 1) 11%, rgba(255, 70, 199, 1) 81%)",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -489,7 +448,6 @@
     "video_dURhMP",
     "rich_text_QLFiAL",
     "featured-product",
-    "impact_text_cFGA7y",
     "faq",
     "contact_yx38CT"
   ]
