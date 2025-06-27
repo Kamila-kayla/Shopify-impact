@@ -384,6 +384,13 @@
             "title": "Quels sont les ingrédients ?",
             "content": "<p>Formule 100 % naturelle à base de <strong>probiotiques, extrait d’ananas</strong>, sans sucre, <strong>vegan</strong>, <strong>sans gluten</strong>, <strong>sans gélatine</strong>.</p>"
           }
+        },
+        "item_jf3xAB": {
+          "type": "item",
+          "settings": {
+            "title": "Comment ces gummies agissent-ils sur le pH vaginal ?",
+            "content": "<p>Ils favorisent le maintien d’un <strong>pH naturel et stable</strong>, limitant ainsi les déséquilibres qui provoquent des inconforts ou des odeurs.</p>"
+          }
         }
       },
       "block_order": [
@@ -394,7 +401,8 @@
         "item_adGgy3",
         "item_bJkfqr",
         "item_Ue6JcN",
-        "item_cdQYJ7"
+        "item_cdQYJ7",
+        "item_jf3xAB"
       ],
       "settings": {
         "full_width": false,
