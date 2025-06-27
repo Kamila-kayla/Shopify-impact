@@ -360,8 +360,8 @@
         "item_adGgy3": {
           "type": "item",
           "settings": {
-            "title": "Kann ich mein Lied in einer anderen Sprache bestellen, z. B. Katalanisch, Französisch oder Englisch?",
-            "content": "<p>Ja, natürlich! 🎶 Wir können den Liedtext in verschiedenen Sprachen anpassen – z. B. Katalanisch, Französisch, Englisch und viele mehr.<br/><br/>Wenn du bereits eine Version in einer anderen Sprache hast, können wir sie übersetzen und so anpassen, dass sie perfekt zur Melodie passt.<br/><br/>Wir können dein Lied auch direkt in der gewünschten Sprache schreiben. Gib dies einfach bei der Bestellung an oder kontaktiere uns nach dem Kauf – wir helfen dir gerne weiter.<br/><br/></p>"
+            "title": "Est-ce que c’est sans sucre ?",
+            "content": "<p>Oui, les gummies sont <strong>sans sucre ajouté</strong>, ce qui les rend compatibles avec une alimentation saine et les personnes sensibles.</p>"
           }
         },
         "item_bJkfqr": {
