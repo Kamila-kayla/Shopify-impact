@@ -76,25 +76,17 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_MrLBrz": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_TiMKQF",
         "logo_Vfh7RV",
-        "logo_LNmzD6",
-        "logo_MrLBrz"
+        "logo_LNmzD6"
       ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Man hat über uns gesprochen !",
+        "title": "Vue sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
