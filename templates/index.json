@@ -212,20 +212,10 @@
             "text_color": "#5ca466",
             "gradient": ""
           }
-        },
-        "heading_3K4Qmb": {
-          "type": "heading",
-          "settings": {
-            "text": "Jetzt bist du dran – erschaffe dein persönliches Lied 👇",
-            "heading_tag": "h2",
-            "text_color": "#5ca466",
-            "gradient": ""
-          }
         }
       },
       "block_order": [
-        "heading_zCpNBQ",
-        "heading_3K4Qmb"
+        "heading_zCpNBQ"
       ],
       "settings": {
         "full_width": true,
@@ -242,13 +232,13 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h4"
+            "heading_tag": "h3"
           }
         },
         "text_QE4EGE": {
           "type": "text",
           "settings": {
-            "text": "<p>🎶 <strong>Eine einzigartige Erinnerung für die Ewigkeit</strong><br/>🎁 <strong>Überrasche mit einem originellen Geschenk</strong><br/>✅ <strong>Zufriedenheit garantiert mit 3 KOSTENLOSEN Überarbeitungen</strong><br/>🔊 <strong>Professionell begleitet von einem Tonstudio</strong></p>"
+            "text": ""
           }
         },
         "price": {
@@ -323,7 +313,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "vuestra-historia-en-una-cancion-inolvidable",
+        "product": "floreya-dis-adieu-aux-odeurs-aux-genes-et-aux-inconforts-intime",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
