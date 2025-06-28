@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_a_19_04_07.png",
-            "content_max_width": 780,
+            "content_max_width": 1080,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
@@ -85,11 +85,11 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vue sur :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 5,
+        "items_per_row": 3,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -171,6 +171,7 @@
         "item_C3qbjj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PH3.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -206,7 +207,7 @@
         "heading_zCpNBQ": {
           "type": "heading",
           "settings": {
-            "text": "Einige Ausschnitte aus personalisierten Liedern 👇",
+            "text": "",
             "heading_tag": "h3",
             "text_color": "#5ca466",
             "gradient": ""
