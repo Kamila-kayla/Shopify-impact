@@ -56,6 +56,7 @@
         "logo_TiMKQF": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_2.png",
             "logo_width": 220,
             "link": ""
           }
@@ -63,13 +64,15 @@
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ChatGPT_Image_27_juin_2025_a_22_51_26.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -116,38 +119,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "press_JQNkjg": {
-      "type": "press",
-      "blocks": {
-        "quote_dYLQt8": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Schenke Freudentränen und Erinnerungen für die Ewigkeit mit einem einzigartigen Lied",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_dYLQt8"
-      ],
-      "custom_css": [
-        ".blockquote {font-weight: 10;}"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "rich_text_4tL48H": {
@@ -451,7 +422,6 @@
     "slideshow",
     "logo_list_gAzQJb",
     "image_with_text_overlay_zPwMGA",
-    "press_JQNkjg",
     "rich_text_4tL48H",
     "video_dURhMP",
     "rich_text_QLFiAL",
