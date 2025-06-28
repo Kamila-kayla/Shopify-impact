@@ -359,6 +359,46 @@
         "input_text_color": ""
       }
     },
+    "rich_text_dPCJtM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_aq8z6j": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_WDwpLJ": {
+          "type": "heading",
+          "settings": {
+            "text": "La nature au service de votre équilibre intime",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_zgrk6D": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_aq8z6j",
+        "heading_WDwpLJ",
+        "richtext_zgrk6D"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_3L66n7": {
       "type": "multi-column",
       "blocks": {
@@ -550,6 +590,7 @@
     "multi_column_yFTYac",
     "rich_text_QLFiAL",
     "featured-product",
+    "rich_text_dPCJtM",
     "multi_column_3L66n7",
     "faq",
     "contact_yx38CT"
