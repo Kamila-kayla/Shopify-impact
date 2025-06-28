@@ -155,6 +155,19 @@
             "link_style": "link"
           }
         },
+        "item_TtdjWG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PH6.png",
+            "column_size": "3",
+            "title": "Camille . D",
+            "heading_tag": "h4",
+            "content": "<p>j'ai remarqué une réduction significative des odeurs indésirables et je me sens beaucoup plus équilibrée. Ils ont un goût délicieux, ce qui les rend faciles à prendre et ils fonctionnent vraiment ! Ma confiance en moi s'est nettement améliorée et je me sens beaucoup plus à l'aise. Je les recommande vivement à tous ceux qui recherchent une solution facile, savoureuse et efficace !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_ULe6U3": {
           "type": "item",
           "settings": {
@@ -181,14 +194,14 @@
             "link_style": "link"
           }
         },
-        "item_TtdjWG": {
+        "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/PH6.png",
+            "image": "shopify://shop_images/ph7.png",
             "column_size": "3",
-            "title": "Camille . D",
+            "title": "Inès .T",
             "heading_tag": "h4",
-            "content": "<p>j'ai remarqué une réduction significative des odeurs indésirables et je me sens beaucoup plus équilibrée. Ils ont un goût délicieux, ce qui les rend faciles à prendre et ils fonctionnent vraiment ! Ma confiance en moi s'est nettement améliorée et je me sens beaucoup plus à l'aise. Je les recommande vivement à tous ceux qui recherchent une solution facile, savoureuse et efficace !</p>",
+            "content": "<p><strong>Ça a changé ma vie intime</strong><em> . Fini les odeurs, fini les petites infections qui revenaient sans arrêt. Ces gummies sont devenus ma routine essentielle. Mon corps me remercie !</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -197,9 +210,10 @@
       },
       "block_order": [
         "item_JdPmpa",
+        "item_TtdjWG",
         "item_ULe6U3",
         "item_jGUfjL",
-        "item_TtdjWG"
+        "item_8dUY7R"
       ],
       "name": "Multi-column",
       "settings": {
