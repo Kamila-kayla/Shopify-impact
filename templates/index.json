@@ -167,11 +167,25 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_jGUfjL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PH5.png",
+            "column_size": "3",
+            "title": "Sarah . M",
+            "heading_tag": "h4",
+            "content": "<p>J'ai remarqué une réelle amélioration de mon équilibre du pH et je me sens fraîche toute la journée, tous les jours. Le meilleur dans tout ça ? Ils sont biologiques, donc je n'ai pas à me soucier d'ingrédients bizarres. Il est rare de trouver un produit qui fonctionne aussi bien et qui est également agréable à prendre.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_JdPmpa",
-        "item_ULe6U3"
+        "item_ULe6U3",
+        "item_jGUfjL"
       ],
       "name": "Multi-column",
       "settings": {
