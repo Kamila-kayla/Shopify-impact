@@ -99,6 +99,46 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_zPwMGA": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Fini_les_mauvaises_odeurs.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_4tL48H": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QrEAaj": {
+          "type": "heading",
+          "settings": {
+            "text": "Des milliers de femmes qui ont transformé leurs vie intime",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_QrEAaj"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_yFTYac": {
       "type": "multi-column",
       "blocks": {
@@ -153,46 +193,6 @@
         "subheading": "About",
         "title": "Featured content",
         "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_zPwMGA": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Fini_les_mauvaises_odeurs.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "rich_text_4tL48H": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_QrEAaj": {
-          "type": "heading",
-          "settings": {
-            "text": "Des milliers de femmes qui ont transformé leurs vie intime",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_QrEAaj"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -460,9 +460,9 @@
   "order": [
     "slideshow",
     "logo_list_gAzQJb",
-    "multi_column_yFTYac",
     "image_with_text_overlay_zPwMGA",
     "rich_text_4tL48H",
+    "multi_column_yFTYac",
     "rich_text_QLFiAL",
     "featured-product",
     "faq",
