@@ -138,19 +138,6 @@
         "text_color": ""
       }
     },
-    "video_dURhMP": {
-      "type": "video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_QLFiAL": {
       "type": "rich-text",
       "blocks": {
@@ -415,7 +402,6 @@
     "logo_list_gAzQJb",
     "image_with_text_overlay_zPwMGA",
     "rich_text_4tL48H",
-    "video_dURhMP",
     "rich_text_QLFiAL",
     "featured-product",
     "faq",
