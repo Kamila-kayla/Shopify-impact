@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#00b67b",
             "icon_color": "#ffffff",
-            "title": "Kundenservice rund um die Uhr (24/7)",
+            "title": "",
             "content": ""
           }
         },
@@ -76,7 +76,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "title": "",
+        "title": "Livraison gratuite",
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
