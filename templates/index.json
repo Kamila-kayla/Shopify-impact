@@ -637,7 +637,7 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
+        "button_background": "#c3a6e0",
         "button_text_color": ""
       }
     }
