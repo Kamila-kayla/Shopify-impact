@@ -651,6 +651,83 @@
             "title": "",
             "content": "<p>J’ai toujours eu peur que mon odeur gêne mon partenaire. Aujourd’hui, je me sens bien dans mon corps, et ça change tout.</p>"
           }
+        },
+        "testimonial_cUM3mK": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Aurelie B",
+            "title": "",
+            "content": "<p>J’ai arrêté tous les produits agressifs, Floreya me suffit. C’est doux, efficace et ça respecte mon corps.</p>"
+          }
+        },
+        "testimonial_Yk6eYp": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_K4pR6R": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_iPtdFt": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_TNAFyh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_e3YrPi": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_qE4dAG": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
         }
       },
       "block_order": [
@@ -661,7 +738,14 @@
         "testimonial_FG3NxX",
         "testimonial_hBf4Lp",
         "testimonial_4mz3eA",
-        "testimonial_9BnPAX"
+        "testimonial_9BnPAX",
+        "testimonial_cUM3mK",
+        "testimonial_Yk6eYp",
+        "testimonial_K4pR6R",
+        "testimonial_iPtdFt",
+        "testimonial_TNAFyh",
+        "testimonial_e3YrPi",
+        "testimonial_qE4dAG"
       ],
       "name": "Testimonials",
       "settings": {
