@@ -629,6 +629,17 @@
             "title": "",
             "content": "<p>Plus de démangeaisons, plus de sensations bizarres. Je n’avais pas réalisé à quel point mon confort intime influençait mon humeur.</p>"
           }
+        },
+        "testimonial_4mz3eA": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Elodie L",
+            "title": "",
+            "content": "<p>C’est bête à dire, mais je me sens féminine, propre et légère. Comme si tout était à sa place.</p>"
+          }
         }
       },
       "block_order": [
@@ -637,7 +648,8 @@
         "testimonial_iTzVQf",
         "testimonial_Dn6AJa",
         "testimonial_FG3NxX",
-        "testimonial_hBf4Lp"
+        "testimonial_hBf4Lp",
+        "testimonial_4mz3eA"
       ],
       "name": "Testimonials",
       "settings": {
