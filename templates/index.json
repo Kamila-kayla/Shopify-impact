@@ -326,7 +326,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Conseil d'utilisation",
-            "content": "<p>2  gummies par jour</p>",
+            "content": "<p>2  gummies par jour </p>",
             "page": ""
           }
         }
