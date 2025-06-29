@@ -640,6 +640,17 @@
             "title": "",
             "content": "<p>C’est bête à dire, mais je me sens féminine, propre et légère. Comme si tout était à sa place.</p>"
           }
+        },
+        "testimonial_9BnPAX": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Lina K",
+            "title": "",
+            "content": "<p>J’ai toujours eu peur que mon odeur gêne mon partenaire. Aujourd’hui, je me sens bien dans mon corps, et ça change tout.</p>"
+          }
         }
       },
       "block_order": [
@@ -649,7 +660,8 @@
         "testimonial_Dn6AJa",
         "testimonial_FG3NxX",
         "testimonial_hBf4Lp",
-        "testimonial_4mz3eA"
+        "testimonial_4mz3eA",
+        "testimonial_9BnPAX"
       ],
       "name": "Testimonials",
       "settings": {
