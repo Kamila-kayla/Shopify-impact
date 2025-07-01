@@ -295,6 +295,14 @@
             "size_chart_page": ""
           }
         },
+        "image_C4EcG7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PromotionFLOREYA.png",
+            "alignment": "center",
+            "max_width": 360
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -336,6 +344,7 @@
         "text_QE4EGE",
         "rating",
         "variant-picker",
+        "image_C4EcG7",
         "buy-buttons",
         "collapsible_text_4jecen",
         "collapsible_text_pw4pcc",
