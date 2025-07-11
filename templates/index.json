@@ -15,12 +15,12 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_a_19_04_07.png",
-            "content_max_width": 1080,
+            "image": "shopify://shop_images/banniere_body.png",
+            "content_max_width": 860,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Combien de solutions avez-vous essayé ? dites adieu aux gênes intimes : fraîcheur, confort & équilibre",
+            "title": "",
             "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
@@ -28,7 +28,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 6,
             "background": "",
             "background_gradient": ""
           }
@@ -64,7 +64,7 @@
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_27_juin_2025_a_22_51_26.png",
+            "logo": "shopify://shop_images/elle.png",
             "logo_width": 300,
             "link": ""
           }
@@ -72,15 +72,14 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/bazar_trans.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_JHwing": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -115,7 +114,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Fini_les_mauvaises_odeurs_mauves.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -154,7 +152,6 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ph2.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
@@ -167,7 +164,6 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/PH6.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -180,7 +176,6 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gummies_ph.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
@@ -193,7 +188,6 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/PH5.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
@@ -206,7 +200,6 @@
         "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ph7.png",
             "column_size": "3",
             "title": "Inès .T",
             "heading_tag": "h4",
@@ -298,7 +291,6 @@
         "image_C4EcG7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PromotionFLOREYA.png",
             "alignment": "center",
             "max_width": 360
           }
@@ -414,7 +406,6 @@
         "item_Tgm9dx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_15_04.png",
             "column_size": "3",
             "title": "Extrait d'Ananas",
             "heading_tag": "h4",
@@ -427,7 +418,6 @@
         "item_zL344B": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_05_45.png",
             "column_size": "3",
             "title": "bacillus coagulans",
             "heading_tag": "h4",
@@ -440,7 +430,6 @@
         "item_r9MdaC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_24_57.png",
             "column_size": "3",
             "title": "Vitamines C",
             "heading_tag": "h4",

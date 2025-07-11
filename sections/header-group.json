@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_cnWFqY": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement sécurisé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_cnWFqY"
       ],
       "settings": {
         "enable_sticky": false,
@@ -32,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#c3a6e0",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -42,7 +50,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Floreya.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
