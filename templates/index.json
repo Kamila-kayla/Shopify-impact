@@ -522,6 +522,13 @@
             "content": "<p>Oui. Il a été pensé pour pouvoir être porté sans soutien-gorge. Grâce à sa coupe et sa matière galbante, il maintient la poitrine tout en assurant un rendu naturel et élégant.</p>"
           }
         },
+        "item_LbX69B": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça va tenir ma poitrine ou aplatir mes formes ?",
+            "content": "<p>Il ne tasse pas la poitrine, au contraire : il la <strong>maintient naturellement sans l’écraser</strong>. La coupe épouse les formes tout en les valorisant, et les bretelles réglables (et amovibles) permettent d’ajuster le maintien selon votre morphologie.</p>"
+          }
+        },
         "item_bJkfqr": {
           "type": "item",
           "settings": {
@@ -551,6 +558,7 @@
         "item_CjjXd8",
         "item_hEhKth",
         "item_adGgy3",
+        "item_LbX69B",
         "item_bJkfqr",
         "item_Ue6JcN",
         "item_WQq4HJ"
