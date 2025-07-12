@@ -501,6 +501,13 @@
             "content": "<p>Non. Le tissu a été soigneusement sélectionné pour rester opaque, même après immersion. Vous pouvez le porter en maillot de bain en toute confiance.</p>"
           }
         },
+        "item_CjjXd8": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça sèche bien après la baignade ?",
+            "content": "<p>Oui. Le tissu utilisé a été sélectionné pour sa <strong>capacité de séchage rapide</strong>. Il ne retient pas l’eau et reste confortable même après une baignade, ce qui en fait une pièce idéale pour passer de la plage à la ville sans inconfort.</p>"
+          }
+        },
         "item_hEhKth": {
           "type": "item",
           "settings": {
@@ -541,6 +548,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-0",
         "166442457738b23caf-2",
+        "item_CjjXd8",
         "item_hEhKth",
         "item_adGgy3",
         "item_bJkfqr",
