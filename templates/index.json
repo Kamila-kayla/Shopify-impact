@@ -76,25 +76,17 @@
             "logo_width": 300,
             "link": ""
           }
-        },
-        "logo_JHwing": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_TiMKQF",
         "logo_Vfh7RV",
-        "logo_LNmzD6",
-        "logo_JHwing"
+        "logo_LNmzD6"
       ],
       "settings": {
         "full_width": false,
         "stack_mobile": true,
-        "title": "Vue sur :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 3,
@@ -191,7 +183,7 @@
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
-            "content": "<p>J'ai remarqué une réelle amélioration de mon équilibre du pH et je me sens fraîche toute la journée, tous les jours. Le meilleur dans tout ça ? Ils sont biologiques, donc je n'ai pas à me soucier d'ingrédients bizarres. Il est rare de trouver un produit qui fonctionne aussi bien et qui est également agréable à prendre.</p>",
+            "content": "<p><em>Il galbe sans compresser. Je me sens bien dedans, et même à la plage c’était hyper classe.</em></p><p></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -208,6 +200,18 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_KCiTpp": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -215,7 +219,8 @@
         "item_TtdjWG",
         "item_ULe6U3",
         "item_jGUfjL",
-        "item_8dUY7R"
+        "item_8dUY7R",
+        "item_KCiTpp"
       ],
       "name": "Multi-column",
       "settings": {
