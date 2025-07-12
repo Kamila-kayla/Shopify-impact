@@ -467,18 +467,18 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-il à toutes les morphologies ?",
+            "content": "<p>Oui. Grâce à sa matière stretch et sa coupe étudiée, il s’adapte à toutes les silhouettes. Que vous ayez une morphologie en A, H, 8 ou O, il galbe là où il faut tout en valorisant vos courbes naturelles.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
             "title": "Puis-je le porter toute la journée sans gêne ?",
             "content": "<p>Oui, absolument. Notre body a été conçu pour offrir un maintien sculptant tout en restant confortable. Il épouse vos courbes sans comprimer, ce qui le rend agréable à porter toute la journée, que ce soit en intérieur, en extérieur ou à la plage.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "Combien de temps avant de ressentir les effets ?",
-            "content": "<p>Les premiers effets sont généralement ressentis entre <strong>7 et 10 jours</strong>, notamment au niveau de la fraîcheur et du confort intime. Pour un rééquilibrage en profondeur, nous recommandons une cure d'au moins <strong>1 à 3 mois</strong>.</p>"
           }
         },
         "166442457738b23caf-2": {
@@ -532,8 +532,8 @@
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
         "166442457738b23caf-1",
+        "166442457738b23caf-0",
         "166442457738b23caf-2",
         "item_hEhKth",
         "item_adGgy3",
