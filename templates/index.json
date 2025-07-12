@@ -348,6 +348,14 @@
             "content": "<p>2  gummies par jour </p>",
             "page": ""
           }
+        },
+        "image_dBBFCp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge.pdfbody.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -359,7 +367,8 @@
         "buy-buttons",
         "collapsible_text_4jecen",
         "collapsible_text_pw4pcc",
-        "collapsible_text_NHAT9U"
+        "collapsible_text_NHAT9U",
+        "image_dBBFCp"
       ],
       "settings": {
         "full_width": true,
