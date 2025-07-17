@@ -195,10 +195,11 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ph7_fca0d6ef-e7ba-4eba-b389-c9e2b2491f5f.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
-            "content": "<p><em>Il galbe sans compresser. Je me sens bien dedans, et même à la plage c’était hyper classe.</em></p><p></p>",
+            "content": "<p>Je pensais que c’était encore un produit marketing’… mais les effets sont là, et je sens que c’est mon corps qui travaille naturellement.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -207,10 +208,11 @@
         "item_8dUY7R": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PH3.png",
             "column_size": "3",
             "title": "Inès .T",
             "heading_tag": "h4",
-            "content": "<p><em>c’est devenu mon indispensable. Je le porte même avec une veste en soirée, il fait tout !</em></p>",
+            "content": "<p>J’avais tout essayé, même les antibiotiques. Là, j’ai enfin trouvé quelque chose de naturel, que je peux prendre tous les jours sans me poser de questions.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
