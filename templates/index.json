@@ -143,6 +143,7 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PH5.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
@@ -158,7 +159,7 @@
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
-            "content": "<p>J’ai reçu le noir et le chocolat. Les deux sont canons. Portés avec un jean ou en maillot, je me sens féminine sans être moulée comme une saucisse</p>",
+            "content": "<p>Je suis très sensible et je réagis vite aux produits… mais là, aucun effet secondaire, c’est doux et bien toléré. Ma gynéco m’a même dit que la formule était très bien pensée.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
