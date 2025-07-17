@@ -501,6 +501,19 @@
         "text_color": ""
       }
     },
+    "custom_html_UUEAbY": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<!-- Intégration de la police Poppins -->\n<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div style=\"font-family: 'Poppins', sans-serif; display: flex; align-items: center; justify-content: center; gap: 40px; padding: 40px 20px; flex-wrap: wrap; background-color: #fdfafa;\">\n  <!-- Image -->\n  <div style=\"flex: 1; min-width: 300px; max-width: 400px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/5790/4971/files/docteur_uterus.png?v=1752783747\" alt=\"Médecin Floreya\" style=\"width: 100%; border-radius: 16px;\">\n  </div>\n\n  <!-- Texte -->\n  <div style=\"flex: 1; min-width: 300px; max-width: 600px;\">\n    <h2 style=\"font-size: 24px; font-weight: 600; margin-bottom: 20px;\">L’analyse d’un spécialiste sur les troubles intimes féminins</h2>\n    <p style=\"font-size: 16px; line-height: 1.6;\">\n      <strong>Beaucoup de femmes vivent avec des gênes intimes sans vraiment comprendre pourquoi.</strong> En réalité, tout part souvent d’un <strong>déséquilibre de la flore</strong> ou d’un <strong>pH vaginal perturbé</strong>.<br><br>\n      <strong>Floreya agit à la racine</strong> : elle <strong>rééquilibre naturellement</strong>, <strong>apaise les inconforts</strong> et <strong>réduit les récidives</strong> sans agresser l’intimité.  \n      <br><br>Mes patientes ressentent un changement dès les premiers jours. Et moi, <strong>je le recommande sans hésiter </strong>.<br><br>\n      <em> Dr. M. Schneider, Gynécologue</em>\n    </p>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -844,6 +857,7 @@
     "featured-product",
     "rich_text_dPCJtM",
     "multi_column_3L66n7",
+    "custom_html_UUEAbY",
     "faq",
     "testimonials_fdaMNt",
     "contact_yx38CT"
