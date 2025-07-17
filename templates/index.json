@@ -156,6 +156,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ph2.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -171,7 +172,7 @@
             "column_size": "3",
             "title": "Lina .K",
             "heading_tag": "h4",
-            "content": "<p>C’est la première fois que je me sens aussi à l’aise dans un body</p>",
+            "content": "<p>J’ai souvent des infections à répétition. Depuis que je prends Floreya, plus rien. C’est la première fois que je me sens équilibrée aussi longtemps.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
