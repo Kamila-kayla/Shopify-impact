@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banniere_body.png",
+            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_a_19_04_07.png",
             "content_max_width": 860,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -64,7 +64,6 @@
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle.png",
             "logo_width": 300,
             "link": ""
           }
@@ -72,7 +71,6 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/bazar_trans.png",
             "logo_width": 300,
             "link": ""
           }
@@ -106,7 +104,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benef_body.png",
+        "image": "shopify://shop_images/Fini_les_mauvaises_odeurs_mauves.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -352,7 +350,6 @@
         "image_dBBFCp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge.pdfbody.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -434,6 +431,7 @@
         "item_Tgm9dx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_15_04.png",
             "column_size": "3",
             "title": "Extrait d'Ananas",
             "heading_tag": "h4",
@@ -446,6 +444,7 @@
         "item_zL344B": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_05_45.png",
             "column_size": "3",
             "title": "bacillus coagulans",
             "heading_tag": "h4",
@@ -458,6 +457,7 @@
         "item_r9MdaC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_24_57.png",
             "column_size": "3",
             "title": "Vitamines C",
             "heading_tag": "h4",
