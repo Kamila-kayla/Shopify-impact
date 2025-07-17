@@ -182,6 +182,7 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PH6.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
