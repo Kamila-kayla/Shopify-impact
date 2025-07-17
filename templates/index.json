@@ -118,8 +118,8 @@
         "heading_QrEAaj": {
           "type": "heading",
           "settings": {
-            "text": "Des femmes en parlent. La science le prouve. Votre corps le ressent.",
-            "heading_tag": "h3",
+            "text": "Validé par la science, confirmé par les femmes",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -169,8 +169,9 @@
         "item_QxqAqQ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gummies_ph.png",
             "column_size": "3",
-            "title": "Lina .K",
+            "title": "Luna .K",
             "heading_tag": "h4",
             "content": "<p>J’ai souvent des infections à répétition. Depuis que je prends Floreya, plus rien. C’est la première fois que je me sens équilibrée aussi longtemps.</p>",
             "link_url": "",
