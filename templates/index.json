@@ -221,10 +221,11 @@
         "item_KCiTpp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gummies_intime.png",
             "column_size": "3",
             "title": "Carla .S",
             "heading_tag": "h4",
-            "content": "<p>Ce que j’adore, c’est qu’il ne roule pas à la taille. Même après une baignade ou une journée entière, il reste en place. Et ça c’est précieux.</p>",
+            "content": "<p>C’est devenu mon petit rituel du soir. J’en prends deux, et je sais que je fais quelque chose de bien pour moi, sans stress.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
