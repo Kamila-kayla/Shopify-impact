@@ -64,6 +64,7 @@
         "logo_Vfh7RV": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 300,
             "link": ""
           }
@@ -71,6 +72,7 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_sante.png",
             "logo_width": 300,
             "link": ""
           }
