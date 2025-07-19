@@ -359,7 +359,7 @@
         "image_TNYzQj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge.pdfbody.png",
+            "image": "shopify://shop_images/badge_transparent.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -416,7 +416,7 @@
       "settings": {
         "full_width": true,
         "product": "floreya-dis-adieu-aux-odeurs-aux-genes-et-aux-inconforts-intime",
-        "desktop_media_width": 55,
+        "desktop_media_width": 40,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
