@@ -294,7 +294,7 @@
         "text_bCbinF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Sensation de fraîcheur durable</strong></p><p><strong>Moins de gênes et de déséquilibres récurrents</strong></p><p> <strong>Hydratation intime favorisée naturellement</strong></p><p><strong>100 % naturels, sans sucre ni additifs</strong></p><p> <strong>Testées et approuvées par des femmes et des spécialistes</strong></p>"
+            "text": "<p><strong>Sensation de fraîcheur durable</strong></p><p><strong>Moins de gênes et de déséquilibres récurrents</strong></p><p> <strong>Hydratation intime favorisée naturellement</strong></p><p><strong>100 % naturels, sans sucre ni additifs</strong></p><p> <strong>Testées et approuvées par des femmes et des spécialistes</strong></p><p><strong>Satisfait ou remboursé </strong></p><p></p>"
           }
         },
         "text_QE4EGE": {
@@ -348,7 +348,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/badge.pdfbody.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
