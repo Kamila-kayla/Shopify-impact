@@ -364,14 +364,6 @@
             "max_width": 500
           }
         },
-        "collapsible_text_4jecen": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Garantie satisfait ou remboursé",
-            "content": "<p>Chez Floreya nous croyons fermement en l'efficacité de nos produits, c'est pourquoi nous vous offrons une garantie satisfait ou remboursé valable pendant 60 jours après la réception de votre commande .</p><p><strong> Condition</strong>s : la cure doit être suivie dans son intégralité avec une utilisation régulière. Les résultats peuvent varier d'une personne à une autre.</p><p>essayer, sans risque parce que votre confort intime mérite toute notre attention</p>",
-            "page": ""
-          }
-        },
         "collapsible_text_pw4pcc": {
           "type": "collapsible_text",
           "settings": {
@@ -384,7 +376,15 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Conseil d'utilisation",
-            "content": "<p>2  gummies par jour </p>",
+            "content": "<p>Prenez <strong>2 gummies par jour</strong>, avec ou sans repas. Pour des résultats visibles, une <strong>cure d’au moins 3 mois </strong>est recommandée.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_4jecen": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie satisfait ou remboursé",
+            "content": "<p>Chez Floreya nous croyons fermement en l'efficacité de nos produits, c'est pourquoi nous vous offrons une garantie satisfait ou remboursé valable pendant 60 jours après la réception de votre commande .</p><p><strong> Condition</strong>s : la cure doit être suivie dans son intégralité avec une utilisation régulière. Les résultats peuvent varier d'une personne à une autre.</p><p>essayer, sans risque parce que votre confort intime mérite toute notre attention</p>",
             "page": ""
           }
         },
@@ -408,9 +408,9 @@
         "liquid_wTkBJ9",
         "buy-buttons",
         "image_TNYzQj",
-        "collapsible_text_4jecen",
         "collapsible_text_pw4pcc",
         "collapsible_text_NHAT9U",
+        "collapsible_text_4jecen",
         "image_dBBFCp"
       ],
       "settings": {
