@@ -291,12 +291,6 @@
             "heading_tag": "h3"
           }
         },
-        "liquid_wTkBJ9": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Unique Notification</title>\n<style>\n  @keyframes unique-glow-Ytr849 {\n    0% { box-shadow: 0 0 5px 0 rgba(255, 0, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(255, 0, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(255, 0, 0, 0.7); }\n  }\n\n  .unique-circle-Hjk632 {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #8b0000; /* Daha koyu kırmızı renk */\n    display: inline-block;\n    animation: unique-glow-Ytr849 1s infinite ease-in-out; /* 1s süreyle hızlandırılmış ışık saçma animasyonu */\n  }\n\n  .unique-container-Plm987 {\n    background-color: #ffe6e6;\n    border: 1px solid #E2E2E2;\n    border-radius: 10px;\n    padding: 10px;\n    margin-top: 5px;\n    margin-bottom: 5px;\n    position: relative;\n    overflow: hidden;\n  }\n\n  .unique-text-Bvc123 {\n    margin-left: 10px;\n    font-size: 13px;\n  }\n</style>\n</head>\n<body>\n\n<div class=\"unique-container-Plm987\">\n  <div class=\"unique-circle-Hjk632\"></div>\n  <span class=\"unique-text-Bvc123\">Plus que 5 en stock!</span>\n</div>\n\n</body>\n</html>"
-          }
-        },
         "text_bCbinF": {
           "type": "text",
           "settings": {
@@ -339,10 +333,10 @@
             "product": "{{section.settings.product}}"
           }
         },
-        "liquid_8FEthh": {
+        "liquid_wTkBJ9": {
           "type": "liquid",
           "settings": {
-            "liquid": "{% assign stock = product.variants.first.inventory_quantity %}\n\n{% if stock <= 5 and stock > 0 %}\n  <div style=\"color: red; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    🔴 Plus que {{ stock }} en stock !\n  </div>\n{% elsif stock == 0 %}\n  <div style=\"color: grey; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    ❌ Rupture de stock temporaire\n  </div>\n{% endif %}"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Unique Notification</title>\n<style>\n  @keyframes unique-glow-Ytr849 {\n    0% { box-shadow: 0 0 5px 0 rgba(255, 0, 0, 0.7); }\n    50% { box-shadow: 0 0 15px 5px rgba(255, 0, 0, 0.5); }\n    100% { box-shadow: 0 0 5px 0 rgba(255, 0, 0, 0.7); }\n  }\n\n  .unique-circle-Hjk632 {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background-color: #8b0000; /* Daha koyu kırmızı renk */\n    display: inline-block;\n    animation: unique-glow-Ytr849 1s infinite ease-in-out; /* 1s süreyle hızlandırılmış ışık saçma animasyonu */\n  }\n\n  .unique-container-Plm987 {\n    background-color: #ffe6e6;\n    border: 1px solid #E2E2E2;\n    border-radius: 10px;\n    padding: 10px;\n    margin-top: 5px;\n    margin-bottom: 5px;\n    position: relative;\n    overflow: hidden;\n  }\n\n  .unique-text-Bvc123 {\n    margin-left: 10px;\n    font-size: 13px;\n  }\n</style>\n</head>\n<body>\n\n<div class=\"unique-container-Plm987\">\n  <div class=\"unique-circle-Hjk632\"></div>\n  <span class=\"unique-text-Bvc123\">Plus que 5 en stock!</span>\n</div>\n\n</body>\n</html>"
           }
         },
         "buy-buttons": {
@@ -398,14 +392,13 @@
       },
       "block_order": [
         "title",
-        "liquid_wTkBJ9",
         "text_bCbinF",
         "text_QE4EGE",
         "rating",
         "variant-picker",
         "image_C4EcG7",
         "kaching_bundles_app_block_MCjPfD",
-        "liquid_8FEthh",
+        "liquid_wTkBJ9",
         "buy-buttons",
         "image_TNYzQj",
         "collapsible_text_4jecen",
