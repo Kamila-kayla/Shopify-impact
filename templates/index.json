@@ -285,16 +285,16 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_3PEm8c": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Avis Trustpilot</title>\n  <style>\n    .trustpilot-banner {\n      background-color: #f7f7f7;\n      padding: 12px 20px;\n      border-radius: 8px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      font-family: 'Poppins', sans-serif;\n      box-shadow: 0 0 8px rgba(0,0,0,0.05);\n    }\n    .trustpilot-banner img {\n      display: inline-block;\n      vertical-align: middle;\n    }\n    .trustpilot-stars {\n      width: 100px;\n      margin: 0 10px;\n    }\n    .trustpilot-logo {\n      width: 90px;\n      margin-left: 8px;\n    }\n    .trustpilot-text {\n      color: #111;\n      font-size: 14px;\n      font-weight: 500;\n    }\n    .trustpilot-text span {\n      color: #00b67a;\n      font-weight: 600;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"trustpilot-banner\">\n    <span class=\"trustpilot-text\">Note moyenne : <span>4,4/5</span> sur</span>\n    <img class=\"trustpilot-stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"Étoiles Trustpilot\">\n    <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot\">\n  </div>\n</body>\n</html>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h3"
-          }
-        },
-        "liquid_3PEm8c": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Note Trustpilot</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400;\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img {\n            margin: 0 10px;\n        }\n        .container-trustpilot .stars {\n            max-width: 80px;\n        }\n        .container-trustpilot .logo {\n            max-width: 70px;\n        }\n        .container-trustpilot span {\n            margin: 0 5px;\n        }\n        .excellent {\n            color: #000;\n            font-size: 12px;\n        }\n        .rating-text {\n            color: #000;\n            font-size: 10px;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"EXCELLENT\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"Note 4.4/5\">\n        <span class=\"rating-text\">Noté 4,4/5 sur</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Logo Trustpilot\">\n    </div>\n</body>\n</html>"
           }
         },
         "text_bCbinF": {
@@ -397,8 +397,8 @@
         }
       },
       "block_order": [
-        "title",
         "liquid_3PEm8c",
+        "title",
         "text_bCbinF",
         "text_QE4EGE",
         "rating",
