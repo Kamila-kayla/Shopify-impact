@@ -291,6 +291,12 @@
             "heading_tag": "h3"
           }
         },
+        "liquid_h4PEgU": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .trustpilot-score {\n    text-align: left; /* Align the content to the left */\n    margin-top: 10px; /* Add some space above the score */\n  }\n\n  .trustpilot-score p {\n    display: inline; /* Display the text inline */\n    vertical-align: middle; /* Align the content vertically */\n    margin: 0; /* Remove any default margins */\n    font-weight: bold; /* Increase font weight */\n  }\n\n  .trustpilot-score img {\n    max-width: 100px; /* Set maximum width to 100px */\n    height: auto; /* Maintain aspect ratio */\n    margin-left: 10px; /* Add some space between the images */\n    vertical-align: middle; /* Align the images vertically */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <p>Excellent</p>\n  <img src=\"Insert shopify image A link here\">\n  <img src=\"Insert shopify image B link here\">\n</div>"
+          }
+        },
         "text_bCbinF": {
           "type": "text",
           "settings": {
@@ -334,12 +340,6 @@
           }
         },
         "liquid_8FEthh": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{% assign stock = product.variants.first.inventory_quantity %}\n\n{% if stock <= 5 and stock > 0 %}\n  <div style=\"color: red; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    🔴 Plus que {{ stock }} en stock !\n  </div>\n{% elsif stock == 0 %}\n  <div style=\"color: grey; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    ❌ Rupture de stock temporaire\n  </div>\n{% endif %}"
-          }
-        },
-        "liquid_iQ8FKz": {
           "type": "liquid",
           "settings": {
             "liquid": "{% assign stock = product.variants.first.inventory_quantity %}\n\n{% if stock <= 5 and stock > 0 %}\n  <div style=\"color: red; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    🔴 Plus que {{ stock }} en stock !\n  </div>\n{% elsif stock == 0 %}\n  <div style=\"color: grey; font-weight: bold; font-size: 16px; margin-top: 10px;\">\n    ❌ Rupture de stock temporaire\n  </div>\n{% endif %}"
@@ -398,6 +398,7 @@
       },
       "block_order": [
         "title",
+        "liquid_h4PEgU",
         "text_bCbinF",
         "text_QE4EGE",
         "rating",
@@ -405,7 +406,6 @@
         "image_C4EcG7",
         "kaching_bundles_app_block_MCjPfD",
         "liquid_8FEthh",
-        "liquid_iQ8FKz",
         "buy-buttons",
         "image_TNYzQj",
         "collapsible_text_4jecen",
