@@ -344,6 +344,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_TNYzQj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badge.pdfbody.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "collapsible_text_4jecen": {
           "type": "collapsible_text",
           "settings": {
@@ -385,6 +393,7 @@
         "image_C4EcG7",
         "kaching_bundles_app_block_MCjPfD",
         "buy-buttons",
+        "image_TNYzQj",
         "collapsible_text_4jecen",
         "collapsible_text_pw4pcc",
         "collapsible_text_NHAT9U",
