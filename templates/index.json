@@ -76,12 +76,20 @@
             "logo_width": 240,
             "link": ""
           }
+        },
+        "logo_46HVUC": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_TiMKQF",
         "logo_Vfh7RV",
-        "logo_LNmzD6"
+        "logo_LNmzD6",
+        "logo_46HVUC"
       ],
       "settings": {
         "full_width": false,
@@ -89,7 +97,7 @@
         "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 3,
+        "items_per_row": 4,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -381,8 +389,8 @@
         "collapsible_text_pw4pcc": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Ingrédients",
-            "content": "<p>Formulés avec 3 ingrédients clés : extrait d’ananas, vitamine C et probiotiques. Sans sucre, végan, sans gluten ni allergènes et halal . Délicieux, faciles à prendre et surtout… efficaces.</p>",
+            "title": "Description",
+            "content": "<p>Parce que chez nous chaque détail compte notre formule au <strong>curcuma pure </strong>c'est pas juste à la mode, c'est un actif puissant connu depuis <strong>des siècles </strong>pour r<strong>éduire les boutons estomper les taches et unifier le teint . </strong>Mais ce n'est pas tout, on a créé une solution <strong>simple naturelle </strong>et surtout<strong> efficace, </strong>parce qu'on sait ce que c'est de perdre confiance à cause de sa peau</p>",
             "page": ""
           }
         },
@@ -390,7 +398,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Conseil d'utilisation",
-            "content": "<p>Prenez <strong>2 gummies par jour</strong>, avec ou sans repas. Pour des résultats visibles, une <strong>cure d’au moins 3 mois </strong>est recommandée.</p>",
+            "content": "<p>La routine est à utiliser le soir et fonctionne en trois étapes simples</p><p><strong>1 : Nettoyage </strong> passe le pads sur ta peau humide, il enlève les impuretés ,et l''excès de sébum</p><p><strong>2  Rincer</strong></p><p><strong>3 Hydratation: </strong> hydrate ta peau avec le sérum anti imperfections pour une peau douce et éclatante, il est très important d'hydrater sa peau après la routine</p>",
             "page": ""
           }
         },
@@ -495,9 +503,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_30_51.png",
             "column_size": "3",
-            "title": "Extrait d'Ananas",
+            "title": "Curcuma",
             "heading_tag": "h4",
-            "content": "<p>Purifie naturellement la zone intime, aide à neutraliser les odeurs et apporte une sensation de fraîcheur fruitée dès les premiers jours.</p>",
+            "content": "<p>Éclaircit naturellement le teint resserre les pores lisse la texture de la peau aide à atténuer les taches brunes superficielles et apporte un effet coup d'éclat immédiat</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -508,9 +516,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_35_55.png",
             "column_size": "3",
-            "title": "Tout est carré",
+            "title": "Acide Kojique",
             "heading_tag": "h4",
-            "content": "<p>Un probiotique puissant qui cible directement la flore intime  pour rétablir naturellement l'équilibre, renforcer la défense contre les désagréments et vous offrir une sensation de fraîcheur et de bien-être durable.</p>",
+            "content": "<p>Estompe les taches pigmentaires (mélasma,taches de soleil, acné) égalise le teint aide à réduire les marques post-acné rend la peau visiblement plus lumineuse</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -519,7 +527,7 @@
         "item_r9MdaC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_juin_2025_a_19_24_57.png",
+            "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_46_30.png",
             "column_size": "3",
             "title": "Vitamines C",
             "heading_tag": "h4",
