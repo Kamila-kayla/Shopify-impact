@@ -27,11 +27,19 @@
             "text": "Paiement sécurisé",
             "url": ""
           }
+        },
+        "message_eB3Vgr": {
+          "type": "message",
+          "settings": {
+            "text": "",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_cnWFqY"
+        "message_cnWFqY",
+        "message_eB3Vgr"
       ],
       "settings": {
         "enable_sticky": false,
