@@ -154,11 +154,11 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/PH5.png",
+            "image": "shopify://shop_images/AVANT_APRES_13.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
-            "content": "<p>J’avais peur que ça ne serve à rien comme les autres produits que j’ai testés… mais au bout d’une semaine, j’ai vraiment senti une différence. Plus de gêne, plus de sensation d’inconfort.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -167,7 +167,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ph2.png",
+            "image": "shopify://shop_images/avant_apres_11.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -180,7 +180,7 @@
         "item_QxqAqQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gummies_ph.png",
+            "image": "shopify://shop_images/VISAGE_3.png",
             "column_size": "3",
             "title": "Luna .K",
             "heading_tag": "h4",
@@ -193,7 +193,7 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/PH6.png",
+            "image": "shopify://shop_images/VISAGE_2.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
@@ -206,11 +206,11 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ph7_fca0d6ef-e7ba-4eba-b389-c9e2b2491f5f.png",
+            "image": "shopify://shop_images/VISAGE_1.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
-            "content": "<p>Je pensais que c’était encore un produit marketing’… mais les effets sont là, et je sens que c’est mon corps qui travaille naturellement.</p>",
+            "content": "<p>J’avais des taches brunes depuis des années, surtout sur les joues. Après 2 semaines d’utilisation, ma peau est beaucoup plus uniforme. Je n’y croyais pas, mais ça fonctionne vraiment.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -219,7 +219,7 @@
         "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gummies_600.png",
+            "image": "shopify://shop_images/VISAGE_4.png",
             "column_size": "3",
             "title": "Ingrid  .T",
             "heading_tag": "h4",
@@ -232,11 +232,49 @@
         "item_KCiTpp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gummies_intime.png",
+            "image": "shopify://shop_images/visage_9.png",
             "column_size": "3",
             "title": "Carla .S",
             "heading_tag": "h4",
             "content": "<p>C’est devenu mon petit rituel du soir. J’en prends deux, et je sais que je fais quelque chose de bien pour moi, sans stress.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_P4tCWt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/VISAGE_6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YVmLtw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Visage_11.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bVE86n": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -250,7 +288,10 @@
         "item_ULe6U3",
         "item_jGUfjL",
         "item_8dUY7R",
-        "item_KCiTpp"
+        "item_KCiTpp",
+        "item_P4tCWt",
+        "item_YVmLtw",
+        "item_bVE86n"
       ],
       "name": "Multi-column",
       "settings": {
