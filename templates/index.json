@@ -197,7 +197,7 @@
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
-            "content": "<p>Ce n’est pas juste pour les odeurs ou les petites gênes… c’est un vrai soin de l’intérieur. Je me sens mieux, plus alignée, plus confiante.</p>",
+            "content": "<p>Depuis des années je lutte contre l’acné hormonale. Les pads ont apaisé mes boutons en quelques jours, sans agresser ma peau. Une vraie révolution pour moi.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -267,18 +267,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_bVE86n": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -290,8 +278,7 @@
         "item_8dUY7R",
         "item_KCiTpp",
         "item_P4tCWt",
-        "item_YVmLtw",
-        "item_bVE86n"
+        "item_YVmLtw"
       ],
       "name": "Multi-column",
       "settings": {
