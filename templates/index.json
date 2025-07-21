@@ -552,7 +552,7 @@
             "column_size": "3",
             "title": "Curcuma",
             "heading_tag": "h4",
-            "content": "<p>Utilisé depuis des siècles en médecine ayurvédique, le <strong>curcuma</strong> est un <strong>trésor naturel aux vertus puissantes</strong>.</p><p>Il apaise<strong> les inflammations</strong>, <strong>lutte contre l’acné</strong>, et <strong>atténue les taches</strong> sans agresser la peau., il offre une <strong>alternative naturelle, efficace et douce</strong>, même sur les peaux sensibles.</p>",
+            "content": "<p>Utilisé depuis des siècles en médecine ayurvédique, le <strong>curcuma</strong> est un <strong>trésor naturel aux vertus puissantes</strong>.</p><p>Il apaise<strong> les inflammations</strong>, <strong>lutte contre l’acné</strong>, et <strong>atténue les taches</strong> une <strong>alternative naturelle, efficace et douce .</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -565,7 +565,7 @@
             "column_size": "3",
             "title": "Acide Kojique",
             "heading_tag": "h4",
-            "content": "<p>L’acide kojique est un actif dépigmentant reconnu pour son efficacité sur <strong>les taches brunes, le mélasma et les marques post-acné.</strong> Il inhibe la production de mélanine à la source, sans effet agressif sur la peau. Grâce à son action <strong>unifiante et éclaircissante,</strong> il permet de retrouver un teint plus homogène</p>",
+            "content": "<p>L’acide kojique est un actif dépigmentant reconnu pour son efficacité sur <strong>les taches brunes, le mélasma et les marques post-acné.</strong>Sans effet agressif sur la peau son action <strong>unifiante et éclaircissante,</strong> permet de retrouver un teint plus homogène</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
