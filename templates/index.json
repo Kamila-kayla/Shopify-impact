@@ -56,7 +56,7 @@
         "logo_TiMKQF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_2.png",
             "logo_width": 220,
             "link": ""
           }
@@ -72,7 +72,7 @@
         "logo_LNmzD6": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo_sante.png",
+            "logo": "shopify://shop_images/elle.png",
             "logo_width": 240,
             "link": ""
           }
