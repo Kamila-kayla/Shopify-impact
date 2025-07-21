@@ -300,7 +300,7 @@
         "text_bCbinF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong> réduis l'hyperpigmentation, les taches brunes, l'acné et les cicatrices d'acné</strong></p><p><strong> Peut être utilisé sur le corps et le visage</strong></p><p><strong> Formule à base d'ingrédients naturels</strong></p><p><strong>Testées et approuvées par  des spécialistes</strong></p><p><strong>Satisfait ou remboursé </strong></p><p></p>"
+            "text": "<p><strong>Réduis l'hyperpigmentation, les taches brunes, l'acné et les cicatrices d'acné</strong></p><p><strong> Peut être utilisé sur le corps et le visage</strong></p><p><strong> Formule à base d'ingrédients naturels</strong></p><p><strong>Testées et approuvées par  des spécialistes</strong></p><p><strong>Satisfait ou remboursé </strong></p><p></p>"
           }
         },
         "image_rRFxmR": {
@@ -358,7 +358,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#c3a6e0",
+            "atc_button_background": "#5ca466",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
