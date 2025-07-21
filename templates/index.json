@@ -373,7 +373,7 @@
         "image_TNYzQj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge_transparent.png",
+            "image": "shopify://shop_images/badge_orangde.png",
             "alignment": "center",
             "max_width": 500
           }
