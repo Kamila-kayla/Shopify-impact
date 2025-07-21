@@ -431,6 +431,22 @@
             "page": ""
           }
         },
+        "collapsible_text_HM6mTp": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "L'innovation derrière Curalys",
+            "content": "<p>Curalys ce n'est pas un produit, de plus, c'est une synergie d'actif puissant, doux et efficace, réunis pour <strong>répondre aux vraies besoins</strong> des pots marqués</p><p><strong>Curcuma</strong>  reconnu pour ses vertus, anti-inflammatoires</p><p><strong>Citron ,</strong> naturellement, riche en vitamine C, et illumine le thym et aide à resserrer les ports</p><p><strong>Acide kojique</strong> , active de référence contre l'hyper pigmentation pour atténuer visiblement les taches brunes</p><p>Curalys  c'est l'alliance entre la nature et l'innovation dans un format pratique et sans compromis une routine qui agit pour te réconcilier avec ta peau jour après jour</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Ha4iaX": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Pour quel type de peau ?",
+            "content": "<h3>🔹 <strong>Peau mixte</strong></h3><p>La Routine Miracle agit en équilibrant les zones grasses (zone T) sans dessécher les zones plus sèches du visage.<br/>Elle <strong>régule le sébum</strong>, <strong>affine le grain de peau</strong> et <strong>préserve l’hydratation</strong>. Résultat : un teint plus net, plus uniforme, sans déséquilibre cutané.</p><h3>🔹 <strong>Peau grasse</strong></h3><p>Formulée avec des actifs purifiants et apaisants, la routine aide à <strong>contrôler la brillance</strong>, <strong>réduire les éruptions</strong> et <strong>désincruster les pores</strong>.<br/>Le curcuma et le citron agissent en profondeur pour <strong>limiter l’apparition des boutons</strong> tout en <strong>prévenant les marques post-acné</strong>.</p><h3>🔹 <strong>Peau sèche</strong></h3><p>Grâce à sa formule douce et respectueuse, la Routine Miracle <strong>n’assèche pas la peau</strong> et aide à <strong>réduire les taches</strong> sans agresser.<br/>Elle <strong>apaise les tiraillements</strong>, <strong>éclaircit le teint</strong> et laisse la peau <strong>douce, souple et visiblement plus lisse</strong>, sans effet de dessèchement.</p>",
+            "page": ""
+          }
+        },
         "collapsible_text_4jecen": {
           "type": "collapsible_text",
           "settings": {
@@ -463,6 +479,8 @@
         "image_TNYzQj",
         "collapsible_text_pw4pcc",
         "collapsible_text_NHAT9U",
+        "collapsible_text_HM6mTp",
+        "collapsible_text_Ha4iaX",
         "collapsible_text_4jecen",
         "image_dBBFCp"
       ],
