@@ -343,7 +343,7 @@
         "image_rRFxmR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PROMO_CURALYSE.png",
+            "image": "shopify://shop_images/new_promo_curalys.png",
             "alignment": "center",
             "max_width": 500
           }
