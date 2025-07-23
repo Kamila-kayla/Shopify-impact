@@ -716,6 +716,13 @@
             "content": "<p>Oui. Le sérum peut être intégré à n'importe quelle routine. Il fonctionne encore mieux en complément des pads, mais reste efficace seul.</p>"
           }
         },
+        "item_kDAmLn": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce compatible avec une grossesse ou l'allaitement ?",
+            "content": "<p>Nos formules sont douces, mais nous recommandons toujours de demander un avis médical avant utilisation pendant la grossesse ou l'allaitement, surtout si vous avez une peau très réactive.</p>"
+          }
+        },
         "item_WQq4HJ": {
           "type": "item",
           "settings": {
@@ -733,6 +740,7 @@
         "item_adGgy3",
         "item_LbX69B",
         "item_Ue6JcN",
+        "item_kDAmLn",
         "item_WQq4HJ"
       ],
       "settings": {
