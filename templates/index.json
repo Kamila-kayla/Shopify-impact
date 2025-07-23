@@ -709,18 +709,11 @@
             "content": "<p>Oui ! Les pads Curalys peuvent également s'utiliser sur des zones localisées du corps comme le dos, le décolleté ou les bras - là où apparaissent parfois des imperfections ou des petits boutons. Le sérum peut être appliqué localement sur ces zones également pour un effet clarifiant et apaisant.</p>"
           }
         },
-        "item_bJkfqr": {
-          "type": "item",
-          "settings": {
-            "title": "En combien de temps puis-je voir des résultats ?",
-            "content": "<p>Dès les premières utilisations, la peau est plus douce, plus lisse. Après 2 à 3 semaines, les premiers résultats apparaissent (éclat, réduction des imperfections). Une cure complète de 2 mois est recommandée pour des résultats visibles et durables.</p>"
-          }
-        },
         "item_Ue6JcN": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que la livraison est discrète ?",
-            "content": "<p>Oui. Vos commandes sont expédiées dans un emballage <strong>neutre et sans mention explicite</strong>. Votre intimité est respectée à chaque étape.</p>"
+            "title": "Puis-je utiliser le sérum seul ou avec d'autres produits ?",
+            "content": "<p>Oui. Le sérum peut être intégré à n'importe quelle routine. Il fonctionne encore mieux en complément des pads, mais reste efficace seul.</p><p>Est-ce compatible avec</p>"
           }
         },
         "item_WQq4HJ": {
@@ -739,7 +732,6 @@
         "item_hEhKth",
         "item_adGgy3",
         "item_LbX69B",
-        "item_bJkfqr",
         "item_Ue6JcN",
         "item_WQq4HJ"
       ],
