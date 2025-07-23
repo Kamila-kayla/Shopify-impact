@@ -82,22 +82,13 @@
             "title": "Inscrivez-vous à la newsletter",
             "content": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "content": "",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "text"
+        "newsletter"
       ],
       "settings": {
-        "show_social_media": true,
+        "show_social_media": false,
         "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
