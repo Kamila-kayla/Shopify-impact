@@ -155,7 +155,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_CosmoLED.png",
+        "image": "shopify://shop_images/Curalys_News.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -459,7 +459,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Description",
-            "content": "<p><strong>Une routine naturelle pensée pour révéler l’éclat de votre peau.</strong><br/>Infusés de <strong>curcuma</strong>, ingrédient ancestral reconnu pour ses <strong>propriétés éclaircissantes, anti-inflammatoires et réparatrices</strong>, les pads <strong>Curalys</strong> agissent en douceur pour <strong>unifier le teint, estomper les taches et apaiser les imperfections</strong>.</p><p>Enrichie en <strong>enzymes exfoliantes d’origine biotechnologique</strong>, notre formule stimule le <strong>renouvellement cellulaire</strong> et libère la peau de ses impuretés. Résultat : une peau <strong>plus lisse, lumineuse et visiblement plus nette</strong>, dès les premières utilisations.</p>",
+            "content": "<p><strong>Une routine naturelle pensée pour révéler l’éclat de votre peau.</strong><br/>Infusés de <strong>curcuma</strong>, ingrédient ancestral reconnu pour ses <strong>propriétés éclaircissantes, anti-inflammatoires et réparatrices</strong>, les pads <strong>Curalys</strong> agissent en douceur pour <strong>unifier le teint, estomper les taches et apaiser les imperfections</strong>.</p><p>Enrichie en <strong>enzymes exfoliantes d’origine biotechnologique</strong>, notre formule stimule le <strong>renouvellement cellulaire</strong> et libère la peau de ses impuretés. Résultat : une peau <strong>plus lisse, lumineuse et visiblement plus nette</strong>, dès les premières utilisations.</p>",
             "page": ""
           }
         },
@@ -475,7 +475,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "L'innovation derrière Curalys",
-            "content": "<p>Curalys ce n'est pas un produit, de plus, c'est une synergie d'actif puissant, doux et efficace, réunis pour <strong>répondre aux vraies besoins</strong> des pots marqués</p><p><strong>Curcuma</strong>  reconnu pour ses vertus, anti-inflammatoires</p><p><strong>Citron ,</strong> naturellement, riche en vitamine C, et illumine le thym et aide à resserrer les ports</p><p><strong>Acide kojique</strong> , active de référence contre l'hyper pigmentation pour atténuer visiblement les taches brunes</p><p>Curalys  c'est l'alliance entre la nature et l'innovation dans un format pratique et sans compromis une routine qui agit pour te réconcilier avec ta peau jour après jour</p>",
+            "content": "<p>Curalys ce n'est pas un produit, de plus, c'est une synergie d'actif puissant, doux et efficace, réunis pour <strong>répondre aux vraies besoins</strong> des peaux marqués</p><p><strong>Curcuma</strong>  reconnu pour ses vertus, anti-inflammatoires</p><p><strong>Citron ,</strong> naturellement, riche en vitamine C, et illumine le thym et aide à resserrer les ports</p><p><strong>Acide kojique</strong> , active de référence contre l'hyper pigmentation pour atténuer visiblement les taches brunes</p><p>Curalys  c'est l'alliance entre la nature et l'innovation dans un format pratique et sans compromis une routine qui agit pour te réconcilier avec ta peau jour après jour</p>",
             "page": ""
           }
         },
@@ -483,7 +483,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Pour quel type de peau ?",
-            "content": "<h5><strong>Peau mixte</strong></h5><p>Curalys agit en équilibrant les zones grasses (zone T) sans dessécher les zones plus sèches du visage.<br/>Elle <strong>régule le sébum</strong>, <strong>affine le grain de peau</strong> et <strong>préserve l’hydratation</strong>. Résultat : un teint plus net, plus uniforme, sans déséquilibre cutané.</p><h5><strong>Peau grasse</strong></h5><p>Formulée avec des actifs purifiants et apaisants, la routine aide à <strong>contrôler la brillance</strong>, <strong>réduire les éruptions</strong> et <strong>désincruster les pores</strong>.<br/>Le curcuma et le citron agissent en profondeur pour <strong>limiter l’apparition des boutons</strong> tout en <strong>prévenant les marques post-acné</strong>.</p><h5><strong>Peau sèche</strong></h5><p>Grâce à sa formule douce et respectueuse, la Routine Miracle <strong>n’assèche pas la peau</strong> et aide à <strong>réduire les taches</strong> sans agresser.<br/>Elle <strong>apaise les tiraillements</strong>, <strong>éclaircit le teint</strong> et laisse la peau <strong>douce, souple et visiblement plus lisse</strong>, sans effet de dessèchement.</p>",
+            "content": "<p><strong>Convient à tous les types de peau</strong><br/>✔️ <strong>Peau mixte</strong> : équilibre la zone T sans dessécher, régule le sébum et unifie le teint.<br/>✔️ <strong>Peau grasse</strong> : purifie, réduit les boutons et resserre les pores.<br/>✔️ <strong>Peau sèche</strong> : éclaircit sans agresser, apaise et nourrit intensément.</p><p>Une routine complète qui agit en douceur pour révéler une peau nette, lisse et lumineuse  sans compromis.</p>",
             "page": ""
           }
         },
