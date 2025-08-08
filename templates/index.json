@@ -668,6 +668,13 @@
             "content": "<p>Oui, notre body gaine est conçu avec des fibres ultra-souples et respirantes qui épousent les formes sans compresser excessivement. Vous pouvez le porter du matin au soir sans gêne.</p>"
           }
         },
+        "item_kDAmLn": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle taille dois-je choisir ?",
+            "content": "<p>Notre body gaine taille normalement pour un effet sculptant optimal.<br/>📌 Si vous souhaitez une compression plus douce et un confort maximal, nous vous conseillons de prendre <strong>une taille au-dessus</strong> de votre taille habituelle.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -717,13 +724,6 @@
             "content": "<p>Non, grâce à ses fibres résistantes et de qualité premium, il garde sa forme et son efficacité même après de nombreux lavages.</p>"
           }
         },
-        "item_kDAmLn": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce compatible avec une grossesse ou l'allaitement ?",
-            "content": "<p>Nos formules sont douces, mais nous recommandons toujours de demander un avis médical avant utilisation pendant la grossesse ou l'allaitement, surtout si vous avez une peau très réactive.</p>"
-          }
-        },
         "item_WQq4HJ": {
           "type": "item",
           "settings": {
@@ -734,6 +734,7 @@
       },
       "block_order": [
         "166442457738b23caf-1",
+        "item_kDAmLn",
         "166442457738b23caf-0",
         "166442457738b23caf-2",
         "item_CjjXd8",
@@ -741,7 +742,6 @@
         "item_adGgy3",
         "item_LbX69B",
         "item_Ue6JcN",
-        "item_kDAmLn",
         "item_WQq4HJ"
       ],
       "settings": {
