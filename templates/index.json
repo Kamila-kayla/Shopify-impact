@@ -699,8 +699,8 @@
         "item_adGgy3": {
           "type": "item",
           "settings": {
-            "title": "Y a-t-il une garantie satisfait ?",
-            "content": "<p>Oui. Nous offrons une garantie Satisfait(e) ou Remboursé(e) de 60 jours, à condition d'avoir suivi la cure complète. Votre satisfaction est notre priorité.</p>"
+            "title": "Est-ce que je pourrai aller aux toilettes facilement ?",
+            "content": "<p>Oui, il est équipé d’une ouverture discrète pour plus de praticité au quotidien.</p><p></p>"
           }
         },
         "item_LbX69B": {
