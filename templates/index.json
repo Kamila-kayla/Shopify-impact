@@ -724,6 +724,13 @@
             "content": "<p>Non, grâce à ses fibres résistantes et de qualité premium, il garde sa forme et son efficacité même après de nombreux lavages.</p>"
           }
         },
+        "item_JNAye3": {
+          "type": "item",
+          "settings": {
+            "title": "Proposez-vous les retours ou échanges de taille ?",
+            "content": "<p>Oui, nous acceptons les retours sous 30 jours après l'achat et proposons des échanges de taille. Veuillez vous assurer que l'article est dans son état et son emballage d'origine.</p>"
+          }
+        },
         "item_WQq4HJ": {
           "type": "item",
           "settings": {
@@ -742,6 +749,7 @@
         "item_adGgy3",
         "item_LbX69B",
         "item_Ue6JcN",
+        "item_JNAye3",
         "item_WQq4HJ"
       ],
       "settings": {
