@@ -15,12 +15,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/curcuma.png",
+            "image": "shopify://shop_images/banniere_body.png",
+            "mobile_image": "shopify://shop_images/banniere_body.png",
             "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Acné, tâche brunes ? Curalys les élimine en douceur.",
+            "title": "Transformez instantanément votre silhouette, sans effort et en toute élégance",
             "heading_tag": "h4",
             "button_text": "",
             "button_link": "",
@@ -56,7 +57,7 @@
         "logo_TiMKQF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/medicalnew.png",
+            "logo": "shopify://shop_images/Marie_Claire.png",
             "logo_width": 220,
             "link": ""
           }
@@ -80,7 +81,7 @@
         "logo_46HVUC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_2.png",
             "logo_width": 120,
             "link": ""
           }
