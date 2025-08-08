@@ -121,8 +121,8 @@
         "heading_GttbDy": {
           "type": "heading",
           "settings": {
-            "text": "Adopté par des milliers de femmes , en quête d'une peau éclatante",
-            "heading_tag": "h3",
+            "text": "Le secret de milliers de femmes ,en quête d’une silhouette sculptée et d’un maintien parfait.",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
@@ -156,7 +156,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Curalys_News.png",
+        "image": "shopify://shop_images/body_gaine_bustier.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -664,8 +664,8 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "À qui s'adresse la routine Curalys ?",
-            "content": "<p>Notre routine est idéale pour toutes les personnes souffrant d'imperfections, de teint terne, de pores visibles ou de peau irrégulière. </p><p>Convient à tous les types de peaux, même sensibles.</p>"
+            "title": "Est-ce que la gaine est confortable à porter toute la journée ?",
+            "content": "<p>Oui, notre body gaine est conçu avec des fibres ultra-souples et respirantes qui épousent les formes sans compresser excessivement. Vous pouvez le porter du matin au soir sans gêne.</p>"
           }
         },
         "166442457738b23caf-0": {
