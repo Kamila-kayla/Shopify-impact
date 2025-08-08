@@ -451,7 +451,7 @@
         "image_TNYzQj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge_orangde.png",
+            "image": "shopify://shop_images/badge.pdfbody.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -1015,7 +1015,7 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "#e8920a",
+        "button_background": "#c3a6e0",
         "button_text_color": ""
       }
     }
