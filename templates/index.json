@@ -156,7 +156,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/body_gaine_bustier.png",
+        "image": "shopify://shop_images/gaine_shorty.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -195,7 +195,7 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_APRES_13.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.48.32.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
@@ -208,7 +208,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_11.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.48.14.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -221,7 +221,7 @@
         "item_QxqAqQ": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/VISAGE_3.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.46.54.png",
             "column_size": "3",
             "title": "Luna .K",
             "heading_tag": "h4",
@@ -460,36 +460,37 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Description",
-            "content": "<p><strong>Une routine naturelle pensée pour révéler l’éclat de votre peau.</strong><br/>Infusés de <strong>curcuma</strong>, ingrédient ancestral reconnu pour ses <strong>propriétés éclaircissantes, anti-inflammatoires et réparatrices</strong>, les pads <strong>Curalys</strong> agissent en douceur pour <strong>unifier le teint, estomper les taches et apaiser les imperfections</strong>.</p><p>Enrichie en <strong>enzymes exfoliantes d’origine biotechnologique</strong>, notre formule stimule le <strong>renouvellement cellulaire</strong> et libère la peau de ses impuretés. Résultat : une peau <strong>plus lisse, lumineuse et visiblement plus nette</strong>, dès les premières utilisations.</p>",
+            "content": "<p></p><ul><li>Notre <strong>technologie de compression ciblée</strong> est positionnée stratégiquement pour maintenir le ventre, la taille et le dos, offrant un maintien optimal tout en affinant visiblement la silhouette dès que vous l’enfilez.</li></ul><p></p><ul><li>Grâce à son design <strong>effet seconde peau</strong>, il lisse instantanément les irrégularités et vous permet de porter vos vêtements préférés avec plus de confiance.</li></ul><p></p><ul><li>Sa matière respirante et extensible vous accompagne toute la journée sans gêner vos mouvements, tout en restant parfaitement invisible sous vos tenues.</li></ul>",
             "page": ""
           }
         },
         "collapsible_text_NHAT9U": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Conseil d'utilisation",
-            "content": "<p>La routine est à utiliser le soir et fonctionne en trois étapes simples</p><p><strong>1  Nettoyage : </strong> passe le pads sur ta peau humide, il enlève les impuretés ,et l''excès de sébum</p><p><strong>2  Rincer</strong></p><p><strong>3 Hydratation : </strong> hydrate ta peau avec le sérum anti imperfections pour une peau douce et éclatante, il est très important d'hydrater sa peau après la routine</p>",
+            "title": "Conseil de taille",
+            "content": "<p>Notre body gaine taille normalement pour un effet sculptant optimal.</p><p><br/>📌 Si vous souhaitez une compression plus douce et un confort maximal, nous vous conseillons de prendre <strong>une taille au-dessus</strong> de votre taille habituelle.</p>",
             "page": ""
           }
         },
         "collapsible_text_HM6mTp": {
           "type": "collapsible_text",
           "settings": {
-            "title": "L'innovation derrière Curalys",
-            "content": "<p>Curalys ce n'est pas un produit, de plus, c'est une synergie d'actif puissant, doux et efficace, réunis pour <strong>répondre aux vraies besoins</strong> des peaux marqués</p><p><strong>Curcuma</strong>  reconnu pour ses vertus, anti-inflammatoires</p><p><strong>Citron ,</strong> naturellement, riche en vitamine C, et illumine le thym et aide à resserrer les ports</p><p><strong>Acide kojique</strong> , active de référence contre l'hyper pigmentation pour atténuer visiblement les taches brunes</p><p>Curalys  c'est l'alliance entre la nature et l'innovation dans un format pratique et sans compromis une routine qui agit pour te réconcilier avec ta peau jour après jour</p>",
+            "title": "L'innovation derrière nos gaines",
+            "content": "<p>Chez nous, chaque détail compte. Nos Body Gainants ne sont pas de simples sous-vêtements : ce sont de véritables <strong>alliés de transformation</strong>, conçus pour sublimer vos formes sans compromis</p><ul><li><strong>Compression ciblée intelligente</strong> : épouse parfaitement votre corps et affine instantanément les zones clés, tout en restant agréable à porter.</li></ul><p></p><ul><li><strong>Technologie “Seconde Peau”</strong> : matière ultra-douce et respirante qui s’adapte à vos mouvements, pour un confort total du matin au soir. un rendu lisse et discret sous toutes vos tenues, même les plus moulantes.</li></ul>",
             "page": ""
           }
         },
         "collapsible_text_Ha4iaX": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Pour quel type de peau ?",
-            "content": "<p><strong>Convient à tous les types de peau</strong><br/>✔️ <strong>Peau mixte</strong> : équilibre la zone T sans dessécher, régule le sébum et unifie le teint.<br/>✔️ <strong>Peau grasse</strong> : purifie, réduit les boutons et resserre les pores.<br/>✔️ <strong>Peau sèche</strong> : éclaircit sans agresser, apaise et nourrit intensément.</p><p>Une routine complète qui agit en douceur pour révéler une peau nette, lisse et lumineuse  sans compromis.</p>",
+            "title": "Pour quel type de silhouette ?",
+            "content": "<p>Nos Body Gainants ont été pensés pour <strong>s’adapter à toutes les morphologies</strong> et mettre en valeur chaque femme.</p>",
             "page": ""
           }
         },
         "collapsible_text_4jecen": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Garantie satisfait ou remboursé",
             "content": "<p>Parce que nous croyons pleinement en l’efficacité de la Routine Miracle Curalys, nous vous offrons une garantie <strong>\"Satisfait ou remboursé sous 30 jours\"</strong>.</p><p>Cette garantie s’applique uniquement à l’achat de la <strong>cure complète (pads + sérum)</strong>. Si aucun résultat visible n’est constaté après une utilisation régulière pendant 30 jours, vous pouvez demander un remboursement complet, sans justificatif médical.</p><p><strong>Vous ne prenez aucun risque.</strong> Essayez, testez, et constatez les effets.<br/>Sinon, on vous rembourse. Simplement.</p>",
