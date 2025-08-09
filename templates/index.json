@@ -513,6 +513,7 @@
         },
         "heading_WDwpLJ": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "La puissance  de Curalys réside dans sa combinaison d'actifs naturels pour révéler une peau nette et lumineuse.",
             "heading_tag": "h4",
@@ -547,6 +548,7 @@
       "blocks": {
         "item_Tgm9dx": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_30_51.png",
             "column_size": "3",
@@ -560,6 +562,7 @@
         },
         "item_zL344B": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_35_55.png",
             "column_size": "3",
@@ -573,6 +576,7 @@
         },
         "item_r9MdaC": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_21_juil._2025_a_22_46_30.png",
             "column_size": "3",
