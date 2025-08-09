@@ -218,6 +218,19 @@
             "link_style": "link"
           }
         },
+        "item_jGUfjL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_14.00.55.png",
+            "column_size": "3",
+            "title": "Sarah . M",
+            "heading_tag": "h4",
+            "content": "<p>Cette gaine est incroyable ! Je l’ai portée pour un événement où je devais être habillée toute la journée, et je n’ai ressenti aucune gêne. Le tissu est respirant, la coupe parfaitement étudiée, et le maintien est impeccable. En plus, elle affine la silhouette tout en galbant joliment les fesses. Je n’ai eu que des compliments sur ma tenue, et je sais que c’est en grande partie grâce à elle. Je recommande à 200 %</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_QxqAqQ": {
           "type": "item",
           "settings": {
@@ -244,27 +257,14 @@
             "link_style": "link"
           }
         },
-        "item_jGUfjL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/VISAGE_1.png",
-            "column_size": "3",
-            "title": "Sarah . M",
-            "heading_tag": "h4",
-            "content": "<p>J’avais des taches brunes depuis des années, surtout sur les joues. Après 2 semaines d’utilisation, ma peau est beaucoup plus uniforme. Je n’y croyais pas, mais ça fonctionne vraiment.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/VISAGE_4.png",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_14.01.17.png",
             "column_size": "3",
             "title": "Ingrid  .T",
             "heading_tag": "h4",
-            "content": "<p>J'avais plein de taches laissées par mon acné, surtout sur les joues. Rien ne fonctionnait vraiment jusqu'à ce que je teste cette routine. En quelques semaines, mes taches ont commencé à s’éclaircir visiblement. Mon teint est plus uniforme et ma peau plus lumineuse.</p>",
+            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé. Ce que j’adore, c’est qu’elle reste bien en place toute la journée, même quand je bouge beaucoup, et qu’elle ne marque pas sous les vêtements. Je peux la porter avec des robes moulantes ou des pantalons ajustés sans aucun souci. Un vrai coup de cœur !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -295,31 +295,17 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_YVmLtw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Visage_11.png",
-            "column_size": "3",
-            "title": "Emilie . T",
-            "heading_tag": "h4",
-            "content": "<p>Avec le temps et le soleil, j'avais des taches un peu partout sur le visage. En trois semaines, elles ont nettement diminué et mon teint est bien plus lumineux. Je ne m’attendais pas à un résultat aussi visible.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_JdPmpa",
         "item_TtdjWG",
+        "item_jGUfjL",
         "item_QxqAqQ",
         "item_ULe6U3",
-        "item_jGUfjL",
         "item_8dUY7R",
         "item_KCiTpp",
-        "item_P4tCWt",
-        "item_YVmLtw"
+        "item_P4tCWt"
       ],
       "name": "Multi-column",
       "settings": {
