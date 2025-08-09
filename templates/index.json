@@ -231,19 +231,6 @@
             "link_style": "link"
           }
         },
-        "item_QxqAqQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.46.54.png",
-            "column_size": "3",
-            "title": "Luna .K",
-            "heading_tag": "h4",
-            "content": "<p>J’en ai testé plusieurs, mais celle-ci est de loin la meilleure ! Elle tient bien en place toute la journée et ne roule pas.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_ULe6U3": {
           "type": "item",
           "settings": {
@@ -252,6 +239,19 @@
             "title": "Marie . R",
             "heading_tag": "h4",
             "content": "<p>Elle fait vraiment un beau galbe ! Je me sens plus confiante quand je la porte, surtout avec des pantalons ajustés</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QxqAqQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.46.54.png",
+            "column_size": "3",
+            "title": "Luna .K",
+            "heading_tag": "h4",
+            "content": "<p>J’en ai testé plusieurs, mais celle-ci est de loin la meilleure ! Elle tient bien en place toute la journée et ne roule pas.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -301,8 +301,8 @@
         "item_JdPmpa",
         "item_TtdjWG",
         "item_jGUfjL",
-        "item_QxqAqQ",
         "item_ULe6U3",
+        "item_QxqAqQ",
         "item_8dUY7R",
         "item_KCiTpp",
         "item_P4tCWt"
@@ -364,7 +364,7 @@
         "text_bCbinF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Réduis l'hyperpigmentation, les taches brunes, l'acné et les cicatrices d'acné</strong></p><p><strong> Peut être utilisé sur le corps et le visage</strong></p><p><strong> Formule à base d'ingrédients naturels</strong></p><p><strong>Testées et approuvées par  des spécialistes</strong></p><p><strong>Satisfait ou remboursé </strong></p><p></p>"
+            "text": "<h6><strong> Ventre visiblement plus plat</strong></h6><h6><strong> Fesses galbées et rehaussées</strong></h6><h6><strong>Invisible sous vos vêtements</strong></h6><h6><strong>Confort total du matin au soir</strong></h6><h5></h5>"
           }
         },
         "image_rRFxmR": {
