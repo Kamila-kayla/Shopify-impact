@@ -269,32 +269,6 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_KCiTpp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/visage_9.png",
-            "column_size": "3",
-            "title": "Carla .S",
-            "heading_tag": "h4",
-            "content": "<p>Ce produit a changé la texture de ma peau. Les cicatrices rouges que je traînais depuis des mois commencent enfin à s’estomper. Teint beaucoup plus lisse</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_P4tCWt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/VISAGE_6.png",
-            "column_size": "3",
-            "title": "Tiffany . R",
-            "heading_tag": "h4",
-            "content": "<p>Je traînais des taches pigmentaires depuis des années, surtout après mes grossesses. J’avais tout essayé, sans succès. Cette routine a vraiment fait la différence : mes taches se sont visiblement atténuées, et mon teint est beaucoup plus homogène. Je suis impressionnée.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
@@ -303,9 +277,7 @@
         "item_jGUfjL",
         "item_ULe6U3",
         "item_QxqAqQ",
-        "item_8dUY7R",
-        "item_KCiTpp",
-        "item_P4tCWt"
+        "item_8dUY7R"
       ],
       "name": "Multi-column",
       "settings": {
@@ -370,7 +342,7 @@
         "image_rRFxmR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/new_promo_curalys.png",
+            "image": "shopify://shop_images/solde_shorty.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -634,6 +606,7 @@
     },
     "custom_html_UUEAbY": {
       "type": "custom-html",
+      "disabled": true,
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
