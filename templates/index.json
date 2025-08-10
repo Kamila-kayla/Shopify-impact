@@ -122,7 +122,7 @@
           "type": "heading",
           "settings": {
             "text": "une silhouette sculptée et un maintien parfait .",
-            "heading_tag": "h5",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -339,6 +339,15 @@
             "text": "<h5><strong>Gaine effet sculpt </strong> :</h5><h6><strong> </strong>Ventre visiblement plus plat</h6><h6> Fesses galbées et rehaussées</h6><h6>Invisible sous vos vêtements</h6><h6>Confort total du matin au soir</h6><h5><strong> Shorty effet bbl coussinet intégré : </strong></h5><h6>Des courbes de rêve, sans effort.</h6><h6>Vos hanches et vos fesses, en mieux.</h6><h6>L’effet BBL, sans chirurgie, sans douleur.</h6>"
           }
         },
+        "product_variations_WKBKqq": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "",
+            "option_value_metafield": "",
+            "products": [],
+            "selector_style": "swatch"
+          }
+        },
         "image_rRFxmR": {
           "type": "image",
           "settings": {
@@ -359,17 +368,6 @@
             "show_empty": false
           }
         },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
         "image_C4EcG7": {
           "type": "image",
           "settings": {
@@ -381,6 +379,17 @@
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "{{section.settings.product}}"
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "color",
+            "variant_image_options": "",
+            "size_chart_page": ""
           }
         },
         "liquid_wTkBJ9": {
@@ -467,12 +476,13 @@
         "liquid_3PEm8c",
         "title",
         "text_bCbinF",
+        "product_variations_WKBKqq",
         "image_rRFxmR",
         "text_QE4EGE",
         "rating",
-        "variant-picker",
         "image_C4EcG7",
         "kaching_bundles_app_block_MCjPfD",
+        "variant-picker",
         "liquid_wTkBJ9",
         "countdown_timer_essential_app_block_P84CFM",
         "buy-buttons",
