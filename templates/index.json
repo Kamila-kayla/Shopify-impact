@@ -156,7 +156,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/gaine_shorty.png",
+        "image": "shopify://shop_images/benefice_sous_titre_gaine.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -195,7 +195,7 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.48.32.png",
+            "image": "shopify://shop_images/gaine_5.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
@@ -208,7 +208,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.48.14.png",
+            "image": "shopify://shop_images/gaine_3.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -221,7 +221,7 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_14.00.55.png",
+            "image": "shopify://shop_images/gaine_4.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
@@ -234,7 +234,7 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.58.49.png",
+            "image": "shopify://shop_images/gaine_2.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
@@ -260,11 +260,11 @@
         "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_14.01.17.png",
+            "image": "shopify://shop_images/gaine_1.png",
             "column_size": "3",
             "title": "Ingrid  .T",
             "heading_tag": "h4",
-            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé. Ce que j’adore, c’est qu’elle reste bien en place toute la journée, même quand je bouge beaucoup, et qu’elle ne marque pas sous les vêtements. Je peux la porter avec des robes moulantes ou des pantalons ajustés sans aucun souci. Un vrai coup de cœur !</p>",
+            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé.  Un vrai coup de cœur !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
