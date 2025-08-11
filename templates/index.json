@@ -393,7 +393,7 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "swatch",
+            "swatch_selector_style": "none",
             "variant_image_options": "",
             "size_chart_page": ""
           }
@@ -548,6 +548,65 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_6Qxbnw": {
+      "type": "multi-column",
+      "blocks": {
+        "item_AEwRL6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9diKiW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kXGWhg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_AEwRL6",
+        "item_9diKiW",
+        "item_kXGWhg"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -996,6 +1055,7 @@
     "rich_text_QLFiAL",
     "featured-product",
     "rich_text_dPCJtM",
+    "multi_column_6Qxbnw",
     "multi_column_3L66n7",
     "custom_html_UUEAbY",
     "faq",
