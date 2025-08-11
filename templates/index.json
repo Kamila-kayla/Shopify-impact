@@ -336,7 +336,7 @@
         "text_bCbinF": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>Gaine effet sculpt  </strong>:</h5><h6><strong> Ventre visiblement plus plat</strong></h6><h6><strong> Fesses galbées et rehaussées</strong></h6><h6><strong>Invisible sous vos vêtements</strong></h6><h6><strong>Confort total du matin au soir</strong></h6><h6><strong>Silhouette redessinée</strong></h6>"
+            "text": "<h5><strong>Gaine effet sculpt  </strong>:</h5><h6><strong> Ventre visiblement plus plat</strong></h6><h6><strong>Silhouette redessinée</strong></h6><h6><strong>Fesses galbées et rehaussées</strong></h6><h6><strong>Invisible sous vos vêtements</strong></h6><h6><strong>Confort total du matin au soir</strong></h6>"
           }
         },
         "product_variations_WKBKqq": {
@@ -390,6 +390,12 @@
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
+          }
+        },
+        "liquid_4DB4gm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
           }
         },
         "liquid_wTkBJ9": {
@@ -483,6 +489,7 @@
         "image_C4EcG7",
         "kaching_bundles_app_block_MCjPfD",
         "variant-picker",
+        "liquid_4DB4gm",
         "liquid_wTkBJ9",
         "countdown_timer_essential_app_block_P84CFM",
         "buy-buttons",
