@@ -336,7 +336,7 @@
         "text_bCbinF": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>Gaine effet sculpt </strong> :</h5><h6><strong> </strong>Ventre visiblement plus plat</h6><h6> Fesses galbées et rehaussées</h6><h6>Invisible sous vos vêtements</h6><h6>Confort total du matin au soir</h6>"
+            "text": "<h5><strong>Gaine effet sculpt  </strong>:</h5><h6><strong> Ventre visiblement plus plat</strong></h6><h6><strong> Fesses galbées et rehaussées</strong></h6><h6><strong>Invisible sous vos vêtements</strong></h6><h6><strong>Confort total du matin au soir</strong></h6>"
           }
         },
         "product_variations_WKBKqq": {
@@ -387,7 +387,7 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "color",
+            "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
           }
