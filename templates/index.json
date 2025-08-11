@@ -393,7 +393,7 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "none",
+            "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
           }
@@ -559,10 +559,11 @@
         "item_AEwRL6": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/0811 VIDEO SITE GAINE 2  2025-08-11-23-47-26.mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -571,10 +572,11 @@
         "item_9diKiW": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/0811 VIDEO GAINE SITE .mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -583,10 +585,11 @@
         "item_kXGWhg": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/0811 video site sans logo .mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
