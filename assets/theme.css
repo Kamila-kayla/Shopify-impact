@@ -10070,3 +10070,10 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
+/* Swatch Noir */
+input[type="radio"][value="NOIR"] + label,
+input[type="radio"][value="Noir"] + label,
+input[type="radio"][value="noir"] + label {
+  background-color: #000000 !important; /* Couleur noire */
+  border: 1px solid #ccc; /* Bordure pour rester visible */
+}
