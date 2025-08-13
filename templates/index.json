@@ -189,6 +189,96 @@
         "text_color": ""
       }
     },
+    "multi_column_6Qxbnw": {
+      "type": "multi-column",
+      "blocks": {
+        "item_AEwRL6": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0811 VIDEO SITE GAINE 2  2025-08-11-23-47-26.mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9diKiW": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0811 VIDEO GAINE SITE .mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kXGWhg": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0811 video site sans logo .mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3WPzEh": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0814.mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Fk7Dz7": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0813 gaine video site .mov",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_AEwRL6",
+        "item_9diKiW",
+        "item_kXGWhg",
+        "item_3WPzEh",
+        "item_Fk7Dz7"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_yFTYac": {
       "type": "multi-column",
       "blocks": {
@@ -548,68 +638,6 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_6Qxbnw": {
-      "type": "multi-column",
-      "blocks": {
-        "item_AEwRL6": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 VIDEO SITE GAINE 2  2025-08-11-23-47-26.mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9diKiW": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 VIDEO GAINE SITE .mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_kXGWhg": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 video site sans logo .mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_AEwRL6",
-        "item_9diKiW",
-        "item_kXGWhg"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1054,11 +1082,11 @@
     "rich_text_iLxEyd",
     "image_with_text_overlay_zPwMGA",
     "rich_text_4tL48H",
+    "multi_column_6Qxbnw",
     "multi_column_yFTYac",
     "rich_text_QLFiAL",
     "featured-product",
     "rich_text_dPCJtM",
-    "multi_column_6Qxbnw",
     "multi_column_3L66n7",
     "custom_html_UUEAbY",
     "faq",
