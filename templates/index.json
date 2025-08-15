@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/banniere_gaine_shorty.png",
-            "mobile_image": "shopify://shop_images/banniere_gaine_shorty_190758b6-5b90-4122-9bc7-67ae69a4a4cb.png",
+            "mobile_image": "shopify://shop_images/new_banniere.png",
             "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
