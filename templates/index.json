@@ -164,6 +164,110 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_yFTYac": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JdPmpa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gaine_5.png",
+            "column_size": "3",
+            "title": "Laurie . L",
+            "heading_tag": "h4",
+            "content": "<p>J’avais peur qu’elle soit trop serrée, mais elle épouse parfaitement les formes et met les fesses en valeur. Effet immédiat !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TtdjWG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gaine_3.png",
+            "column_size": "3",
+            "title": "Camille . D",
+            "heading_tag": "h4",
+            "content": "<p>Le tissu est top ! Souple mais gainant, on se sent maintenue sans être comprimée. Parfaite pour le quotidien.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jGUfjL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gaine_4.png",
+            "column_size": "3",
+            "title": "Sarah . M",
+            "heading_tag": "h4",
+            "content": "<p>Cette gaine est incroyable ! Je l’ai portée pour un événement toute la journée, et je n’ai ressenti aucune gêne.En plus, elle affine la silhouette tout en galbant joliment les fesses.  recommande à 200 %</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ULe6U3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_gaine_8.png",
+            "column_size": "3",
+            "title": "Marie . R",
+            "heading_tag": "h4",
+            "content": "<p>Elle fait vraiment un beau galbe ! Je me sens plus confiante quand je la porte, surtout avec des pantalons ajustés</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_QxqAqQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.46.54.png",
+            "column_size": "3",
+            "title": "Luna .K",
+            "heading_tag": "h4",
+            "content": "<p>J’en ai testé plusieurs, mais celle-ci est de loin la meilleure ! Elle tient bien en place toute la journée et ne roule pas.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8dUY7R": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/gaine_1.png",
+            "column_size": "3",
+            "title": "Ingrid  .T",
+            "heading_tag": "h4",
+            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé.  Un vrai coup de cœur !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JdPmpa",
+        "item_TtdjWG",
+        "item_jGUfjL",
+        "item_ULe6U3",
+        "item_QxqAqQ",
+        "item_8dUY7R"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_4tL48H": {
       "type": "rich-text",
       "blocks": {
@@ -406,110 +510,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_yFTYac": {
-      "type": "multi-column",
-      "blocks": {
-        "item_JdPmpa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gaine_5.png",
-            "column_size": "3",
-            "title": "Laurie . L",
-            "heading_tag": "h4",
-            "content": "<p>J’avais peur qu’elle soit trop serrée, mais elle épouse parfaitement les formes et met les fesses en valeur. Effet immédiat !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TtdjWG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gaine_3.png",
-            "column_size": "3",
-            "title": "Camille . D",
-            "heading_tag": "h4",
-            "content": "<p>Le tissu est top ! Souple mais gainant, on se sent maintenue sans être comprimée. Parfaite pour le quotidien.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jGUfjL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gaine_4.png",
-            "column_size": "3",
-            "title": "Sarah . M",
-            "heading_tag": "h4",
-            "content": "<p>Cette gaine est incroyable ! Je l’ai portée pour un événement toute la journée, et je n’ai ressenti aucune gêne.En plus, elle affine la silhouette tout en galbant joliment les fesses.  recommande à 200 %</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ULe6U3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_gaine_8.png",
-            "column_size": "3",
-            "title": "Marie . R",
-            "heading_tag": "h4",
-            "content": "<p>Elle fait vraiment un beau galbe ! Je me sens plus confiante quand je la porte, surtout avec des pantalons ajustés</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QxqAqQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-09_a_13.46.54.png",
-            "column_size": "3",
-            "title": "Luna .K",
-            "heading_tag": "h4",
-            "content": "<p>J’en ai testé plusieurs, mais celle-ci est de loin la meilleure ! Elle tient bien en place toute la journée et ne roule pas.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8dUY7R": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/gaine_1.png",
-            "column_size": "3",
-            "title": "Ingrid  .T",
-            "heading_tag": "h4",
-            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé.  Un vrai coup de cœur !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_JdPmpa",
-        "item_TtdjWG",
-        "item_jGUfjL",
-        "item_ULe6U3",
-        "item_QxqAqQ",
-        "item_8dUY7R"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "multi_column_6Qxbnw": {
@@ -1094,8 +1094,8 @@
     "slideshow",
     "logo_list_gAzQJb",
     "rich_text_iLxEyd",
-    "multi_column_yFTYac",
     "image_with_text_overlay_zPwMGA",
+    "multi_column_yFTYac",
     "rich_text_4tL48H",
     "rich_text_QLFiAL",
     "featured-product",
