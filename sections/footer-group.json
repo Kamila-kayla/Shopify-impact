@@ -73,6 +73,19 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "links_eXHHym": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "links_eXHHym"
+      ],
       "settings": {
         "show_social_media": false,
         "show_payment_icons": true,
