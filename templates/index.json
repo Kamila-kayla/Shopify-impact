@@ -418,6 +418,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_bnWhbD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carte.png",
+            "alignment": "center",
+            "max_width": 220
+          }
+        },
         "image_TNYzQj": {
           "type": "image",
           "settings": {
@@ -491,6 +499,7 @@
         "countdown_timer_essential_app_block_P84CFM",
         "liquid_7nKEp7",
         "buy-buttons",
+        "image_bnWhbD",
         "image_TNYzQj",
         "collapsible_text_pw4pcc",
         "collapsible_text_NHAT9U",
