@@ -71,6 +71,17 @@
         "text_color": ""
       }
     },
+    "1755360704e654e7e6": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -98,6 +109,7 @@
   },
   "order": [
     "text-with-icons",
+    "1755360704e654e7e6",
     "footer"
   ]
 }

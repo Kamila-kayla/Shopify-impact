@@ -615,7 +615,7 @@
         "item_Fk7Dz7": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/0813 gaine video site .mov",
+            "video": "shopify://files/videos/Video format tiktok 1.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -897,6 +897,34 @@
         "accordion_text_color": ""
       }
     },
+    "1755360731f0838bde": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_gdLPyW": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "gaine-revolutionnaire-silhouette-parfaite-en-un-instant",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_gdLPyW"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175433384592756876": {
       "type": "apps",
       "settings": {
@@ -1150,6 +1178,7 @@
     "multi_column_3L66n7",
     "custom_html_UUEAbY",
     "faq",
+    "1755360731f0838bde",
     "175433384592756876",
     "testimonials_fdaMNt",
     "contact_yx38CT"
