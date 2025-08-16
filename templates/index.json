@@ -156,7 +156,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/benefice_sous_titre_gaine.png",
+        "image": "shopify://shop_images/Epouse_tes_formes_sans_jamais_les_ecraser..png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -415,7 +415,7 @@
         "image_TNYzQj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badge_transparent.png",
+            "image": "shopify://shop_images/badge_transparent_-2.png",
             "alignment": "center",
             "max_width": 500
           }
