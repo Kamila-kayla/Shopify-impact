@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Transformez_version_insta.png",
-            "mobile_image": "shopify://shop_images/Transformez_version_insta.png",
+            "image": "shopify://shop_images/banniere_Transformez.png",
+            "mobile_image": "shopify://shop_images/banniere_Transformez.png",
             "content_max_width": 720,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
