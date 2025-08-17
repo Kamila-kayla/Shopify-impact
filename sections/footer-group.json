@@ -92,10 +92,19 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "links_bfWXbL": {
+          "type": "links",
+          "settings": {
+            "menu": "contact",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
         }
       },
       "block_order": [
-        "links_eXHHym"
+        "links_eXHHym",
+        "links_bfWXbL"
       ],
       "settings": {
         "show_social_media": false,
