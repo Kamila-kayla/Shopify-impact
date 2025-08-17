@@ -164,36 +164,6 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_A6bPAM": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_VFAkfV": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "richtext_4dkeCf": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_VFAkfV",
-        "richtext_4dkeCf"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_6B9KmU": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1233,7 +1203,6 @@
     "logo_list_gAzQJb",
     "rich_text_iLxEyd",
     "image_with_text_overlay_zPwMGA",
-    "rich_text_A6bPAM",
     "custom_liquid_6B9KmU",
     "rich_text_R4Dqk6",
     "multi_column_yFTYac",
