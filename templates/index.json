@@ -209,7 +209,7 @@
         "item_JdPmpa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gaine_5.png",
+            "image": "shopify://shop_images/avant_1.png",
             "column_size": "3",
             "title": "Laurie . L",
             "heading_tag": "h4",
@@ -222,7 +222,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gaine_3.png",
+            "image": "shopify://shop_images/avant_2.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -235,7 +235,7 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gaine_4.png",
+            "image": "shopify://shop_images/avant_3.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
@@ -248,11 +248,11 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_gaine_8.png",
+            "image": "shopify://shop_images/avant_4.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
-            "content": "<p>Elle fait vraiment un beau galbe ! Je me sens plus confiante quand je la porte, surtout avec des pantalons ajustés</p>",
+            "content": "<p>Elle fait vraiment un beau galbe ! elle ajuste exactement la taille ou il le faut !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
