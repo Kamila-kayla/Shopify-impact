@@ -183,7 +183,7 @@
         "heading_tPL9gT": {
           "type": "heading",
           "settings": {
-            "text": "Nos clientes en parlent le mieux",
+            "text": "Des résultats concrets , des femmes convaincues .",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -203,69 +203,82 @@
         "text_color": ""
       }
     },
-    "multi_column_yFTYac": {
+    "multi_column_6Qxbnw": {
       "type": "multi-column",
       "blocks": {
-        "item_JdPmpa": {
+        "item_AEwRL6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_4.png",
-            "column_size": "3",
-            "title": "Laurie . L",
+            "video": "shopify://files/videos/0811 VIDEO SITE GAINE 2  2025-08-11-23-47-26.mov",
+            "column_size": "4",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>J’avais peur qu’elle soit trop serrée, mais elle épouse parfaitement les formes et met les fesses en valeur. Effet immédiat !</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_TtdjWG": {
+        "item_9diKiW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_5.png",
+            "video": "shopify://files/videos/0811 VIDEO GAINE SITE .mov",
             "column_size": "3",
-            "title": "Camille . D",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Le tissu est top ! Souple mais gainant, on se sent maintenue sans être comprimée. Parfaite pour le quotidien.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_jGUfjL": {
+        "item_kXGWhg": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_3.png",
+            "video": "shopify://files/videos/0811 video site sans logo .mov",
             "column_size": "3",
-            "title": "Sarah . M",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Cette gaine est incroyable ! Je l’ai portée pour un événement toute la journée, et je n’ai ressenti aucune gêne.En plus, elle affine la silhouette tout en galbant joliment les fesses.  recommande à 200 %</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_ULe6U3": {
+        "item_3WPzEh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_1.png",
+            "video": "shopify://files/videos/0814.mov",
             "column_size": "3",
-            "title": "Marie . R",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Elle fait vraiment un beau galbe ! elle ajuste exactement la taille ou il le faut !</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_8dUY7R": {
+        "item_Fk7Dz7": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_6.png",
+            "video": "shopify://files/videos/Video format tiktok 1.mp4",
             "column_size": "3",
-            "title": "Ingrid  .T",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé.  Un vrai coup de cœur !</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_KWVxGf": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/0815.mov",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -273,11 +286,12 @@
         }
       },
       "block_order": [
-        "item_JdPmpa",
-        "item_TtdjWG",
-        "item_jGUfjL",
-        "item_ULe6U3",
-        "item_8dUY7R"
+        "item_AEwRL6",
+        "item_9diKiW",
+        "item_kXGWhg",
+        "item_3WPzEh",
+        "item_Fk7Dz7",
+        "item_KWVxGf"
       ],
       "name": "Multi-column",
       "settings": {
@@ -425,7 +439,7 @@
           }
         },
         "countdown_timer_essential_app_block_P84CFM": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
           "settings": {
             "id": "cmdc92tp800eex3zx7n8zqiwv"
           }
@@ -550,7 +564,7 @@
         "heading_9pM8Mf": {
           "type": "heading",
           "settings": {
-            "text": "Des résultats concrets , des femmes convaincues .",
+            "text": "Nos clientes en parlent le mieux",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -573,110 +587,6 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "multi_column_6Qxbnw": {
-      "type": "multi-column",
-      "blocks": {
-        "item_AEwRL6": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 VIDEO SITE GAINE 2  2025-08-11-23-47-26.mov",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9diKiW": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 VIDEO GAINE SITE .mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_kXGWhg": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0811 video site sans logo .mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3WPzEh": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0814.mov",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Fk7Dz7": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Video format tiktok 1.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_KWVxGf": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/0815.mov",
-            "column_size": "2",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_AEwRL6",
-        "item_9diKiW",
-        "item_kXGWhg",
-        "item_3WPzEh",
-        "item_Fk7Dz7",
-        "item_KWVxGf"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -718,6 +628,96 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_yFTYac": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JdPmpa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_4.png",
+            "column_size": "3",
+            "title": "Laurie . L",
+            "heading_tag": "h4",
+            "content": "<p>J’avais peur qu’elle soit trop serrée, mais elle épouse parfaitement les formes et met les fesses en valeur. Effet immédiat !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TtdjWG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_5.png",
+            "column_size": "3",
+            "title": "Camille . D",
+            "heading_tag": "h4",
+            "content": "<p>Le tissu est top ! Souple mais gainant, on se sent maintenue sans être comprimée. Parfaite pour le quotidien.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jGUfjL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_3.png",
+            "column_size": "3",
+            "title": "Sarah . M",
+            "heading_tag": "h4",
+            "content": "<p>Cette gaine est incroyable ! Je l’ai portée pour un événement toute la journée, et je n’ai ressenti aucune gêne.En plus, elle affine la silhouette tout en galbant joliment les fesses.  recommande à 200 %</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ULe6U3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_1.png",
+            "column_size": "3",
+            "title": "Marie . R",
+            "heading_tag": "h4",
+            "content": "<p>Elle fait vraiment un beau galbe ! elle ajuste exactement la taille ou il le faut !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8dUY7R": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_6.png",
+            "column_size": "3",
+            "title": "Ingrid  .T",
+            "heading_tag": "h4",
+            "content": "<p>Je n’avais jamais trouvé une gaine qui combine confort et efficacité avant celle-ci. Dès que je l’ai enfilée, j’ai senti ma taille affinée et mon ventre complètement lissé.  Un vrai coup de cœur !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JdPmpa",
+        "item_TtdjWG",
+        "item_jGUfjL",
+        "item_ULe6U3",
+        "item_8dUY7R"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1191,12 +1191,12 @@
     "image_with_text_overlay_zPwMGA",
     "custom_liquid_6B9KmU",
     "rich_text_R4Dqk6",
-    "multi_column_yFTYac",
+    "multi_column_6Qxbnw",
     "rich_text_QLFiAL",
     "featured-product",
     "rich_text_tgr4pV",
-    "multi_column_6Qxbnw",
     "rich_text_dPCJtM",
+    "multi_column_yFTYac",
     "multi_column_3L66n7",
     "custom_html_UUEAbY",
     "faq",
