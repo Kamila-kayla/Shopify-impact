@@ -350,9 +350,9 @@
         "image_AFJCLE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/benefice_page_produit.png",
+            "image": "shopify://shop_images/pounts_sfran.png",
             "alignment": "center",
-            "max_width": 420
+            "max_width": 350
           }
         },
         "text_bCbinF": {
