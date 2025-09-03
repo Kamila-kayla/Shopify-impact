@@ -138,80 +138,46 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_qMC998": {
+    "image_with_text_overlay_6W73F3": {
       "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Ameliore_le_sommeil.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
-    "impact_text_qUGqhC": {
-      "type": "impact-text",
+    "rich_text_ERprqd": {
+      "type": "rich-text",
       "blocks": {
-        "item_MMP4QC": {
-          "type": "item",
+        "heading_iTQNwY": {
+          "type": "heading",
           "settings": {
-            "title": "90%",
-            "subheading": "Trouvent leurs cheveux plus longs",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_BUEytr": {
-          "type": "item",
-          "settings": {
-            "title": "90%",
-            "subheading": "Trouvent leurs cheveux moins cassants",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_khjmGE": {
-          "type": "item",
-          "settings": {
-            "title": "95%",
-            "subheading": "Trouvent leurs cheveux plus volumineux",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "text": "Des résultats concrets, des clients convaincus",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_MMP4QC",
-        "item_BUEytr",
-        "item_khjmGE"
+        "heading_iTQNwY"
       ],
-      "name": "Impact text",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
       }
     },
     "multi_column_jVjiEk": {
@@ -265,7 +231,7 @@
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
-        "title": "Featured content",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -431,8 +397,8 @@
     "slideshow_pkq7mz",
     "logo_list_TGAP8Q",
     "rich_text_QNC6TM",
-    "image_with_text_overlay_qMC998",
-    "impact_text_qUGqhC",
+    "image_with_text_overlay_6W73F3",
+    "rich_text_ERprqd",
     "multi_column_jVjiEk",
     "featured_product_K8pwHK",
     "faq_t7G6Fi"
