@@ -652,7 +652,7 @@
         "item_TtdjWG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_5.png",
+            "image": "shopify://shop_images/avant_apres_9.png",
             "column_size": "3",
             "title": "Camille . D",
             "heading_tag": "h4",
@@ -665,7 +665,7 @@
         "item_jGUfjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_3.png",
+            "image": "shopify://shop_images/avant_apres_10.png",
             "column_size": "3",
             "title": "Sarah . M",
             "heading_tag": "h4",
@@ -678,7 +678,7 @@
         "item_ULe6U3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_1.png",
+            "image": "shopify://shop_images/avant_6.png",
             "column_size": "3",
             "title": "Marie . R",
             "heading_tag": "h4",
@@ -691,7 +691,7 @@
         "item_8dUY7R": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_6.png",
+            "image": "shopify://shop_images/avant_3.png",
             "column_size": "3",
             "title": "Ingrid  .T",
             "heading_tag": "h4",
