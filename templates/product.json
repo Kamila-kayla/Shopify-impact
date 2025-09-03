@@ -18,6 +18,14 @@
             "heading_tag": "h3"
           }
         },
+        "image_z7Hjc4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pounts_trans.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -45,7 +53,6 @@
         "image_QGVh8k": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/benefice_page_produit.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -79,6 +86,7 @@
       },
       "block_order": [
         "title",
+        "image_z7Hjc4",
         "badges",
         "price",
         "rating",
