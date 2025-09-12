@@ -20,8 +20,8 @@
         "image_4ccUrW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SAFRAYA_ONE.png",
-            "content_max_width": 780,
+            "image": "shopify://shop_images/vue-de-face-du-concept-de-belle-femme-blonde.jpg",
+            "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
@@ -33,7 +33,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
