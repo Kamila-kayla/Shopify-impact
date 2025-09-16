@@ -20,13 +20,13 @@
         "image_4ccUrW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vue-de-face-du-concept-de-belle-femme-blonde.jpg",
+            "image": "shopify://shop_images/bannier_anti_rides.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
             "subheading": "",
             "title": "STOP aux regards fatigués qui trahissent votre âge !",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "button_text": "",
             "button_link": "",
             "text_color": "#1a1a1a",
