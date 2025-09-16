@@ -163,7 +163,7 @@
         "heading_iTQNwY": {
           "type": "heading",
           "settings": {
-            "text": "Des résultats concrets, des clientes convaincus",
+            "text": "Des résultats concrets, des clients convaincus",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -215,6 +215,7 @@
         "item_4bpjrp": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/anti cerne video 4 canva .mp4",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
