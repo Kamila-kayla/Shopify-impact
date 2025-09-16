@@ -367,8 +367,8 @@
         "item_rgKWHn": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "La crème est-elle adaptée à tous les types de peau ?",
+            "content": "<p>Oui . Sa formule a été conçue pour convenir à toutes les peaux, même les plus sensibles. Elle est testée dermatologiquement, non grasse et respecte l’équilibre cutané.</p>"
           }
         },
         "item_mLrEAg": {
@@ -395,7 +395,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
