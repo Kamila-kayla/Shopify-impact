@@ -361,6 +361,23 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_KKr8ca": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/carte_41004948-67d0-4a36-a168-433e4cb3b32e.png",
+        "mobile_image": "shopify://shop_images/carte_41004948-67d0-4a36-a168-433e4cb3b32e.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_t7G6Fi": {
       "type": "faq",
       "blocks": {
@@ -439,6 +456,7 @@
     "rich_text_ERprqd",
     "multi_column_jVjiEk",
     "featured_product_K8pwHK",
+    "image_with_text_overlay_KKr8ca",
     "faq_t7G6Fi"
   ]
 }
