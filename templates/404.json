@@ -384,12 +384,20 @@
             "title": "Puis-je utiliser la crème avec du maquillage ?",
             "content": "<p>Oui . Sa texture légère et non grasse permet une <strong>application facile avant le maquillage</strong>, sans laisser de film collant. Beaucoup de clientes l’utilisent comme <strong>base contour des yeux</strong>.</p>"
           }
+        },
+        "item_tnBP77": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un tube de crème ?",
+            "content": "<p>Un tube de <strong>20 ml</strong> utilisé deux fois par jour dure environ <strong>4 à 6 semaines</strong>, selon la quantité appliquée.</p>"
+          }
         }
       },
       "block_order": [
         "item_rgKWHn",
         "item_mLrEAg",
-        "item_LqDdPP"
+        "item_LqDdPP",
+        "item_tnBP77"
       ],
       "settings": {
         "full_width": true,
