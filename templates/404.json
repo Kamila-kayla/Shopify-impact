@@ -391,13 +391,21 @@
             "title": "Combien de temps dure un tube de crème ?",
             "content": "<p>Un tube de <strong>20 ml</strong> utilisé deux fois par jour dure environ <strong>4 à 6 semaines</strong>, selon la quantité appliquée.</p>"
           }
+        },
+        "item_itpqjR": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il une garantie ?",
+            "content": "<p>Oui . Nous offrons une garantie <strong>“satisfait ou remboursé 30 jours”</strong>. Essayez sans risque.</p>"
+          }
         }
       },
       "block_order": [
         "item_rgKWHn",
         "item_mLrEAg",
         "item_LqDdPP",
-        "item_tnBP77"
+        "item_tnBP77",
+        "item_itpqjR"
       ],
       "settings": {
         "full_width": true,
