@@ -118,6 +118,7 @@
       "blocks": {
         "heading_hByXNg": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Le rituel naturel qui libère votre esprit en un instant",
             "heading_tag": "h4",
@@ -162,7 +163,7 @@
         "heading_iTQNwY": {
           "type": "heading",
           "settings": {
-            "text": "Des résultats concrets, des clients convaincus",
+            "text": "Des résultats concrets, des clientes convaincus",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -188,6 +189,7 @@
         "item_XaCcEi": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Video cerne canva .mp4",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -200,6 +202,7 @@
         "item_K6p8p6": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/video cerne canva 2 .mp4",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
