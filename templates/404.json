@@ -212,6 +212,19 @@
             "link_style": "link"
           }
         },
+        "item_aYWN3F": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video canva 8.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_4bpjrp": {
           "type": "item",
           "settings": {
@@ -229,6 +242,7 @@
       "block_order": [
         "item_XaCcEi",
         "item_K6p8p6",
+        "item_aYWN3F",
         "item_4bpjrp"
       ],
       "settings": {
