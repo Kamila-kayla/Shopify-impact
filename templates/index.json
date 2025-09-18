@@ -108,6 +108,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_EmdaX3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gb73UL": {
+          "type": "heading",
+          "settings": {
+            "text": "Rajeunissez votre peau sans chirurgie",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_gb73UL"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_N8XDmX": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -221,6 +247,96 @@
         "subheading": "",
         "title": "",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_YtVc6P": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NXT8FW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Anti_cerne_1.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RBLPNn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Anti_cerne_2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_d6tAya": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Anti_cerne_4.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jTwCKh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Anti_cerne_6.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wVeGwy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Anti_cerne_5.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NXT8FW",
+        "item_RBLPNn",
+        "item_d6tAya",
+        "item_jTwCKh",
+        "item_wVeGwy"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -401,9 +517,11 @@
   "order": [
     "slideshow_DQa6pf",
     "logo_list_67Xawq",
+    "rich_text_EmdaX3",
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
     "multi_column_eEHEzm",
+    "multi_column_YtVc6P",
     "featured_product_bVMhaf",
     "faq_7CF8UR"
   ]
