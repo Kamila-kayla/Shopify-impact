@@ -328,6 +328,74 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "faq_7CF8UR": {
+      "type": "faq",
+      "blocks": {
+        "item_gHfQKR": {
+          "type": "item",
+          "settings": {
+            "title": "La crème est-elle adaptée à tous les types de peau ?",
+            "content": "<p>Oui . Sa formule a été conçue pour convenir à toutes les peaux, même les plus sensibles. Elle est testée dermatologiquement, non grasse et respecte l’équilibre cutané.</p>"
+          }
+        },
+        "item_PyXRHQ": {
+          "type": "item",
+          "settings": {
+            "title": "Comment dois-je appliquer la crème ?",
+            "content": "<p>Appliquez une petite noisette matin et soir sur le contour des yeux propre et sec.<br/>Tapotez délicatement du bout des doigts pour faire pénétrer la crème.<br/>Astuce  : un massage doux stimule la microcirculation et renforce l’efficacité.</p>"
+          }
+        },
+        "item_FHYPwr": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser la crème avec du maquillage ?",
+            "content": "<p>Oui . Sa texture légère et non grasse permet une <strong>application facile avant le maquillage</strong>, sans laisser de film collant. Beaucoup de clientes l’utilisent comme <strong>base contour des yeux</strong>.</p>"
+          }
+        },
+        "item_7qHkMk": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un tube de crème ?",
+            "content": "<p>Un tube de <strong>20 ml</strong> utilisé deux fois par jour dure environ <strong>4 à 6 semaines</strong>, selon la quantité appliquée.</p>"
+          }
+        },
+        "item_pd9jX6": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il une garantie ?",
+            "content": "<p>Oui . Nous offrons une garantie <strong>“satisfait ou remboursé 30 jours”</strong>. Essayez sans risque.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_gHfQKR",
+        "item_PyXRHQ",
+        "item_FHYPwr",
+        "item_7qHkMk",
+        "item_pd9jX6"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -336,6 +404,7 @@
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
     "multi_column_eEHEzm",
-    "featured_product_bVMhaf"
+    "featured_product_bVMhaf",
+    "faq_7CF8UR"
   ]
 }
