@@ -260,7 +260,7 @@
           "settings": {
             "image": "shopify://shop_images/Anti_cerne_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie, 45 ans",
             "heading_tag": "h4",
             "content": "<p>Dès l’application, ma peau paraît plus lisse et mes ridules sont moins visibles. C’est la première crème qui apporte un vrai résultat</p>",
             "link_url": "",
@@ -273,7 +273,7 @@
           "settings": {
             "image": "shopify://shop_images/Anti_cerne_2.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Claire, 49 ans",
             "heading_tag": "h4",
             "content": "<p>J’avais testé une dizaine de crèmes sans succès. Avec celle-ci, mes ridules autour des yeux se sont estompées en moins d’un mois. Je parais plus fraîche et je me sens beaucoup plus confiante au naturel.”</p>",
             "link_url": "",
@@ -286,7 +286,7 @@
           "settings": {
             "image": "shopify://shop_images/Anti_cerne_4.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie, 42 ans",
             "heading_tag": "h4",
             "content": "<p>Mes cernes  et mes poches m’ont toujours vieilli… Mais cette crème a été une vraie révélation. Mon regard est lumineux, et je parais facilement 5 à 10 ans plus jeune. Un indispensable dans ma routine beauté !</p>",
             "link_url": "",
