@@ -18,14 +18,6 @@
             "heading_tag": "h3"
           }
         },
-        "image_z7Hjc4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/pounts_trans.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -86,7 +78,6 @@
       },
       "block_order": [
         "title",
-        "image_z7Hjc4",
         "badges",
         "price",
         "rating",

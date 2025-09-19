@@ -345,27 +345,21 @@
     "featured_product_bVMhaf": {
       "type": "featured-product",
       "blocks": {
-        "liquid_pE3RTc": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Avis Trustpilot</title>\n  <style>\n    .trustpilot-banner {\n      background-color: #f7f7f7;\n      padding: 12px 20px;\n      border-radius: 8px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      font-family: 'Poppins', sans-serif;\n      box-shadow: 0 0 8px rgba(0,0,0,0.05);\n    }\n    .trustpilot-banner img {\n      display: inline-block;\n      vertical-align: middle;\n    }\n    .trustpilot-stars {\n      width: 100px;\n      margin: 0 10px;\n    }\n    .trustpilot-logo {\n      width: 90px;\n      margin-left: 8px;\n    }\n    .trustpilot-text {\n      color: #111;\n      font-size: 14px;\n      font-weight: 500;\n    }\n    .trustpilot-text span {\n      color: #00b67a;\n      font-weight: 600;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"trustpilot-banner\">\n    <span class=\"trustpilot-text\">Note moyenne : <span>4,8/5</span> sur</span>\n    <img class=\"trustpilot-stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"Étoiles Trustpilot\">\n    <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot\">\n  </div>\n</body>\n</html>"
-          }
-        },
         "title_Bp84dw": {
           "type": "title",
           "settings": {
             "heading_tag": "h4"
           }
         },
+        "liquid_pE3RTc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Avis Trustpilot</title>\n  <style>\n    .trustpilot-banner {\n      background-color: #f7f7f7;\n      padding: 12px 20px;\n      border-radius: 8px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      font-family: 'Poppins', sans-serif;\n      box-shadow: 0 0 8px rgba(0,0,0,0.05);\n    }\n    .trustpilot-banner img {\n      display: inline-block;\n      vertical-align: middle;\n    }\n    .trustpilot-stars {\n      width: 100px;\n      margin: 0 10px;\n    }\n    .trustpilot-logo {\n      width: 90px;\n      margin-left: 8px;\n    }\n    .trustpilot-text {\n      color: #111;\n      font-size: 14px;\n      font-weight: 500;\n    }\n    .trustpilot-text span {\n      color: #00b67a;\n      font-weight: 600;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"trustpilot-banner\">\n    <span class=\"trustpilot-text\">Note moyenne : <span>4,8/5</span> sur</span>\n    <img class=\"trustpilot-stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"Étoiles Trustpilot\">\n    <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot\">\n  </div>\n</body>\n</html>"
+          }
+        },
         "badges_nPTJWP": {
           "type": "badges",
           "settings": {}
-        },
-        "price_8MdbK9": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating_gHky4c": {
           "type": "rating",
@@ -376,6 +370,12 @@
         "separator_JFc4dX": {
           "type": "separator",
           "settings": {}
+        },
+        "kaching_bundles_app_block_V6mi69": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
         },
         "description_xrFCdC": {
           "type": "description",
@@ -415,12 +415,12 @@
         }
       },
       "block_order": [
-        "liquid_pE3RTc",
         "title_Bp84dw",
+        "liquid_pE3RTc",
         "badges_nPTJWP",
-        "price_8MdbK9",
         "rating_gHky4c",
         "separator_JFc4dX",
+        "kaching_bundles_app_block_V6mi69",
         "description_xrFCdC",
         "variant_picker_pkHLwj",
         "quantity_selector_YmC8Rj",
