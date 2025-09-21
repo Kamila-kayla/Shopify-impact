@@ -15,13 +15,14 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/banniere_2.png",
+            "image": "shopify://shop_images/developpe_l_inteligence.png",
+            "mobile_image": "shopify://shop_images/developpe_l_inteligence.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
             "subheading": "",
             "title": "",
-            "heading_tag": "h5",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#1a1a1a",
@@ -56,8 +57,8 @@
         "logo_YdwCDi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Capture_d_ecran_2025-05-21_a_03.56.11.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/best_magazine.png",
+            "logo_width": 290,
             "link": ""
           }
         },
@@ -65,7 +66,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Marie_Claire.png",
-            "logo_width": 120,
+            "logo_width": 300,
             "link": ""
           }
         },
@@ -110,20 +111,6 @@
     },
     "rich_text_EmdaX3": {
       "type": "rich-text",
-      "blocks": {
-        "heading_gb73UL": {
-          "type": "heading",
-          "settings": {
-            "text": "Transformez votre regard !",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_gb73UL"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -142,8 +129,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/new_eyes.png",
-        "mobile_image": "shopify://shop_images/new_eyes.png",
+        "image": "shopify://shop_images/TRANSFORME_L_ADDICTION_ECRAN_EN_PASSION_CREATIVE.png",
+        "mobile_image": "shopify://shop_images/TRANSFORME_L_ADDICTION_ECRAN_EN_PASSION_CREATIVE.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -157,8 +144,8 @@
         "heading_3DtKW3": {
           "type": "heading",
           "settings": {
-            "text": "Des résultats concrets, des clients convaincus",
-            "heading_tag": "h3",
+            "text": "ENFIN ! L'Anti-Écran Qui Passionne Vraiment",
+            "heading_tag": "h5",
             "text_color": "",
             "gradient": ""
           }
@@ -180,10 +167,23 @@
     "multi_column_eEHEzm": {
       "type": "multi-column",
       "blocks": {
+        "item_m9YQwP": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Video magnicube 2 .mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_3Lnftf": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/video canva 6 .mp4",
+            "video": "shopify://files/videos/video magnicub 1 .mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -196,20 +196,7 @@
         "item_tt8b3w": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/canva 7 .mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_m9YQwP": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video canva 8.mp4",
+            "video": "shopify://files/videos/video magnicube 4.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -222,7 +209,7 @@
         "item_TQ9DHF": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/anti cerne video 4 canva .mp4",
+            "video": "shopify://files/videos/video magneticube 6.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -234,9 +221,9 @@
         }
       },
       "block_order": [
+        "item_m9YQwP",
         "item_3Lnftf",
         "item_tt8b3w",
-        "item_m9YQwP",
         "item_TQ9DHF"
       ],
       "settings": {
