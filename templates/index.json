@@ -247,8 +247,8 @@
           "settings": {
             "image": "shopify://shop_images/image_clients_3.png",
             "column_size": "3",
-            "title": "Mélanie, maman de Yoan (5 ans)",
-            "heading_tag": "h4",
+            "title": "Hanna, maman de Noé  ( 5 ans)",
+            "heading_tag": "h5",
             "content": "<p><em>Mon mari et moi cherchions un jouet qui stimule vraiment notre fils. Là, on voit clairement les progrès : il réfléchit, construit des structures complexes et surtout il est fier de lui. C’est à la fois un jeu et un outil éducatif. </em></p>",
             "link_url": "",
             "link_text": "",
@@ -261,7 +261,7 @@
             "image": "shopify://shop_images/image_clients_4.png",
             "column_size": "3",
             "title": "Julie, maman de Sarah (9 ans)",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.”</em>–</p>",
             "link_url": "",
             "link_text": "",
@@ -273,9 +273,9 @@
           "settings": {
             "image": "shopify://shop_images/image_clients_6.png",
             "column_size": "3",
-            "title": "Sophie, 42 ans",
-            "heading_tag": "h4",
-            "content": "<p>Mes cernes  et mes poches m’ont toujours vieilli… Mais cette crème a été une vraie révélation. Mon regard est lumineux, et je parais facilement 5 à 10 ans plus jeune. Un indispensable dans ma routine beauté !</p>",
+            "title": "Camille, maman de Mathis (8 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>J’hésitais à cause du prix, mais quand je vois le temps que mon fils passe dessus plutôt qu’à la tablette, je me dis que c’est le meilleur achat que j’ai fait depuis longtemps. La tranquillité et son sourire n’ont pas de prix. </em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
