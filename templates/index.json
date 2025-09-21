@@ -262,7 +262,7 @@
             "column_size": "3",
             "title": "Julie, maman de Sarah (9 ans)",
             "heading_tag": "h5",
-            "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.”</em>–</p>",
+            "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -286,9 +286,9 @@
           "settings": {
             "image": "shopify://shop_images/Image_clients_5.png",
             "column_size": "3",
-            "title": "Marie , 36 ans",
-            "heading_tag": "h4",
-            "content": "<p>Le produit agit exactement là où j’en avais besoin : mes cernes sont visiblement réduites et mon visage paraît plus jeune et détendu</p>",
+            "title": "Élodie, maman de Chloé (8 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>Ma fille passait des heures sur YouTube, je n’arrivais plus à la décrocher… Depuis que j’ai commandé Magnicube, elle préfère inventer ses propres histoires. Elle construit, rit et m’appelle pour me montrer ses créations. J’ai retrouvé ma petite fille créative !</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
