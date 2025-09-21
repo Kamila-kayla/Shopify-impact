@@ -245,7 +245,7 @@
         "item_NXT8FW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Anti_cerne_1.png",
+            "image": "shopify://shop_images/image_clients_3.png",
             "column_size": "3",
             "title": "Julie, 45 ans",
             "heading_tag": "h4",
@@ -258,11 +258,11 @@
         "item_RBLPNn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Anti_cerne_2.png",
+            "image": "shopify://shop_images/image_clients_4.png",
             "column_size": "3",
-            "title": "Claire, 49 ans",
+            "title": "Julie, maman de Sarah (9 ans)",
             "heading_tag": "h4",
-            "content": "<p>J’avais testé une dizaine de crèmes sans succès. Avec celle-ci, mes ridules autour des yeux se sont estompées en moins d’un mois. Je parais plus fraîche et je me sens beaucoup plus confiante au naturel.”</p>",
+            "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.”</em>–</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -271,7 +271,7 @@
         "item_d6tAya": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Anti_cerne_4.png",
+            "image": "shopify://shop_images/image_clients_6.png",
             "column_size": "3",
             "title": "Sophie, 42 ans",
             "heading_tag": "h4",
@@ -284,7 +284,7 @@
         "item_jTwCKh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Anti_cerne_6.png",
+            "image": "shopify://shop_images/Image_clients_5.png",
             "column_size": "3",
             "title": "Marie , 36 ans",
             "heading_tag": "h4",
@@ -297,7 +297,7 @@
         "item_wVeGwy": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Anti_cerne_5.png",
+            "image": "shopify://shop_images/Image_clients_1.png",
             "column_size": "3",
             "title": "Émilie, 39 ans",
             "heading_tag": "h4",
