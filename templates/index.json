@@ -299,9 +299,9 @@
           "settings": {
             "image": "shopify://shop_images/Image_clients_1.png",
             "column_size": "3",
-            "title": "Émilie, 39 ans",
-            "heading_tag": "h4",
-            "content": "<p>Mes yeux semblaient toujours fatigués, même après une bonne nuit. Aujourd’hui, mon regard est net, lumineux et mes rides autour des yeux sont beaucoup moins marquées</p>",
+            "title": "Thomas, papa de Léo (7 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>J’avais peur que ce soit encore un jouet qui finisse au placard… mais c’est tout l’inverse ! Mon fils s’éclate chaque jour à construire de nouveaux mondes, il ne lâche plus ses cubes. Franchement, pour la joie que je vois dans ses yeux, ça vaut largement l’investissement.</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
