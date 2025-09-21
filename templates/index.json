@@ -247,9 +247,9 @@
           "settings": {
             "image": "shopify://shop_images/image_clients_3.png",
             "column_size": "3",
-            "title": "Julie, 45 ans",
+            "title": "Mélanie, maman de Yoan (5 ans)",
             "heading_tag": "h4",
-            "content": "<p>Dès l’application, ma peau paraît plus lisse et mes ridules sont moins visibles. C’est la première crème qui apporte un vrai résultat</p>",
+            "content": "<p><em>Mon mari et moi cherchions un jouet qui stimule vraiment notre fils. Là, on voit clairement les progrès : il réfléchit, construit des structures complexes et surtout il est fier de lui. C’est à la fois un jeu et un outil éducatif. </em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
