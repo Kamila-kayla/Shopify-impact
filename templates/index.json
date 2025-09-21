@@ -57,15 +57,15 @@
         "logo_YdwCDi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/best_magazine.png",
-            "logo_width": 290,
+            "logo": "shopify://shop_images/best_magazine_500.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_HiYrte": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire.png",
+            "logo": "shopify://shop_images/Logo_Le_Monde_f0f32b44-5dda-4a74-aac6-d61c82f6a210.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -347,7 +347,7 @@
         "image_ec8y6Q": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Promo_eyes.png",
+            "image": "shopify://shop_images/Promo_magnicube.png",
             "alignment": "center",
             "max_width": 500
           }
