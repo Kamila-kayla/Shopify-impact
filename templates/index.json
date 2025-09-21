@@ -15,8 +15,8 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/developpe_l_inteligence.png",
-            "mobile_image": "shopify://shop_images/developpe_l_inteligence.png",
+            "image": "shopify://shop_images/JAUNE.png",
+            "mobile_image": "shopify://shop_images/JAUNE.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
