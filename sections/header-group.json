@@ -27,11 +27,19 @@
             "text": "Paiement 100% sécurisé",
             "url": ""
           }
+        },
+        "message_GHUmtA": {
+          "type": "message",
+          "settings": {
+            "text": "Adapté aux enfants de 3 à 12 ans",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_cnWFqY"
+        "message_cnWFqY",
+        "message_GHUmtA"
       ],
       "settings": {
         "enable_sticky": false,
