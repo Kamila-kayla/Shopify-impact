@@ -15,8 +15,8 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/JAUNE.png",
-            "mobile_image": "shopify://shop_images/JAUNE.png",
+            "image": "shopify://shop_images/bannier_vert.png",
+            "mobile_image": "shopify://shop_images/bannier_vert.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
@@ -180,7 +180,7 @@
         "heading_3DtKW3": {
           "type": "heading",
           "settings": {
-            "text": "ENFIN ! L'Anti-Écran Qui Passionne Vraiment",
+            "text": "Le cadeau qui remplace les écrans et développe l’imagination ",
             "heading_tag": "h5",
             "text_color": "#1a1a1a",
             "gradient": ""
