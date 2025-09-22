@@ -522,6 +522,13 @@
             "content": "<p> Oui  ! Les aimants sont intégrés pour garantir sécurité + solidité. Les blocs résistent aux chocs et aux manipulations répétées. Votre enfant peut jouer chaque jour sans risque de casse.</p>"
           }
         },
+        "item_U9WJmX": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p><em>La livraison est offerte sur toutes les commandes. Nos délais varient entre 7 et 10 jours ouvrés selon la destination. Chaque commande est soigneusement suivie et vous recevrez un numéro de suivi pour savoir exactement où en est votre colis.</em></p>"
+          }
+        },
         "item_aTGMkq": {
           "type": "item",
           "settings": {
@@ -536,6 +543,7 @@
         "item_FHYPwr",
         "item_7qHkMk",
         "item_pd9jX6",
+        "item_U9WJmX",
         "item_aTGMkq"
       ],
       "settings": {
