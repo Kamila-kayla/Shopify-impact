@@ -378,12 +378,6 @@
             "liquid": "<!-- LOW STOCK BADGE — \"Plus que 4 en stock\" -->\n<div class=\"lowstock-badge\" role=\"status\" aria-live=\"polite\">\n  <span class=\"lowstock-dot\" aria-hidden=\"true\"></span>\n  <span class=\"lowstock-text\"> \nPlus que 4 en stock </span>\n</div>\n\n<style>\n  .lowstock-badge{\n    display:inline-flex; align-items:center; gap:10px;\n    font-weight:700; color:#111; /* texte noir */\n    font-size:14px; line-height:1.2;\n  }\n  .lowstock-dot{\n    width:10px; height:10px; border-radius:50%;\n    background:#FF3B30; /* rouge */\n    position:relative;\n    box-shadow:0 0 0 0 rgba(255,59,48,.55);\n    animation:lowstock-pulse 1.6s ease-out infinite;\n  }\n  .lowstock-dot::after{\n    content:\"\"; position:absolute; inset:-3px; border-radius:50%;\n    box-shadow:0 0 8px rgba(255,59,48,.9);\n    animation:lowstock-glow 1.2s ease-in-out infinite alternate;\n  }\n  @keyframes lowstock-pulse{\n    0%{ box-shadow:0 0 0 0 rgba(255,59,48,.55); }\n    70%{ box-shadow:0 0 0 10px rgba(255,59,48,0); }\n    100%{ box-shadow:0 0 0 0 rgba(255,59,48,0); }\n  }\n  @keyframes lowstock-glow{\n    from{ opacity:.6; } to{ opacity:1; }\n  }\n  @media (prefers-reduced-motion: reduce){\n    .lowstock-dot, .lowstock-dot::after{ animation:none; }\n  }\n</style>"
           }
         },
-        "description_xrFCdC": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker_pkHLwj": {
           "type": "variant_picker",
           "settings": {
@@ -424,7 +418,6 @@
         "separator_JFc4dX",
         "kaching_bundles_app_block_V6mi69",
         "liquid_AHtMDR",
-        "description_xrFCdC",
         "variant_picker_pkHLwj",
         "quantity_selector_YmC8Rj",
         "buy_buttons_CkFxgD",
