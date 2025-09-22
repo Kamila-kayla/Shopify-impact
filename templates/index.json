@@ -109,6 +109,42 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_DfCGjA": {
+      "type": "impact-text",
+      "blocks": {
+        "item_9KqhYc": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Et si vos enfants apprenaient… en jouant ",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_9KqhYc"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "rich_text_EmdaX3": {
       "type": "rich-text",
       "name": "Rich text",
@@ -521,6 +557,7 @@
   "order": [
     "slideshow_DQa6pf",
     "logo_list_67Xawq",
+    "impact_text_DfCGjA",
     "rich_text_EmdaX3",
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
