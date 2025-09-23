@@ -494,6 +494,13 @@
             "content": "<p>Ce jeu est conçu dès <strong>3 ans</strong> . Les pièces sont assez grandes pour être manipulées facilement et les aimants facilitent l’assemblage. Cela permet aux plus petits de développer leur créativité en toute sécurité.</p>"
           }
         },
+        "item_hwQyGE": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté au fille et au garçon ?",
+            "content": "<p>Absolument ! Magnicube est un jeu <strong>mixte et </strong>les couleurs, les formes et les possibilités de construction sont pensées pour stimuler la créativité de <strong>tous les enfants</strong></p>"
+          }
+        },
         "item_PyXRHQ": {
           "type": "item",
           "settings": {
@@ -539,6 +546,7 @@
       },
       "block_order": [
         "item_gHfQKR",
+        "item_hwQyGE",
         "item_PyXRHQ",
         "item_FHYPwr",
         "item_7qHkMk",
@@ -578,7 +586,7 @@
             "hide_thumbnails": false,
             "product_handle": "",
             "aggregated": true,
-            "data-limit": 20,
+            "data-limit": 11,
             "maxwidth": 1080,
             "is_sample": true
           }
