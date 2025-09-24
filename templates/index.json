@@ -316,7 +316,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Satisfait ou remboursé  ✅ ",
-            "content": "<p>Offrez à vos enfants de quoi<strong>déployer leur imagination</strong>, structurer leur<strong>logique</strong>et<strong>renforcer leur confiance</strong>avec<strong>MagniCube</strong>, nos blocs aimantés.<br/>Et si,<strong>sous 30 jours</strong>, MagniCube n’apporte pas les<strong>résultats attendus</strong>, renvoyez-le : nous<strong>remboursons</strong>simplement.</p>",
+            "content": "<p>Offrez à vos enfants de quoi <strong>déployer leur imagination</strong>, structurer leur<strong>logique</strong>et<strong>renforcer leur confiance</strong>avec<strong>MagniCube</strong>, nos blocs aimantés.<br/>Et si,<strong>sous 30 jours</strong>, MagniCube n’apporte pas les<strong>résultats attendus</strong>, renvoyez-le : nous<strong>remboursons</strong>simplement.</p>",
             "page": ""
           }
         },
@@ -387,6 +387,23 @@
         "input_text_color": ""
       }
     },
+    "image_with_text_overlay_Cmqan7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/OK.png",
+        "mobile_image": "shopify://shop_images/OK.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_eNhiWm": {
       "type": "rich-text",
       "blocks": {
@@ -406,7 +423,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -632,6 +649,7 @@
     "rich_text_FGWDF4",
     "multi_column_eEHEzm",
     "featured_product_bVMhaf",
+    "image_with_text_overlay_Cmqan7",
     "rich_text_eNhiWm",
     "multi_column_YtVc6P",
     "faq_7CF8UR",
