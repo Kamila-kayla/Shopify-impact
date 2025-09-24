@@ -506,6 +506,13 @@
             "content": "<p> Oui  ! Les aimants sont intégrés pour garantir sécurité + solidité. Les blocs résistent aux chocs et aux manipulations répétées. Votre enfant peut jouer chaque jour sans risque de casse.</p>"
           }
         },
+        "item_3nWeDV": {
+          "type": "item",
+          "settings": {
+            "title": "Comment les entretenir ?",
+            "content": "<p><strong>Entretien</strong></p><ul><li><strong>Nettoyage courant :</strong> essuyer avec un <strong>chiffon doux légèrement humide</strong>. Savon neutre si besoin, puis <strong>sécher immédiatement</strong>.</li><li><strong>À éviter :</strong> <strong>lavage en machine</strong>, <strong>lave-vaisselle</strong>, <strong>trempage</strong>, produits abrasifs ou javel → risquent d’abîmer la surface et les aimants.</li></ul>"
+          }
+        },
         "item_U9WJmX": {
           "type": "item",
           "settings": {
@@ -527,6 +534,7 @@
         "item_PyXRHQ",
         "item_7qHkMk",
         "item_pd9jX6",
+        "item_3nWeDV",
         "item_U9WJmX",
         "item_aTGMkq"
       ],
