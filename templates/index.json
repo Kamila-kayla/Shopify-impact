@@ -58,15 +58,15 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/montessori_1024.png",
-            "logo_width": 160,
+            "logo_width": 220,
             "link": ""
           }
         },
         "logo_HiYrte": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_Le_Monde_f0f32b44-5dda-4a74-aac6-d61c82f6a210.jpg",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/LOGO_STEM.png",
+            "logo_width": 220,
             "link": ""
           }
         },
@@ -74,15 +74,15 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/best_magazine_500.png",
-            "logo_width": 120,
+            "logo_width": 140,
             "link": ""
           }
         },
         "logo_mgqzaa": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/PARENTOLY.png",
+            "logo_width": 220,
             "link": ""
           }
         }
