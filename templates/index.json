@@ -15,8 +15,8 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bannier_vert.png",
-            "mobile_image": "shopify://shop_images/bannier_vert.png",
+            "image": "shopify://shop_images/bannier_valide.png",
+            "mobile_image": "shopify://shop_images/bannier_valide.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
@@ -97,7 +97,7 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "",
-        "content": "<h2>APPROUVÉ PAR LES EXPERTS </h2>",
+        "content": "<h2><em>APPROUVÉ PAR LES EXPERTS </em></h2>",
         "text_alignment": "center",
         "items_per_row": 7,
         "background": "#ffffff",
@@ -107,42 +107,6 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
-      }
-    },
-    "impact_text_DfCGjA": {
-      "type": "impact-text",
-      "blocks": {
-        "item_9KqhYc": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Et si vos enfants apprenaient… en jouant ",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_9KqhYc"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "rich_text_EmdaX3": {
@@ -165,8 +129,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/TRANSFORME_L_ADDICTION_ECRAN_EN_PASSION_CREATIVE.png",
-        "mobile_image": "shopify://shop_images/TRANSFORME_L_ADDICTION_ECRAN_EN_PASSION_CREATIVE.png",
+        "image": "shopify://shop_images/pk_blanc.png",
+        "mobile_image": "shopify://shop_images/pk_blanc.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -193,7 +157,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -440,7 +404,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#d0fabb",
+            "atc_button_background": "#f9f522",
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -608,7 +572,6 @@
   "order": [
     "slideshow_DQa6pf",
     "logo_list_67Xawq",
-    "impact_text_DfCGjA",
     "rich_text_EmdaX3",
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
