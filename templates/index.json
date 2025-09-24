@@ -288,10 +288,28 @@
             "liquid": "<!-- LOW STOCK BADGE — \"Plus que 4 en stock\" -->\n<div class=\"lowstock-badge\" role=\"status\" aria-live=\"polite\">\n  <span class=\"lowstock-dot\" aria-hidden=\"true\"></span>\n  <span class=\"lowstock-text\"> \nPlus que 4 en stock </span>\n</div>\n\n<style>\n  .lowstock-badge{\n    display:inline-flex; align-items:center; gap:10px;\n    font-weight:700; color:#111; /* texte noir */\n    font-size:14px; line-height:1.2;\n  }\n  .lowstock-dot{\n    width:10px; height:10px; border-radius:50%;\n    background:#FF3B30; /* rouge */\n    position:relative;\n    box-shadow:0 0 0 0 rgba(255,59,48,.55);\n    animation:lowstock-pulse 1.6s ease-out infinite;\n  }\n  .lowstock-dot::after{\n    content:\"\"; position:absolute; inset:-3px; border-radius:50%;\n    box-shadow:0 0 8px rgba(255,59,48,.9);\n    animation:lowstock-glow 1.2s ease-in-out infinite alternate;\n  }\n  @keyframes lowstock-pulse{\n    0%{ box-shadow:0 0 0 0 rgba(255,59,48,.55); }\n    70%{ box-shadow:0 0 0 10px rgba(255,59,48,0); }\n    100%{ box-shadow:0 0 0 0 rgba(255,59,48,0); }\n  }\n  @keyframes lowstock-glow{\n    from{ opacity:.6; } to{ opacity:1; }\n  }\n  @media (prefers-reduced-motion: reduce){\n    .lowstock-dot, .lowstock-dot::after{ animation:none; }\n  }\n</style>"
           }
         },
-        "text_wLWfGK": {
-          "type": "text",
+        "collapsible_text_gMhXLe": {
+          "type": "collapsible_text",
           "settings": {
-            "text": "<ul><li><strong>Déjà + de 6000 familles satisfaites</strong></li><li><strong>Livraison offerte </strong></li><li><strong>Paiement 100% sécurisé</strong></li><li><strong>Garantie satisfait ou remboursé 30 jours</strong></li></ul>"
+            "title": "Ce qui est inclus",
+            "content": "<ul><li><strong>PACK DÉCOUVERTE   60 pièces .  </strong>Pour démarrer <strong>sans se perdre</strong> ,  parfaits pour les premières constructions <br/><strong>On crée facilement :</strong>abris, passerelles, petits décors, personnages et formes géométriques. sessions courtes mais <strong>concentrées</strong>, jeu en <strong>autonomie</strong>.<br/><strong>Pourquoi le choisir :</strong>découverte rapide, gestes précis qui développent <strong>motricité fine </strong>et <strong>confiance</strong>.</li></ul><p></p><ul><li><strong>PACK CREATIF 100 pièces . </strong>Pour ceux qui veulent <strong>voir grand</strong>. Plus de formes, plus de couleurs, plus de portée : on passe aux <strong>architectures modulaires</strong> et aux projets partagés.<br/><strong>On construit :</strong> maisons à étages, village complet, cascade, véhicules, scènes imaginaires. <strong>Pourquoi le choisir :</strong> liberté créative, <strong>structures plus complexes</strong> et jeu qui dure <strong>des heures</strong> sans écran.</li></ul><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_9ViQiw": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Pour qui   ?",
+            "content": "<p><strong>Pour qui ?</strong></p><ul><li><strong>À partir de 36 mois</strong>, <strong>sous la surveillance d’un adulte</strong>.</li><li>Idéal de <strong>3 à 10 ans</strong>, mais <strong>sans limite d’âge </strong>le jeu est <strong>évolutif</strong> et reste fun pour les plus grands.</li><li><strong>Solo ou en famille</strong> : c’est tellement <strong>créatif</strong> que <strong>tout le monde va adorer</strong> (parents, fratrie, grands-parents).</li><li>À la maison, chez mamie, au resto , au parc </li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_mmfmg6": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Satisfait ou remboursé",
+            "content": "<p>Offrez à vos enfants de quoi<strong>déployer leur imagination</strong>, structurer leur<strong>logique</strong>et<strong>renforcer leur confiance</strong>avec<strong>MagniCube</strong>, nos blocs aimantés.<br/>Et si,<strong>sous 30 jours</strong>, MagniCube n’apporte pas les<strong>résultats attendus</strong>, renvoyez-le : nous<strong>remboursons</strong>simplement.</p>",
+            "page": ""
           }
         },
         "variant_picker_pkHLwj": {
@@ -334,7 +352,9 @@
         "separator_JFc4dX",
         "kaching_bundles_app_block_V6mi69",
         "liquid_AHtMDR",
-        "text_wLWfGK",
+        "collapsible_text_gMhXLe",
+        "collapsible_text_9ViQiw",
+        "collapsible_text_mmfmg6",
         "variant_picker_pkHLwj",
         "quantity_selector_YmC8Rj",
         "buy_buttons_CkFxgD",
