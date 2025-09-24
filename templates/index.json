@@ -291,7 +291,7 @@
         "collapsible_text_gMhXLe": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Ce qui est inclus",
+            "title": "Ce qui est inclus  🎁",
             "content": "<ul><li><strong>PACK DÉCOUVERTE   60 pièces .  </strong>Pour démarrer <strong>sans se perdre</strong> ,  parfaits pour les premières constructions <br/><strong>On crée facilement :</strong>abris, passerelles, petits décors, personnages et formes géométriques. sessions courtes mais <strong>concentrées</strong>, jeu en <strong>autonomie</strong>.<br/><strong>Pourquoi le choisir :</strong>découverte rapide, gestes précis qui développent <strong>motricité fine </strong>et <strong>confiance</strong>.</li></ul><p></p><ul><li><strong>PACK CREATIF 100 pièces . </strong>Pour ceux qui veulent <strong>voir grand</strong>. Plus de formes, plus de couleurs, plus de portée : on passe aux <strong>architectures modulaires</strong> et aux projets partagés.<br/><strong>On construit :</strong> maisons à étages, village complet, cascade, véhicules, scènes imaginaires. <strong>Pourquoi le choisir :</strong> liberté créative, <strong>structures plus complexes</strong> et jeu qui dure <strong>des heures</strong> sans écran.</li></ul><p></p>",
             "page": ""
           }
@@ -299,15 +299,23 @@
         "collapsible_text_9ViQiw": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Pour qui   ?",
+            "title": "Pour qui   ❓",
             "content": "<p><strong>Pour qui ?</strong></p><ul><li><strong>À partir de 36 mois</strong>, <strong>sous la surveillance d’un adulte</strong>.</li><li>Idéal de <strong>3 à 10 ans</strong>, mais <strong>sans limite d’âge </strong>le jeu est <strong>évolutif</strong> et reste fun pour les plus grands.</li><li><strong>Solo ou en famille</strong> : c’est tellement <strong>créatif</strong> que <strong>tout le monde va adorer</strong> (parents, fratrie, grands-parents).</li><li>À la maison, chez mamie, au resto , au parc </li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_MDiDDJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison  🚚",
+            "content": "<p>La livraison est <strong>gratuite </strong>et vos MagniCube arrivent sous <strong>7  à 10 jours ouvrés</strong>. Vous recevrez un e-mail avec un numéro de suivi dès que votre commande sera expédiée.</p>",
             "page": ""
           }
         },
         "collapsible_text_mmfmg6": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Satisfait ou remboursé",
+            "title": "Satisfait ou remboursé  ✅ ",
             "content": "<p>Offrez à vos enfants de quoi<strong>déployer leur imagination</strong>, structurer leur<strong>logique</strong>et<strong>renforcer leur confiance</strong>avec<strong>MagniCube</strong>, nos blocs aimantés.<br/>Et si,<strong>sous 30 jours</strong>, MagniCube n’apporte pas les<strong>résultats attendus</strong>, renvoyez-le : nous<strong>remboursons</strong>simplement.</p>",
             "page": ""
           }
@@ -354,6 +362,7 @@
         "liquid_AHtMDR",
         "collapsible_text_gMhXLe",
         "collapsible_text_9ViQiw",
+        "collapsible_text_MDiDDJ",
         "collapsible_text_mmfmg6",
         "variant_picker_pkHLwj",
         "quantity_selector_YmC8Rj",
@@ -376,6 +385,32 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_eNhiWm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6FKjGb": {
+          "type": "heading",
+          "settings": {
+            "text": "Des milliers  de familles satisfaites",
+            "heading_tag": "h5",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6FKjGb"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_YtVc6P": {
@@ -510,7 +545,7 @@
           "type": "item",
           "settings": {
             "title": "Comment les entretenir ?",
-            "content": "<p><strong>Entretien</strong></p><ul><li><strong>Nettoyage courant :</strong> essuyer avec un <strong>chiffon doux légèrement humide</strong>. Savon neutre si besoin, puis <strong>sécher immédiatement</strong>.</li><li><strong>À éviter :</strong> <strong>lavage en machine</strong>, <strong>lave-vaisselle</strong>, <strong>trempage</strong>, produits abrasifs ou javel → risquent d’abîmer la surface et les aimants.</li></ul>"
+            "content": "<p></p><ul><li><strong>Nettoyage courant :</strong> essuyer avec un <strong>chiffon doux légèrement humide</strong>. Savon neutre si besoin, puis <strong>sécher immédiatement</strong>.</li><li><strong>À éviter :</strong> <strong>lavage en machine</strong>, <strong>lave-vaisselle</strong>, <strong>trempage</strong>, produits abrasifs ou javel → risquent d’abîmer la surface et les aimants.</li></ul>"
           }
         },
         "item_U9WJmX": {
@@ -597,6 +632,7 @@
     "rich_text_FGWDF4",
     "multi_column_eEHEzm",
     "featured_product_bVMhaf",
+    "rich_text_eNhiWm",
     "multi_column_YtVc6P",
     "faq_7CF8UR",
     "175857422880005a0f"
