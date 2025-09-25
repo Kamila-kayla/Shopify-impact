@@ -282,6 +282,10 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "quantity_selector_YmC8Rj": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "liquid_AHtMDR": {
           "type": "liquid",
           "settings": {
@@ -331,10 +335,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_YmC8Rj": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_CkFxgD": {
           "type": "buy_buttons",
           "settings": {
@@ -365,13 +365,13 @@
         "rating_gHky4c",
         "separator_JFc4dX",
         "kaching_bundles_app_block_V6mi69",
+        "quantity_selector_YmC8Rj",
         "liquid_AHtMDR",
         "collapsible_text_gMhXLe",
         "collapsible_text_9ViQiw",
         "collapsible_text_MDiDDJ",
         "collapsible_text_mmfmg6",
         "variant_picker_pkHLwj",
-        "quantity_selector_YmC8Rj",
         "buy_buttons_CkFxgD",
         "essential_countdown_timer_app_block_GwUFa8",
         "pickup_availability_hEMymd"
