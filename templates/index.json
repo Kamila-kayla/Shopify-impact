@@ -520,6 +520,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_gLJhzc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_7CF8UR": {
       "type": "faq",
       "blocks": {
@@ -635,6 +648,7 @@
     "image_with_text_overlay_Cmqan7",
     "rich_text_eNhiWm",
     "multi_column_YtVc6P",
+    "custom_liquid_gLJhzc",
     "faq_7CF8UR",
     "175857422880005a0f"
   ]
