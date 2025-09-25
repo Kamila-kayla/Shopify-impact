@@ -346,6 +346,12 @@
             "payment_button_text_color": ""
           }
         },
+        "essential_countdown_timer_app_block_GwUFa8": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmfzx3gjy00a9rl3s9abks5tz"
+          }
+        },
         "pickup_availability_hEMymd": {
           "type": "pickup_availability",
           "settings": {}
@@ -367,6 +373,7 @@
         "variant_picker_pkHLwj",
         "quantity_selector_YmC8Rj",
         "buy_buttons_CkFxgD",
+        "essential_countdown_timer_app_block_GwUFa8",
         "pickup_availability_hEMymd"
       ],
       "settings": {
@@ -385,23 +392,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "image_with_text_overlay_Cmqan7": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/OK.png",
-        "mobile_image": "shopify://shop_images/OK.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "rich_text_eNhiWm": {
@@ -645,7 +635,6 @@
     "rich_text_FGWDF4",
     "multi_column_eEHEzm",
     "featured_product_bVMhaf",
-    "image_with_text_overlay_Cmqan7",
     "rich_text_eNhiWm",
     "multi_column_YtVc6P",
     "custom_liquid_gLJhzc",
