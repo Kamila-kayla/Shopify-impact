@@ -15,8 +15,8 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bannier_valide.png",
-            "mobile_image": "shopify://shop_images/bannier_valide.png",
+            "image": "shopify://shop_images/bannier_sans_logo.png",
+            "mobile_image": "shopify://shop_images/bannier_sans_logo.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
@@ -300,7 +300,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Pour qui   ❓",
-            "content": "<p><strong>Pour qui ?</strong></p><ul><li><strong>À partir de 36 mois</strong>, <strong>sous la surveillance d’un adulte</strong>.</li><li>Idéal de <strong>3 à 10 ans</strong>, mais <strong>sans limite d’âge </strong>le jeu est <strong>évolutif</strong> et reste fun pour les plus grands.</li><li><strong>Solo ou en famille</strong> : c’est tellement <strong>créatif</strong> que <strong>tout le monde va adorer</strong> (parents, fratrie, grands-parents).</li><li>À la maison, chez mamie, au resto , au parc </li></ul>",
+            "content": "<p>À partir de 36 mois (sous surveillance). Mais MagniCube n’a pas d’âge : petits, grands, parents et même grands-parents adorent s’y prêter au jeu.</p><p>C’est bien plus qu’un jouet : c’est une expérience familiale qui rapproche et nourrit la créativité de tous.</p>",
             "page": ""
           }
         },
@@ -316,7 +316,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Satisfait ou remboursé  ✅ ",
-            "content": "<p>Offrez à vos enfants de quoi <strong>déployer leur imagination</strong>, structurer leur<strong>logique</strong>et<strong>renforcer leur confiance</strong>avec<strong>MagniCube</strong>, nos blocs aimantés.<br/>Et si,<strong>sous 30 jours</strong>, MagniCube n’apporte pas les<strong>résultats attendus</strong>, renvoyez-le : nous<strong>remboursons</strong>simplement.</p>",
+            "content": "<p>Essayez MagniCube sans risque. Si vous estimez qu’il n’a pas transformé le jeu de vos enfants, vous nous le retournez simplement et nous vous remboursons.</p>",
             "page": ""
           }
         },
