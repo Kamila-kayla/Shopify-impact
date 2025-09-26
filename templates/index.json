@@ -346,10 +346,6 @@
           "settings": {
             "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cmfzx3gjy00a9rl3s9abks5tz\"></div>"
           }
-        },
-        "pickup_availability_hEMymd": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
@@ -368,8 +364,7 @@
         "collapsible_text_mmfmg6",
         "buy_buttons_CkFxgD",
         "essential_countdown_timer_app_block_XA8ERi",
-        "liquid_a8GrMe",
-        "pickup_availability_hEMymd"
+        "liquid_a8GrMe"
       ],
       "settings": {
         "full_width": true,
