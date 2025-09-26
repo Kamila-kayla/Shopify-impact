@@ -303,6 +303,12 @@
             "payment_button_text_color": ""
           }
         },
+        "essential_countdown_timer_app_block_hEwiaQ": {
+          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmfzx3gjy00a9rl3s9abks5tz"
+          }
+        },
         "liquid_HwtGRt": {
           "type": "liquid",
           "settings": {
@@ -374,6 +380,7 @@
         "quantity_selector_YmC8Rj",
         "liquid_AHtMDR",
         "buy_buttons_CkFxgD",
+        "essential_countdown_timer_app_block_hEwiaQ",
         "liquid_HwtGRt",
         "image_nUKBzC",
         "image_iXaAtc",
