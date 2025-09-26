@@ -70,6 +70,11 @@
         "type": "shopify://apps/essential-countdown-timer/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "17812269115532800475": {
+        "type": "shopify://apps/happy-bundle/blocks/happybundle/8ceef69e-da6d-41b3-b3df-da594ea51f34",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
