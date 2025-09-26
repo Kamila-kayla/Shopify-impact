@@ -340,12 +340,6 @@
           "settings": {
             "id": "cmfzx3gjy00a9rl3s9abks5tz"
           }
-        },
-        "liquid_a8GrMe": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cmfzx3gjy00a9rl3s9abks5tz\"></div>"
-          }
         }
       },
       "block_order": [
@@ -363,8 +357,7 @@
         "collapsible_text_MDiDDJ",
         "collapsible_text_mmfmg6",
         "buy_buttons_CkFxgD",
-        "essential_countdown_timer_app_block_XA8ERi",
-        "liquid_a8GrMe"
+        "essential_countdown_timer_app_block_XA8ERi"
       ],
       "settings": {
         "full_width": true,
