@@ -330,12 +330,6 @@
             "max_width": 150
           }
         },
-        "essential_countdown_timer_app_block_XA8ERi": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmfzx3gjy00a9rl3s9abks5tz"
-          }
-        },
         "collapsible_text_gMhXLe": {
           "type": "collapsible_text",
           "settings": {
@@ -384,7 +378,6 @@
         "liquid_HwtGRt",
         "image_nUKBzC",
         "image_iXaAtc",
-        "essential_countdown_timer_app_block_XA8ERi",
         "collapsible_text_gMhXLe",
         "collapsible_text_9ViQiw",
         "collapsible_text_MDiDDJ",
