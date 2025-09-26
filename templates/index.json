@@ -341,10 +341,10 @@
             "id": "cmfzx3gjy00a9rl3s9abks5tz"
           }
         },
-        "essential_countdown_timer_app_block_GwUFa8": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "liquid_a8GrMe": {
+          "type": "liquid",
           "settings": {
-            "id": "cmfzx3gjy00a9rl3s9abks5tz"
+            "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cmfzx3gjy00a9rl3s9abks5tz\"></div>"
           }
         },
         "pickup_availability_hEMymd": {
@@ -368,7 +368,7 @@
         "collapsible_text_mmfmg6",
         "buy_buttons_CkFxgD",
         "essential_countdown_timer_app_block_XA8ERi",
-        "essential_countdown_timer_app_block_GwUFa8",
+        "liquid_a8GrMe",
         "pickup_availability_hEMymd"
       ],
       "settings": {
