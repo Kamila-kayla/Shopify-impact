@@ -324,17 +324,6 @@
             "page": ""
           }
         },
-        "variant_picker_pkHLwj": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
         "buy_buttons_CkFxgD": {
           "type": "buy_buttons",
           "settings": {
@@ -371,7 +360,6 @@
         "collapsible_text_9ViQiw",
         "collapsible_text_MDiDDJ",
         "collapsible_text_mmfmg6",
-        "variant_picker_pkHLwj",
         "buy_buttons_CkFxgD",
         "essential_countdown_timer_app_block_GwUFa8",
         "pickup_availability_hEMymd"
