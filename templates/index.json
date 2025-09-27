@@ -257,7 +257,7 @@
         "image_ec8y6Q": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Promo_magnicube.png",
+            "image": "shopify://shop_images/black_friday.png",
             "alignment": "center",
             "max_width": 450
           }
