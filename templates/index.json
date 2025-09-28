@@ -254,81 +254,6 @@
         "text_color": ""
       }
     },
-    "multi_column_eEHEzm": {
-      "type": "multi-column",
-      "blocks": {
-        "item_tt8b3w": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video magnicube 3 -2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_m9YQwP": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/Video magnicube 2 -2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3Lnftf": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video magnicub 1 -2.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TQ9DHF": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video magneticube 6.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_tt8b3w",
-        "item_m9YQwP",
-        "item_3Lnftf",
-        "item_TQ9DHF"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_bVMhaf": {
       "type": "featured-product",
       "blocks": {
@@ -517,6 +442,81 @@
         "text_color": ""
       }
     },
+    "multi_column_eEHEzm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tt8b3w": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video magnicube 3 -2.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_m9YQwP": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Video magnicube 2 -2.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3Lnftf": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video magnicub 1 -2.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TQ9DHF": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video magneticube 6.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tt8b3w",
+        "item_m9YQwP",
+        "item_3Lnftf",
+        "item_TQ9DHF"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "17588822134ae80b7e": {
       "type": "apps",
       "settings": {
@@ -652,9 +652,9 @@
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
     "multi_column_YtVc6P",
-    "multi_column_eEHEzm",
     "featured_product_bVMhaf",
     "rich_text_eNhiWm",
+    "multi_column_eEHEzm",
     "17588822134ae80b7e",
     "custom_liquid_gLJhzc",
     "faq_7CF8UR",
