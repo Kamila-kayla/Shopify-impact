@@ -308,12 +308,6 @@
             "liquid": ""
           }
         },
-        "liquid_qHmAb8": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .low-stock-fixed {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 8px 0;\n    font-weight: 700;\n    font-size: 14px;\n    color: #C62828; /* rouge */\n  }\n  .low-stock-fixed__dot {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background:#FF3B30;\n    box-shadow: 0 0 0 3px rgba(255,59,48,.15);\n    animation: pulse-dot 1.6s infinite;\n    display:inline-block;\n  }\n  @keyframes pulse-dot {\n    0% { box-shadow: 0 0 0 0 rgba(255,59,48,.35); }\n    70% { box-shadow: 0 0 0 8px rgba(255,59,48,0); }\n    100% { box-shadow: 0 0 0 0 rgba(255,59,48,0); }\n  }\n</style>\n\n<div class=\"low-stock-fixed\">\n  <span class=\"low-stock-fixed__dot\" aria-hidden=\"true\"></span>\n  <span class=\"low-stock-fixed__text\">PLUS QUE 4 EN STOCK</span>\n</div>"
-          }
-        },
         "buy_buttons_4PVhfm": {
           "type": "buy_buttons",
           "settings": {
@@ -325,15 +319,21 @@
             "payment_button_text_color": ""
           }
         },
+        "badges_exEj9L": {
+          "type": "badges",
+          "settings": {}
+        },
+        "liquid_qHmAb8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .low-stock-fixed {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 8px 0;\n    font-weight: 700;\n    font-size: 14px;\n    color: #C62828; /* rouge */\n  }\n  .low-stock-fixed__dot {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background:#FF3B30;\n    box-shadow: 0 0 0 3px rgba(255,59,48,.15);\n    animation: pulse-dot 1.6s infinite;\n    display:inline-block;\n  }\n  @keyframes pulse-dot {\n    0% { box-shadow: 0 0 0 0 rgba(255,59,48,.35); }\n    70% { box-shadow: 0 0 0 8px rgba(255,59,48,0); }\n    100% { box-shadow: 0 0 0 0 rgba(255,59,48,0); }\n  }\n</style>\n\n<div class=\"low-stock-fixed\">\n  <span class=\"low-stock-fixed__dot\" aria-hidden=\"true\"></span>\n  <span class=\"low-stock-fixed__text\">PLUS QUE 4 EN STOCK</span>\n</div>"
+          }
+        },
         "liquid_NKUrFp": {
           "type": "liquid",
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
-        },
-        "badges_exEj9L": {
-          "type": "badges",
-          "settings": {}
         },
         "rating_47yrny": {
           "type": "rating",
@@ -360,10 +360,10 @@
         "text_3CXrpi",
         "kaching_bundles_app_block_GEfBKM",
         "liquid_J6df3D",
-        "liquid_qHmAb8",
         "buy_buttons_4PVhfm",
-        "liquid_NKUrFp",
         "badges_exEj9L",
+        "liquid_qHmAb8",
+        "liquid_NKUrFp",
         "rating_47yrny",
         "separator_feUyyY",
         "quantity_selector_cUbNVj",
