@@ -302,6 +302,18 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "liquid_J6df3D": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_qHmAb8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .low-stock-fixed {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 8px 0;\n    font-weight: 700;\n    font-size: 14px;\n    color: #C62828; /* rouge */\n  }\n  .low-stock-fixed__dot {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background:#FF3B30;\n    box-shadow: 0 0 0 3px rgba(255,59,48,.15);\n    animation: pulse-dot 1.6s infinite;\n    display:inline-block;\n  }\n  @keyframes pulse-dot {\n    0% { box-shadow: 0 0 0 0 rgba(255,59,48,.35); }\n    70% { box-shadow: 0 0 0 8px rgba(255,59,48,0); }\n    100% { box-shadow: 0 0 0 0 rgba(255,59,48,0); }\n  }\n</style>\n\n<div class=\"low-stock-fixed\">\n  <span class=\"low-stock-fixed__dot\" aria-hidden=\"true\"></span>\n  <span class=\"low-stock-fixed__text\">PLUS QUE 4 EN STOCK</span>\n</div>"
+          }
+        },
         "buy_buttons_4PVhfm": {
           "type": "buy_buttons",
           "settings": {
@@ -347,6 +359,8 @@
         "text_NTC3Hw",
         "text_3CXrpi",
         "kaching_bundles_app_block_GEfBKM",
+        "liquid_J6df3D",
+        "liquid_qHmAb8",
         "buy_buttons_4PVhfm",
         "liquid_NKUrFp",
         "badges_exEj9L",
