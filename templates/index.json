@@ -278,6 +278,12 @@
     "featured_product_EKrMin": {
       "type": "featured-product",
       "blocks": {
+        "liquid_d9MqeH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  /* -------- Rating badge (scopé) -------- */\n  .mc-rating-badge {\n    display:flex;\n    align-items:center;\n    gap:.75rem;\n    padding:.4rem 0;\n    font-family: var(--font-body, Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif);\n    line-height:1.2;\n  }\n  .mc-rating-badge .mc-stars {\n    display:flex;\n    gap:.25rem;\n  }\n  .mc-rating-badge .mc-star {\n    width:22px; height:22px; flex:0 0 22px;\n  }\n  .mc-rating-badge .mc-text {\n    font-size:1rem; color: #111827; /* gris très foncé */\n  }\n  .mc-rating-badge .mc-text strong { font-weight: 700; }\n  @media (prefers-color-scheme: dark){\n    .mc-rating-badge .mc-text{ color:#F9FAFB; }\n  }\n</style>\n\n<div class=\"mc-rating-badge\" role=\"group\" aria-label=\"Note moyenne 4,7 sur 5\">\n  <div class=\"mc-stars\" aria-hidden=\"true\">\n    <!-- 4 étoiles pleines -->\n    {% for i in (1..4) %}\n    <svg class=\"mc-star\" viewBox=\"0 0 24 24\">\n      <path d=\"M12 .587l3.668 7.431 8.2 1.192-5.934 5.786 1.401 8.168L12 18.896l-7.335 3.868 1.401-8.168L.132 9.21l8.2-1.192L12 .587z\" fill=\"#FFC107\"/>\n    </svg>\n    {% endfor %}\n    <!-- 1 demi-étoile -->\n    <svg class=\"mc-star\" viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n      <defs>\n        <linearGradient id=\"mc-half-gold\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n          <stop offset=\"50%\" stop-color=\"#FFC107\"/>\n          <stop offset=\"50%\" stop-color=\"#E5E7EB\"/>\n        </linearGradient>\n      </defs>\n      <path d=\"M12 .587l3.668 7.431 8.2 1.192-5.934 5.786 1.401 8.168L12 18.896l-7.335 3.868 1.401-8.168L.132 9.21l8.2-1.192L12 .587z\" fill=\"url(#mc-half-gold)\"/>\n    </svg>\n  </div>\n\n  <div class=\"mc-text\">\n    Noté <strong>4,7/5</strong> par <strong>+750</strong> parents heureux\n  </div>\n</div>"
+          }
+        },
         "text_NTC3Hw": {
           "type": "text",
           "settings": {
@@ -337,6 +343,7 @@
         }
       },
       "block_order": [
+        "liquid_d9MqeH",
         "text_NTC3Hw",
         "text_3CXrpi",
         "kaching_bundles_app_block_GEfBKM",
