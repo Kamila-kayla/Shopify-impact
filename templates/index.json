@@ -164,96 +164,6 @@
         "text_color": ""
       }
     },
-    "multi_column_YtVc6P": {
-      "type": "multi-column",
-      "blocks": {
-        "item_NXT8FW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_clients_3.png",
-            "column_size": "3",
-            "title": "Hanna, maman de Noé  ( 5 ans)",
-            "heading_tag": "h5",
-            "content": "<p><em>Mon mari et moi cherchions un jouet qui stimule vraiment notre fils. Là, on voit clairement les progrès : il réfléchit, construit des structures et surtout il est fier de lui. C’est à la fois un jeu et un outil éducatif. </em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RBLPNn": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_clients_4.png",
-            "column_size": "3",
-            "title": "Julie, maman de Sarah (9 ans)",
-            "heading_tag": "h5",
-            "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_d6tAya": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_clients_6.png",
-            "column_size": "3",
-            "title": "Camille, maman de Mathis (8 ans)",
-            "heading_tag": "h5",
-            "content": "<p><em>J’hésitais à cause du prix, mais quand je vois le temps que mon fils passe dessus plutôt qu’à la tablette, je me dis que c’est le meilleur achat que j’ai fait depuis longtemps. La tranquillité et son sourire n’ont pas de prix. </em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jTwCKh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_clients_5.png",
-            "column_size": "3",
-            "title": "Élodie, maman de Chloé (8 ans)",
-            "heading_tag": "h5",
-            "content": "<p><em>Ma fille passait des heures sur YouTube, je n’arrivais plus à la décrocher… Depuis que j’ai commandé Magnicube, elle préfère inventer ses propres histoires. Elle construit, rit et m’appelle pour me montrer ses créations. J’ai retrouvé ma petite fille créative !</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wVeGwy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Image_clients_1.png",
-            "column_size": "3",
-            "title": "Thomas, papa de Léo (7 ans)",
-            "heading_tag": "h5",
-            "content": "<p><em>J’avais peur que ce soit encore un jouet qui finisse au placard… mais c’est tout l’inverse ! Mon fils s’éclate chaque jour à construire de nouveaux mondes, il ne lâche plus ses cubes. Franchement, pour la joie que je vois dans ses yeux, ça vaut largement l’investissement.</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_NXT8FW",
-        "item_RBLPNn",
-        "item_d6tAya",
-        "item_jTwCKh",
-        "item_wVeGwy"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_eNhiWm": {
       "type": "rich-text",
       "blocks": {
@@ -374,6 +284,96 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_YtVc6P": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NXT8FW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_clients_3.png",
+            "column_size": "3",
+            "title": "Hanna, maman de Noé  ( 5 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>Mon mari et moi cherchions un jouet qui stimule vraiment notre fils. Là, on voit clairement les progrès : il réfléchit, construit des structures et surtout il est fier de lui. C’est à la fois un jeu et un outil éducatif. </em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RBLPNn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_clients_4.png",
+            "column_size": "3",
+            "title": "Julie, maman de Sarah (9 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>Je n’y croyais pas trop… mais depuis qu’on l’a reçu, ma fille demande d’elle-même à poser la tablette pour jouer avec ses cubes. Elle passe des heures à inventer des histoires. Pour moi, c’est un petit miracle.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_d6tAya": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_clients_6.png",
+            "column_size": "3",
+            "title": "Camille, maman de Mathis (8 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>J’hésitais à cause du prix, mais quand je vois le temps que mon fils passe dessus plutôt qu’à la tablette, je me dis que c’est le meilleur achat que j’ai fait depuis longtemps. La tranquillité et son sourire n’ont pas de prix. </em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jTwCKh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_clients_5.png",
+            "column_size": "3",
+            "title": "Élodie, maman de Chloé (8 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>Ma fille passait des heures sur YouTube, je n’arrivais plus à la décrocher… Depuis que j’ai commandé Magnicube, elle préfère inventer ses propres histoires. Elle construit, rit et m’appelle pour me montrer ses créations. J’ai retrouvé ma petite fille créative !</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wVeGwy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Image_clients_1.png",
+            "column_size": "3",
+            "title": "Thomas, papa de Léo (7 ans)",
+            "heading_tag": "h5",
+            "content": "<p><em>J’avais peur que ce soit encore un jouet qui finisse au placard… mais c’est tout l’inverse ! Mon fils s’éclate chaque jour à construire de nouveaux mondes, il ne lâche plus ses cubes. Franchement, pour la joie que je vois dans ses yeux, ça vaut largement l’investissement.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NXT8FW",
+        "item_RBLPNn",
+        "item_d6tAya",
+        "item_jTwCKh",
+        "item_wVeGwy"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -517,11 +517,11 @@
     "rich_text_EmdaX3",
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
-    "multi_column_YtVc6P",
     "rich_text_eNhiWm",
     "multi_column_eEHEzm",
     "17588822134ae80b7e",
     "custom_liquid_gLJhzc",
+    "multi_column_YtVc6P",
     "faq_7CF8UR",
     "175913985394721745",
     "175857422880005a0f"
