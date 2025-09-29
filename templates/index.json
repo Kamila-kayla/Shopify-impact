@@ -15,8 +15,8 @@
         "image_Yc7xFr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bannier_sans_logo.png",
-            "mobile_image": "shopify://shop_images/bannier_sans_logo.png",
+            "image": "shopify://shop_images/pixel.png",
+            "mobile_image": "shopify://shop_images/pixel.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-start-center sm:text-center",
@@ -129,8 +129,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/vos_enfants.png",
-        "mobile_image": "shopify://shop_images/vos_enfants.png",
+        "image": "shopify://shop_images/new_site_ce05df41-a016-4903-a030-9d53b5997510.png",
+        "mobile_image": "shopify://shop_images/new_site_ce05df41-a016-4903-a030-9d53b5997510.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -278,16 +278,16 @@
     "featured_product_EKrMin": {
       "type": "featured-product",
       "blocks": {
-        "kaching_bundles_app_block_GEfBKM": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "title_DLiJVn": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
+          }
+        },
+        "kaching_bundles_app_block_GEfBKM": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
           }
         },
         "badges_exEj9L": {
@@ -314,8 +314,8 @@
         }
       },
       "block_order": [
-        "kaching_bundles_app_block_GEfBKM",
         "title_DLiJVn",
+        "kaching_bundles_app_block_GEfBKM",
         "badges_exEj9L",
         "rating_47yrny",
         "separator_feUyyY",
