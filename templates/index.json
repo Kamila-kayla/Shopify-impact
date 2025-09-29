@@ -254,168 +254,6 @@
         "text_color": ""
       }
     },
-    "featured_product_bVMhaf": {
-      "type": "featured-product",
-      "blocks": {
-        "title_Bp84dw": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h4"
-          }
-        },
-        "liquid_pE3RTc": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Avis Trustpilot</title>\n  <style>\n    .trustpilot-banner {\n      background-color: #f7f7f7;\n      padding: 12px 20px;\n      border-radius: 8px;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      font-family: 'Poppins', sans-serif;\n      box-shadow: 0 0 8px rgba(0,0,0,0.05);\n    }\n    .trustpilot-banner img {\n      display: inline-block;\n      vertical-align: middle;\n    }\n    .trustpilot-stars {\n      width: 100px;\n      margin: 0 10px;\n    }\n    .trustpilot-logo {\n      width: 90px;\n      margin-left: 8px;\n    }\n    .trustpilot-text {\n      color: #111;\n      font-size: 14px;\n      font-weight: 500;\n    }\n    .trustpilot-text span {\n      color: #00b67a;\n      font-weight: 600;\n    }\n  </style>\n</head>\n<body>\n  <div class=\"trustpilot-banner\">\n    <span class=\"trustpilot-text\">Note moyenne : <span>4,7/5</span> sur</span>\n    <img class=\"trustpilot-stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"Étoiles Trustpilot\">\n    <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot\">\n  </div>\n</body>\n</html>"
-          }
-        },
-        "image_ec8y6Q": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/black_friday.png",
-            "alignment": "center",
-            "max_width": 450
-          }
-        },
-        "badges_nPTJWP": {
-          "type": "badges",
-          "settings": {}
-        },
-        "rating_gHky4c": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_JFc4dX": {
-          "type": "separator",
-          "settings": {}
-        },
-        "kaching_bundles_app_block_V6mi69": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "quantity_selector_YmC8Rj": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "liquid_AHtMDR": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!-- LOW STOCK BADGE — \"Plus que 4 en stock\" -->\n<div class=\"lowstock-badge\" role=\"status\" aria-live=\"polite\">\n  <span class=\"lowstock-dot\" aria-hidden=\"true\"></span>\n  <span class=\"lowstock-text\"> \nPlus que 4 en stock </span>\n</div>\n\n<style>\n  .lowstock-badge{\n    display:inline-flex; align-items:center; gap:10px;\n    font-weight:700; color:#111; /* texte noir */\n    font-size:14px; line-height:1.2;\n  }\n  .lowstock-dot{\n    width:10px; height:10px; border-radius:50%;\n    background:#FF3B30; /* rouge */\n    position:relative;\n    box-shadow:0 0 0 0 rgba(255,59,48,.55);\n    animation:lowstock-pulse 1.6s ease-out infinite;\n  }\n  .lowstock-dot::after{\n    content:\"\"; position:absolute; inset:-3px; border-radius:50%;\n    box-shadow:0 0 8px rgba(255,59,48,.9);\n    animation:lowstock-glow 1.2s ease-in-out infinite alternate;\n  }\n  @keyframes lowstock-pulse{\n    0%{ box-shadow:0 0 0 0 rgba(255,59,48,.55); }\n    70%{ box-shadow:0 0 0 10px rgba(255,59,48,0); }\n    100%{ box-shadow:0 0 0 0 rgba(255,59,48,0); }\n  }\n  @keyframes lowstock-glow{\n    from{ opacity:.6; } to{ opacity:1; }\n  }\n  @media (prefers-reduced-motion: reduce){\n    .lowstock-dot, .lowstock-dot::after{ animation:none; }\n  }\n</style>"
-          }
-        },
-        "buy_buttons_CkFxgD": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#56a115",
-            "atc_button_text_color": "#1a1a1a",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "essential_countdown_timer_app_block_hEwiaQ": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmfzx3gjy00a9rl3s9abks5tz"
-          }
-        },
-        "liquid_HwtGRt": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
-          }
-        },
-        "image_nUKBzC": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/badge_confianc_CTA_2aeb0804-ee7d-4ed3-8e81-e2ee8048b4a5.png",
-            "alignment": "center",
-            "max_width": 470
-          }
-        },
-        "image_iXaAtc": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
-          }
-        },
-        "collapsible_text_gMhXLe": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Ce qui est inclus  🎁",
-            "content": "<ul><li><strong>PACK DÉCOUVERTE   60 pièces . </strong>Pour découvrir MagniCube pas à pas. Parfait pour se lancer et développer rapidement précision, concentration et imagination. Adapté pour les séances courtes mais intenses.</li></ul><p></p><ul><li><strong>PACK CREATIF 100 pièces .</strong>Un univers sans limite : plus de blocs, plus de possibilités, plus de complicité. Idéal pour les fratries, les enfants plus âgés ou ceux qui veulent aller encore plus loin dans leurs créations.</li></ul>",
-            "page": ""
-          }
-        },
-        "collapsible_text_9ViQiw": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Pour qui   ❓",
-            "content": "<p>À partir de 36 mois (sous surveillance). Mais MagniCube n’a pas d’âge : petits, grands, parents et même grands-parents adorent s’y prêter au jeu.</p><p>C’est bien plus qu’un jouet : c’est une expérience familiale qui rapproche et nourrit la créativité de tous.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_MDiDDJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Livraison  🚚",
-            "content": "<p>Commandez aujourd’hui, recevez sous 7–10 jours, sans frais de livraison.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_mmfmg6": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Satisfait ou remboursé  ✅ ",
-            "content": "<p>Essayez MagniCube sans risque. Si vous estimez qu’il n’a pas transformé le jeu de vos enfants, vous nous le retournez simplement et nous vous remboursons.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "title_Bp84dw",
-        "liquid_pE3RTc",
-        "image_ec8y6Q",
-        "badges_nPTJWP",
-        "rating_gHky4c",
-        "separator_JFc4dX",
-        "kaching_bundles_app_block_V6mi69",
-        "quantity_selector_YmC8Rj",
-        "liquid_AHtMDR",
-        "buy_buttons_CkFxgD",
-        "essential_countdown_timer_app_block_hEwiaQ",
-        "liquid_HwtGRt",
-        "image_nUKBzC",
-        "image_iXaAtc",
-        "collapsible_text_gMhXLe",
-        "collapsible_text_9ViQiw",
-        "collapsible_text_MDiDDJ",
-        "collapsible_text_mmfmg6"
-      ],
-      "settings": {
-        "full_width": true,
-        "product": "magnicube",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "rich_text_eNhiWm": {
       "type": "rich-text",
       "blocks": {
@@ -633,6 +471,34 @@
         "accordion_text_color": ""
       }
     },
+    "175913985394721745": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_8yVr3B": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "magnicubebuilding",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1800,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_8yVr3B"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175857422880005a0f": {
       "type": "apps",
       "settings": {
@@ -652,12 +518,12 @@
     "image_with_text_overlay_N8XDmX",
     "rich_text_FGWDF4",
     "multi_column_YtVc6P",
-    "featured_product_bVMhaf",
     "rich_text_eNhiWm",
     "multi_column_eEHEzm",
     "17588822134ae80b7e",
     "custom_liquid_gLJhzc",
     "faq_7CF8UR",
+    "175913985394721745",
     "175857422880005a0f"
   ]
 }
