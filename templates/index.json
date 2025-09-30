@@ -274,7 +274,7 @@
         "text_NTC3Hw": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Et si votre enfant construisait SON univers pixelisé… loin des écrans et 100% éducatif ?</strong></h3>"
+            "text": "<h3><strong>Et si votre enfant construisait SON univers pixelisé… loin des écrans et 100% éducatif ? </strong></h3>"
           }
         },
         "text_3CXrpi": {
@@ -391,7 +391,7 @@
         "text_a3eXit": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4>+ 12000 familles convaincues par MagniCube.</h4>"
+            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4></h4>"
           }
         }
       },
