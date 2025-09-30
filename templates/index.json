@@ -358,6 +358,14 @@
             "page": ""
           }
         },
+        "collapsible_text_CmpQMW": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Expédition",
+            "content": "<p>La livraison est <strong>gratuite </strong>expédiée sous <strong>24/48H ouvrées</strong>, <br/>En moyenne, vous recevez votre colis sous <strong>7 à 9 jours ouvrés</strong></p>",
+            "page": ""
+          }
+        },
         "rating_47yrny": {
           "type": "rating",
           "settings": {
@@ -394,6 +402,7 @@
         "collapsible_text_qg3THr",
         "collapsible_text_E6X8aq",
         "collapsible_text_Bbrq8H",
+        "collapsible_text_CmpQMW",
         "rating_47yrny",
         "separator_feUyyY",
         "pickup_availability_VpRHmY",
