@@ -274,13 +274,13 @@
         "text_NTC3Hw": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Et si votre enfant construisait SON univers pixelisé… loin des écrans et 100% éducatif ? </strong></h3>"
+            "text": "<h3><strong>Et si votre enfant créait SON univers pixelisé… loin des écrans, 100% fun et éducatif</strong></h3>"
           }
         },
         "text_3CXrpi": {
           "type": "text",
           "settings": {
-            "text": "<h3></h3><ul><li><h4>Moins d’écrans, moins de conflits </h4></li><li><h4> Blocs magnétiques solides & sûrs </h4></li><li><h4>Jouer, c’est apprendre </h4></li><li><h4>Un vrai moment familial</h4></li><li><h4>Sécurité & qualité française</h4></li></ul>"
+            "text": "<ul><li><strong>Moins d’écrans, plus de sérénité à la maison</strong></li><li><strong>Blocs magnétiques sûrs & ultra solides</strong></li><li><strong>Jouer, c’est apprendre sans s’en rendre compte</strong></li><li><strong>Des instants familiaux qui rapprochent</strong></li><li><strong>Sécurité & qualité française garanties</strong></li></ul>"
           }
         },
         "kaching_bundles_app_block_GEfBKM": {
@@ -391,7 +391,7 @@
         "text_a3eXit": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4></h4>"
+            "text": "<h4><strong>Les enfants ne s’en lassent pas, les parents en parlent avec fierté</strong></h4><h4></h4>"
           }
         }
       },
