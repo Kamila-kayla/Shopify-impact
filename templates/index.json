@@ -262,19 +262,6 @@
         "text_color": ""
       }
     },
-    "custom_liquid_gLJhzc": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_product_EKrMin": {
       "type": "featured-product",
       "blocks": {
@@ -323,10 +310,22 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_AQXpza": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_qHmAb8": {
           "type": "liquid",
           "settings": {
             "liquid": "<style>\n  .low-stock-fixed {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    margin: 8px 0;\n    font-weight: 700;\n    font-size: 14px;\n    color: #C62828; /* rouge */\n  }\n  .low-stock-fixed__dot {\n    width: 10px;\n    height: 10px;\n    border-radius: 50%;\n    background:#FF3B30;\n    box-shadow: 0 0 0 3px rgba(255,59,48,.15);\n    animation: pulse-dot 1.6s infinite;\n    display:inline-block;\n  }\n  @keyframes pulse-dot {\n    0% { box-shadow: 0 0 0 0 rgba(255,59,48,.35); }\n    70% { box-shadow: 0 0 0 8px rgba(255,59,48,0); }\n    100% { box-shadow: 0 0 0 0 rgba(255,59,48,0); }\n  }\n</style>\n\n<div class=\"low-stock-fixed\">\n  <span class=\"low-stock-fixed__dot\" aria-hidden=\"true\"></span>\n  <span class=\"low-stock-fixed__text\">PLUS QUE 4 EN STOCK</span>\n</div>"
+          }
+        },
+        "liquid_g8d9Xw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"sales-pop\" style=\"display:flex;align-items:center;background:#00e676;border-radius:30px;padding:8px 14px;font-family:'Arial',sans-serif;max-width:460px;box-shadow:0 2px 8px rgba(0,0,0,0.15);\">\n  <!-- Avatars -->\n  <div style=\"display:flex;align-items:center;\">\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/44.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/32.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/65.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/12.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;\">\n      <img src=\"https://randomuser.me/api/portraits/women/22.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n  </div>\n\n  <!-- Texte -->\n  <div style=\"margin-left:14px;color:#000;font-size:17px;font-weight:bold;line-height:1.2;\">\n    <span id=\"order-count\">+93</span> commandes <br>\n    <span style=\"font-size:14px;font-weight:normal;\">dans les dernières 24h</span>\n  </div>\n</div>\n\n<script>\n  // Compteur dynamique\n  let orders = 93;\n  setInterval(() => {\n    orders++;\n    document.getElementById(\"order-count\").innerText = \"+\" + orders;\n  }, 30000); // incrémente toutes les 30s\n</script>"
           }
         },
         "liquid_NKUrFp": {
@@ -358,7 +357,9 @@
         "liquid_J6df3D",
         "badges_exEj9L",
         "buy_buttons_4PVhfm",
+        "liquid_AQXpza",
         "liquid_qHmAb8",
+        "liquid_g8d9Xw",
         "liquid_NKUrFp",
         "rating_47yrny",
         "separator_feUyyY",
@@ -614,7 +615,6 @@
     "rich_text_eNhiWm",
     "multi_column_eEHEzm",
     "17588822134ae80b7e",
-    "custom_liquid_gLJhzc",
     "featured_product_EKrMin",
     "multi_column_YtVc6P",
     "faq_7CF8UR",
