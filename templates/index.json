@@ -310,6 +310,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_NKUrFp": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
         "liquid_AQXpza": {
           "type": "liquid",
           "settings": {
@@ -326,12 +332,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div id=\"sales-pop\" style=\"display:flex;align-items:center;background:#00e676;border-radius:30px;padding:8px 14px;font-family:'Arial',sans-serif;max-width:460px;box-shadow:0 2px 8px rgba(0,0,0,0.15);\">\n  <!-- Avatars -->\n  <div style=\"display:flex;align-items:center;\">\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/44.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/32.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/65.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/12.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;\">\n      <img src=\"https://randomuser.me/api/portraits/women/22.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n  </div>\n\n  <!-- Texte -->\n  <div style=\"margin-left:14px;color:#000;font-size:17px;font-weight:bold;line-height:1.2;\">\n    <span id=\"order-count\">+93</span> commandes <br>\n    <span style=\"font-size:14px;font-weight:normal;\">dans les dernières 24h</span>\n  </div>\n</div>\n\n<script>\n  // Compteur dynamique\n  let orders = 93;\n  setInterval(() => {\n    orders++;\n    document.getElementById(\"order-count\").innerText = \"+\" + orders;\n  }, 30000); // incrémente toutes les 30s\n</script>"
-          }
-        },
-        "liquid_NKUrFp": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Payment Options</title>\n    <style>\n        body.unique-body-Pay123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n        .unique-payment-container-Xyz456 {\n            text-align: center;\n        }\n        .unique-payment-options-Abc789 {\n            display: flex;\n            justify-content: center;\n            gap: 10px;\n        }\n        .unique-payment-options-Abc789 img {\n            width: 50px;\n            height: auto;\n        }\n    </style>\n</head>\n<body class=\"unique-body-Pay123\">\n    <div class=\"unique-payment-container-Xyz456\">\n        <div class=\"unique-payment-options-Abc789\">\n            <img src=\"https://www.svgrepo.com/show/14823/amex.svg\" alt=\"AMEX\">\n            <img src=\"https://www.svgrepo.com/show/508402/apple-pay.svg\" alt=\"Apple Pay\">\n            <img src=\"https://www.svgrepo.com/show/508703/mastercard.svg\" alt=\"MasterCard\">\n            <img src=\"https://www.svgrepo.com/show/508716/paypal.svg\" alt=\"PayPal\">\n            <img src=\"https://www.svgrepo.com/show/508690/google-pay.svg\" alt=\"Google Pay\">\n            <img src=\"https://www.svgrepo.com/show/508730/visa-classic.svg\" alt=\"VISA\">\n        </div>\n    </div>\n</body>\n</html>"
           }
         },
         "rating_47yrny": {
@@ -357,10 +357,10 @@
         "liquid_J6df3D",
         "badges_exEj9L",
         "buy_buttons_4PVhfm",
+        "liquid_NKUrFp",
         "liquid_AQXpza",
         "liquid_qHmAb8",
         "liquid_g8d9Xw",
-        "liquid_NKUrFp",
         "rating_47yrny",
         "separator_feUyyY",
         "pickup_availability_VpRHmY"
