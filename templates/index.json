@@ -334,6 +334,30 @@
             "liquid": "<div id=\"sales-pop\" style=\"display:flex;align-items:center;background:#00e676;border-radius:30px;padding:8px 14px;font-family:'Arial',sans-serif;max-width:460px;box-shadow:0 2px 8px rgba(0,0,0,0.15);\">\n  <!-- Avatars -->\n  <div style=\"display:flex;align-items:center;\">\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/44.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/32.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/women/65.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;margin-right:-8px;\">\n      <img src=\"https://randomuser.me/api/portraits/men/12.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n    <div style=\"position:relative;\">\n      <img src=\"https://randomuser.me/api/portraits/women/22.jpg\" style=\"width:38px;height:38px;border-radius:50%;border:2px solid #fff;\">\n      <span style=\"position:absolute;bottom:0;right:0;background:#00e676;width:14px;height:14px;border-radius:50%;display:flex;align-items:center;justify-content:center;\">\n        <span style=\"color:white;font-size:10px;\">✔</span>\n      </span>\n    </div>\n  </div>\n\n  <!-- Texte -->\n  <div style=\"margin-left:14px;color:#000;font-size:17px;font-weight:bold;line-height:1.2;\">\n    <span id=\"order-count\">+93</span> commandes <br>\n    <span style=\"font-size:14px;font-weight:normal;\">dans les dernières 24h</span>\n  </div>\n</div>\n\n<script>\n  // Compteur dynamique\n  let orders = 93;\n  setInterval(() => {\n    orders++;\n    document.getElementById(\"order-count\").innerText = \"+\" + orders;\n  }, 30000); // incrémente toutes les 30s\n</script>"
           }
         },
+        "collapsible_text_qg3THr": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Qu’est-ce que STEM ?",
+            "content": "<p>Une méthode d’apprentissage ludique basée sur les sciences, la technologie, l’ingénierie et les maths. Ton enfant apprend en jouant, développe logique, créativité et motricité.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_E6X8aq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Bbrq8H": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
         "rating_47yrny": {
           "type": "rating",
           "settings": {
@@ -347,6 +371,12 @@
         "pickup_availability_VpRHmY": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "text_a3eXit": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4>10 000+ familles convaincues par MagniCube.</h4>"
+          }
         }
       },
       "block_order": [
@@ -361,9 +391,13 @@
         "liquid_AQXpza",
         "liquid_qHmAb8",
         "liquid_g8d9Xw",
+        "collapsible_text_qg3THr",
+        "collapsible_text_E6X8aq",
+        "collapsible_text_Bbrq8H",
         "rating_47yrny",
         "separator_feUyyY",
-        "pickup_availability_VpRHmY"
+        "pickup_availability_VpRHmY",
+        "text_a3eXit"
       ],
       "name": "Featured product",
       "settings": {
