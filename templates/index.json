@@ -337,7 +337,7 @@
         "collapsible_text_qg3THr": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Qu’est-ce que STEM ?",
+            "title": "QU’EST-CE QUE STEM ?",
             "content": "<p>Une méthode d’apprentissage ludique basée sur les sciences, la technologie, l’ingénierie et les maths. Ton enfant apprend en jouant, développe logique, créativité et motricité.</p>",
             "page": ""
           }
@@ -345,16 +345,16 @@
         "collapsible_text_E6X8aq": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "CE QUI EST INCLUS",
+            "content": "<p><strong> Pack Découverte — 48 blocs</strong><br/>Idéal pour commencer. Permet de construire de petites maisons, arbres ou ponts.<br/><strong> Convient dès 3 ans</strong>, parfait pour initier à la créativité et s’éloigner des écrans.</p><p><strong> Pack Explorer — 60 blocs</strong><br/>Un niveau au-dessus ! Plus de pièces pour plus de liberté : lacs, cascades, petits villages.<br/><strong>Recommandé pour stimuler davantage</strong> l’imagination et occuper les enfants plus longtemps.</p><p><strong>Pack Créatif — 100 blocs (Meilleure vente)</strong><br/>Le préféré des familles ! Conçu pour créer des mondes entiers avec maisons, cascades, forêts et personnages.<br/><strong>Parfait pour plusieurs enfants</strong> et des heures de jeu créatif et éducatif.</p>",
             "page": ""
           }
         },
         "collapsible_text_Bbrq8H": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "POUR QUI ?",
+            "content": "<p>Nos blocs magnétiques sont conçus pour tous les enfants à partir de <strong>3 ans</strong>.<br/>Ils stimulent la créativité, la logique et l’imagination.<br/><strong>Pas de limite d’âge : même les parents adorent construire avec leurs enfants !</strong></p>",
             "page": ""
           }
         },
@@ -375,7 +375,7 @@
         "text_a3eXit": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4>10 000+ familles convaincues par MagniCube.</h4>"
+            "text": "<h3><strong>Les enfants en redemandent, les parents recommandent.</strong></h3><h4>+ 10 000 familles convaincues par MagniCube.</h4>"
           }
         }
       },
