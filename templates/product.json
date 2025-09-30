@@ -12,10 +12,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
+        "text_gdGJcA": {
+          "type": "text",
           "settings": {
-            "heading_tag": "h3"
+            "text": "<h3><strong>Et si votre enfant construisait SON univers pixelisé… loin des écrans et 100% éducatif ?</strong></h3>"
+          }
+        },
+        "kaching_bundles_app_block_Eqbe7U": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{product}}"
           }
         },
         "badges": {
@@ -74,7 +80,8 @@
         }
       },
       "block_order": [
-        "title",
+        "text_gdGJcA",
+        "kaching_bundles_app_block_Eqbe7U",
         "badges",
         "rating",
         "payment_terms",
