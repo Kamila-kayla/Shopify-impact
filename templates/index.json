@@ -11,33 +11,6 @@
   "sections": {
     "slideshow_DQa6pf": {
       "type": "slideshow",
-      "blocks": {
-        "image_Yc7xFr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/pixel.png",
-            "mobile_image": "shopify://shop_images/pixel.png",
-            "content_max_width": 400,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h3",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#1a1a1a",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Yc7xFr"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
@@ -49,6 +22,38 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "video_9eUzdU": {
+      "type": "video",
+      "blocks": {
+        "play_JhLN9h": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_yFdtiM": {
+          "type": "heading",
+          "settings": {
+            "text": "De l'univers pixelisé à la vraie vie , construisez un monde sans écran",
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "play_JhLN9h",
+        "heading_yFdtiM"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/banniere flotante.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "logo_list_67Xawq": {
@@ -678,6 +683,7 @@
     }
   },
   "order": [
+    "video_9eUzdU",
     "slideshow_DQa6pf",
     "logo_list_67Xawq",
     "rich_text_EmdaX3",
