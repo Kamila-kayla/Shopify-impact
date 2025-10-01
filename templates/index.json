@@ -387,12 +387,6 @@
         "pickup_availability_VpRHmY": {
           "type": "pickup_availability",
           "settings": {}
-        },
-        "text_a3eXit": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><strong>Les enfants ne s’en lassent pas, les parents en parlent avec fierté</strong></h4><h4></h4>"
-          }
         }
       },
       "block_order": [
@@ -414,8 +408,7 @@
         "collapsible_text_CmpQMW",
         "rating_47yrny",
         "separator_feUyyY",
-        "pickup_availability_VpRHmY",
-        "text_a3eXit"
+        "pickup_availability_VpRHmY"
       ],
       "name": "Featured product",
       "settings": {
@@ -434,6 +427,32 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_fHYQPR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MDpPy4": {
+          "type": "heading",
+          "settings": {
+            "text": "9 parents sur 10 affirment que leur enfant passe moins de temps aux écrans grâce à MagniCube",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_MDpPy4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_YtVc6P": {
@@ -668,6 +687,7 @@
     "multi_column_eEHEzm",
     "17588822134ae80b7e",
     "featured_product_EKrMin",
+    "rich_text_fHYQPR",
     "multi_column_YtVc6P",
     "faq_7CF8UR",
     "175913985394721745",
