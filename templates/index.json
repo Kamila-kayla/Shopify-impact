@@ -89,7 +89,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -301,13 +301,13 @@
         "text_NTC3Hw": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Et si votre enfant créait SON univers pixelisé… loin des écrans, 100% fun et éducatif</strong></h3>"
+            "text": "<h2><strong>Cubes magnétiques façon Minecraft®</strong></h2>"
           }
         },
         "text_3CXrpi": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Moins d’écrans, plus de sérénité à la maison</li><li>Blocs magnétiques sûrs & ultra solides</li><li>Jouer, c’est apprendre sans s’en rendre compte</li><li>Des instants familiaux qui rapprochent</li><li>Sécurité & qualité française garanties</li></ul>"
+            "text": "<p>Moins d’écrans, plus de calme</p><p>Un enfant concentré et apaisé</p><p>Apprendre en jouant </p><p>Des moments complices en famille</p><p>Sécurité & qualité garanties</p>"
           }
         },
         "kaching_bundles_app_block_GEfBKM": {
