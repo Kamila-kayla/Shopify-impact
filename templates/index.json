@@ -56,77 +56,36 @@
         "background_gradient": ""
       }
     },
-    "logo_list_67Xawq": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_YdwCDi": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/montessori_1024.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_HiYrte": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_STEM.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_NYzUfT": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/le_monde_trans.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        },
-        "logo_mgqzaa": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/PARENTOLY.png",
-            "logo_width": 200,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_YdwCDi",
-        "logo_HiYrte",
-        "logo_NYzUfT",
-        "logo_mgqzaa"
-      ],
+    "image_with_text_overlay_3gATi4": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "title": "** Données relayés par la presse santé 2024",
-        "content": "<h4><strong>Approuvé par les experts en pédagogie</strong></h4>",
-        "text_alignment": "center",
-        "items_per_row": 7,
-        "background": "#ffffff",
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/9_parents_sur_10_affirment_que_leur_enfant_passe_moins_de_temps_aux_ecrans_grace_a_MagniCube.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_793QGT": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#1a1a1a",
-        "heading_color": "#ffffff",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
+        "text_color": ""
       }
     },
     "rich_text_qJPxFn": {
       "type": "rich-text",
-      "blocks": {
-        "subheading_AN8GXL": {
-          "type": "subheading",
-          "settings": {
-            "text": "\"9 parents sur 10 affirment que leur enfant passe moins de temps aux écrans grâce à MagniCube\""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_AN8GXL"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -709,7 +668,8 @@
   "order": [
     "video_9eUzdU",
     "slideshow_DQa6pf",
-    "logo_list_67Xawq",
+    "image_with_text_overlay_3gATi4",
+    "rich_text_793QGT",
     "rich_text_qJPxFn",
     "rich_text_EmdaX3",
     "image_with_text_overlay_N8XDmX",
