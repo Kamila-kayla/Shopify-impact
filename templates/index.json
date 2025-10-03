@@ -56,6 +56,46 @@
         "background_gradient": ""
       }
     },
+    "rich_text_RAUjCx": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nReamY": {
+          "type": "subheading",
+          "settings": {
+            "text": "Approuvé par les experts en pédagogie"
+          }
+        },
+        "heading_fCbArV": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_w6mP9a": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nReamY",
+        "heading_fCbArV",
+        "richtext_w6mP9a"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_3gATi4": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -668,6 +708,7 @@
   "order": [
     "video_9eUzdU",
     "slideshow_DQa6pf",
+    "rich_text_RAUjCx",
     "image_with_text_overlay_3gATi4",
     "rich_text_793QGT",
     "rich_text_qJPxFn",
