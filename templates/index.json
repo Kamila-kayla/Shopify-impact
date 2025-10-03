@@ -397,8 +397,8 @@
         "collapsible_text_CmpQMW": {
           "type": "collapsible_text",
           "settings": {
-            "title": "EXPÉDITION",
-            "content": "<p>La livraison est <strong>gratuite </strong>expédiée sous <strong>24/48H ouvrées</strong>, <br/>En moyenne, vous recevez votre colis sous <strong>7 à 9 jours ouvrés</strong></p>",
+            "title": "Expédition",
+            "content": "<p>La livraison est <strong>gratuite </strong>expédiée sous <strong>24/48H ouvrées</strong>, <br/>En moyenne, vous recevez votre colis sous <strong>7 à 10  jours ouvrés</strong></p>",
             "page": ""
           }
         },
